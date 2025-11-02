@@ -2,7 +2,7 @@
 
 Your app is ready to deploy! Here are two ways to deploy to Vercel:
 
-## âœ… Option 1: Using Vercel CLI (Recommended - 2 minutes)
+##  Option 1: Using Vercel CLI (Recommended - 2 minutes)
 
 ### Step 1: Install Vercel CLI
 ```bash
@@ -31,7 +31,7 @@ vercel --prod
 ? Want to modify these settings? [y/N] n
 ```
 
-### âœ… Done!
+###  Done!
 Your app is now live at a URL like: `https://toefl-flashcard-xyz.vercel.app`
 
 ---
@@ -59,12 +59,12 @@ git push -u origin main
 3. Select your repository `toefl-flashcard`
 4. Click "Deploy"
 
-### âœ… Auto-deploy enabled!
+###  Auto-deploy enabled!
 Every time you push to GitHub, Vercel auto-deploys. You can also set preview deployments for pull requests.
 
 ---
 
-## ğŸ” Verify Deployment
+##  Verify Deployment
 
 After deployment, check:
 
@@ -79,21 +79,21 @@ After deployment, check:
 
 ---
 
-## ğŸ“Š What Gets Deployed
+##  What Gets Deployed
 
 The `vercel.json` config automatically:
 - Builds from source: `npm run build`
 - Serves from: `dist/` directory
-- Handles SPA routing (all routes â†’ index.html)
+- Handles SPA routing (all routes †’ index.html)
 - Caches assets efficiently
 
 ---
 
-## ğŸš€ Environment Variables (Optional)
+##  Environment Variables (Optional)
 
 If you add environment variables later:
 
-1. Go to **Project Settings** â†’ **Environment Variables**
+1. Go to **Project Settings** †’ **Environment Variables**
 2. Add your variables
 3. Redeploy: `vercel --prod`
 
@@ -101,7 +101,7 @@ Currently none are needed - the app works with just localStorage!
 
 ---
 
-## ğŸ”„ Redeploy After Changes
+##  Redeploy After Changes
 
 ### Using CLI:
 ```bash
@@ -119,7 +119,7 @@ git push origin main
 
 ---
 
-## ğŸ“ˆ Monitor Your Deployment
+## ˆ Monitor Your Deployment
 
 ### Vercel Dashboard
 - Visit: https://vercel.com/dashboard
@@ -138,7 +138,7 @@ vercel logs [deployment-url]
 
 ---
 
-## âš™ï¸ Troubleshooting
+##  Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -150,7 +150,7 @@ vercel logs [deployment-url]
 
 ---
 
-## ğŸ’¡ Pro Tips
+## ’¡ Pro Tips
 
 1. **Custom Domain**: Add your own domain in Vercel project settings
 2. **Preview URLs**: Every git push creates a preview URL for testing
@@ -160,12 +160,12 @@ vercel logs [deployment-url]
 
 ---
 
-## ğŸ“± Test After Deployment
+##  Test After Deployment
 
 Once live, test:
 - [ ] Home page loads (3 decks visible)
-- [ ] Click deck card â†’ enters practice mode
-- [ ] Click word â†’ flips to show definition
+- [ ] Click deck card †’ enters practice mode
+- [ ] Click word †’ flips to show definition
 - [ ] Green button works (marks as known)
 - [ ] Red button works (marks as unknown)
 - [ ] Progress bars update
@@ -175,11 +175,11 @@ Once live, test:
 
 ---
 
-## ğŸ‰ You're Live!
+## ‰ You're Live!
 
 Your TOEFL flashcard app is now available on the internet for you, friends, and potential users to access.
 
-**Share the link and start learning!** ğŸ“š
+**Share the link and start learning!** 
 
 ---
 

@@ -1,8 +1,8 @@
-# 📚 TOEFL Root/Prefix/Suffix Flashcard App
+# TOEFL Root/Prefix/Suffix Flashcard App
 
 A modern, interactive web application for mastering TOEFL vocabulary through roots, prefixes, and suffixes. Built with React, Vite, and Tailwind CSS.
 
-## ✨ Features
+## Features
 
 - **285 Vocabulary Items**: 64 prefixes, 159 roots, 62 suffixes
 - **Interactive Flashcards**: Smooth flip animations on click
@@ -12,7 +12,7 @@ A modern, interactive web application for mastering TOEFL vocabulary through roo
 - **Responsive Design**: Beautiful purple gradient UI for all devices
 - **Production Ready**: Optimized build (65KB gzipped)
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 cd toefl-flashcard
@@ -26,7 +26,7 @@ npm run dev
 # Open http://localhost:5173
 ```
 
-## 📦 Deploy to Vercel
+## Deploy to Vercel
 
 ```bash
 # Install Vercel CLI (first time only)
@@ -39,7 +39,7 @@ vercel --prod
 
 Your app goes live at: `https://toefl-flashcard-[hash].vercel.app`
 
-## 📖 Documentation
+## Documentation
 
 - **[Quick Start Guide](./docs/QUICK_START.md)** - Get running in 2 minutes
 - **[User Guide](./docs/USER_GUIDE.md)** - Complete usage guide
@@ -47,7 +47,7 @@ Your app goes live at: `https://toefl-flashcard-[hash].vercel.app`
 - **[Documentation Index](./docs/DOCUMENTATION_INDEX.md)** - Full documentation map
 - **[Contributing](./CONTRIBUTING.md)** - How to contribute
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -58,31 +58,31 @@ Your app goes live at: `https://toefl-flashcard-[hash].vercel.app`
 | localStorage | Progress persistence |
 | Vercel | Deployment platform |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 TOEFL_word_web/
-├── toefl-flashcard/        # Main React app
-│   ├── src/
-│   │   ├── components/     # UI components
-│   │   ├── pages/          # Page components
-│   │   ├── hooks/          # Custom hooks
-│   │   ├── utils/          # Utilities
-│   │   └── data/           # Vocabulary data (285 items)
-│   ├── dist/               # Production build
-│   └── package.json        # Dependencies
-├── docs/                   # Documentation
-├── References/             # Original data & mockups
-└── README.md               # This file
+ toefl-flashcard/        # Main React app
+�    src/
+�   �    components/     # UI components
+�   �    pages/          # Page components
+�   �    hooks/          # Custom hooks
+�   �    utils/          # Utilities
+�   �    data/           # Vocabulary data (285 items)
+�    dist/               # Production build
+�    package.json        # Dependencies
+ docs/                   # Documentation
+ References/             # Original data & mockups
+ README.md               # This file
 ```
 
-## 🎯 How It Works
+## How It Works
 
 ### Card States
 ```
-NEW → LEARNING → REVIEWING → MASTERED
-  ↑                            ↓
-  └─────────────────────────────┘
+NEW �� LEARNING �� REVIEWING �� MASTERED
+  ��                            �
+  �
   (Unknown words cycle back after ~5 cards)
 ```
 
@@ -94,7 +94,7 @@ NEW → LEARNING → REVIEWING → MASTERED
 4. **Track Progress** - See real-time progress bars
 5. **Auto-Advance** - Next card loads automatically
 
-## 🎓 Learning Tips
+## Learning Tips
 
 - **Practice 10-15 cards per session** for optimal retention
 - **Return daily** to benefit from spaced repetition
@@ -102,7 +102,7 @@ NEW → LEARNING → REVIEWING → MASTERED
 - **Complete one deck** before moving to next
 - **Use mobile** - practice during commute
 
-## 📊 Stats
+## Stats
 
 - **285 Vocabulary Items** organized by type
 - **Build Time**: ~715ms
@@ -110,7 +110,7 @@ NEW → LEARNING → REVIEWING → MASTERED
 - **Initial Load**: ~100ms on 4G
 - **661 Lines** of clean, modular code
 
-## 🔧 Development
+## Development
 
 ### Regenerate Data
 ```bash
@@ -125,10 +125,10 @@ npm run build
 
 ### Deployment Options
 1. **Vercel CLI** (recommended): `vercel --prod`
-2. **GitHub Integration**: Push to GitHub → Connect to Vercel
+2. **GitHub Integration**: Push to GitHub �� Connect to Vercel
 3. **Manual**: Upload `dist/` to any static host
 
-## ✅ Testing Checklist
+## Testing Checklist
 
 - [ ] Home page loads with 3 deck cards
 - [ ] Click deck to enter practice mode
@@ -139,7 +139,7 @@ npm run build
 - [ ] Progress persists after refresh
 - [ ] Works on mobile device
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -150,15 +150,15 @@ npm run build
 
 See [User Guide](./docs/USER_GUIDE.md) for detailed troubleshooting.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](./LICENSE) for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by [Magoosh TOEFL Flashcards](https://toefl.magoosh.com/flashcards)
 - Built for TOEFL learners worldwide
@@ -172,8 +172,8 @@ MIT License - see [LICENSE](./LICENSE) for details.
 cd toefl-flashcard && npm install && npm run dev
 ```
 
-Visit http://localhost:5173 and master those TOEFL words! 🚀
+Visit http://localhost:5173 and master those TOEFL words!
 
 ---
 
-**Last Updated**: November 2024 | **Version**: 1.0.0 | **Status**: Production Ready ✅
+**Last Updated**: November 2024 | **Version**: 1.0.0 | **Status**: Production Ready

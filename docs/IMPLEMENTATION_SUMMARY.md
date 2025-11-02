@@ -1,12 +1,12 @@
 # TOEFL Root/Prefix/Suffix Flashcard App - Implementation Summary
 
-## ✅ Project Complete
+##  Project Complete
 
 A fully functional, production-ready TOEFL vocabulary flashcard application has been built according to specifications, replicating Magoosh's UX patterns with 285 vocabulary items organized into 3 decks.
 
 ---
 
-## 📊 What Was Built
+##  What Was Built
 
 ### Core Application
 - **285 vocabulary items** transformed from CSV into structured JSON
@@ -22,61 +22,61 @@ A fully functional, production-ready TOEFL vocabulary flashcard application has 
 - **Build Output**: 66KB gzip (highly optimized)
 
 ### Key Features Implemented
-✓ Interactive card flip animation  
-✓ Inline answer buttons (green/red)  
-✓ Automatic next-card advancement  
-✓ Loading state feedback  
-✓ Real-time progress bars  
-✓ Spaced repetition algorithm  
-✓ localStorage progress persistence  
-✓ Responsive grid layout (1-3 columns)  
-✓ Purple gradient UI (Magoosh-style)  
-✓ Mobile-optimized interface
+ Interactive card flip animation  
+ Inline answer buttons (green/red)  
+ Automatic next-card advancement  
+ Loading state feedback  
+ Real-time progress bars  
+ Spaced repetition algorithm  
+ localStorage progress persistence  
+ Responsive grid layout (1-3 columns)  
+ Purple gradient UI (Magoosh-style)  
+ Mobile-optimized interface
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 toefl-flashcard/
-├── src/
-│   ├── components/
-│   │   ├── Header.jsx              (21 lines)  - Dark nav header
-│   │   ├── DeckCard.jsx            (32 lines)  - Deck selection card
-│   │   ├── ProgressBar.jsx         (17 lines)  - Progress visualization
-│   │   └── Flashcard.jsx           (98 lines)  - Card flip component
-│   ├── pages/
-│   │   ├── Home.jsx                (55 lines)  - Deck selection page
-│   │   └── Practice.jsx            (107 lines) - Practice session page
-│   ├── hooks/
-│   │   ├── useLocalStorage.js      (27 lines)  - Storage persistence
-│   │   └── useFlashcardSession.js  (150 lines) - Session logic + spaced repetition
-│   ├── utils/
-│   │   └── csvToJson.js            (127 lines) - CSV transformation utility
-│   ├── data/
-│   │   └── words.json              - Transformed vocabulary (285 items)
-│   ├── App.jsx                     (17 lines)  - Router setup
-│   ├── main.jsx                    (10 lines)  - Entry point
-│   └── index.css                   - Tailwind + custom animations
-├── scripts/
-│   └── generateWords.mjs           - CSV to JSON converter
-├── dist/                           - Production build (66KB gzip)
-├── public/                         - Static assets
-├── package.json                    - Dependencies & scripts
-├── vite.config.js                  - Vite configuration
-├── tailwind.config.js              - Tailwind theme (custom colors)
-├── postcss.config.js               - PostCSS setup
-├── vercel.json                     - Vercel deployment config
-├── index.html                      - HTML entry point
-├── README.md                       - Full documentation
-└── .gitignore                      - Git exclusions
+ src/
+�    components/
+�   �    Header.jsx              (21 lines)  - Dark nav header
+�   �    DeckCard.jsx            (32 lines)  - Deck selection card
+�   �    ProgressBar.jsx         (17 lines)  - Progress visualization
+�   �    Flashcard.jsx           (98 lines)  - Card flip component
+�    pages/
+�   �    Home.jsx                (55 lines)  - Deck selection page
+�   �    Practice.jsx            (107 lines) - Practice session page
+�    hooks/
+�   �    useLocalStorage.js      (27 lines)  - Storage persistence
+�   �    useFlashcardSession.js  (150 lines) - Session logic + spaced repetition
+�    utils/
+�   �    csvToJson.js            (127 lines) - CSV transformation utility
+�    data/
+�   �    words.json              - Transformed vocabulary (285 items)
+�    App.jsx                     (17 lines)  - Router setup
+�    main.jsx                    (10 lines)  - Entry point
+�    index.css                   - Tailwind + custom animations
+ scripts/
+�    generateWords.mjs           - CSV to JSON converter
+ dist/                           - Production build (66KB gzip)
+ public/                         - Static assets
+ package.json                    - Dependencies & scripts
+ vite.config.js                  - Vite configuration
+ tailwind.config.js              - Tailwind theme (custom colors)
+ postcss.config.js               - PostCSS setup
+ vercel.json                     - Vercel deployment config
+ index.html                      - HTML entry point
+ README.md                       - Full documentation
+ .gitignore                      - Git exclusions
 ```
 
 **Total Source Code**: 661 lines of well-organized, modular React code
 
 ---
 
-## 🔄 Data Transformation Pipeline
+##  Data Transformation Pipeline
 
 ### Input: words.csv (286 rows)
 ```csv
@@ -119,25 +119,25 @@ Root_Prefix_Suffix, Type, Meaning, Examples
 
 ---
 
-## 🎯 User Flow Implementation
+##  User Flow Implementation
 
-### 1️⃣ Home Page (Deck Selection)
+### 1� Home Page (Deck Selection)
 - Displays 3 deck cards in responsive grid
 - Shows progress per deck (X of Y words mastered)
 - Visual progress bars fill with green
 - Click any card to start practice
 - Stored progress auto-loads
 
-### 2️⃣ Practice Session
-- **Front**: Large root/prefix/suffix + "Click to see definition and example →"
+### 2� Practice Session
+- **Front**: Large root/prefix/suffix + "Click to see definition and example �"
 - **Back**: Full definition + up to 4 examples
 - Two inline buttons:
-  - ✓ Green "I knew this word" → marks as mastered
-  - ✗ Red "I didn't know this word" → marks as learning, reappears later
+  -  Green "I knew this word" � marks as mastered
+  -  Red "I didn't know this word" � marks as learning, reappears later
 - Auto-advance after 500ms delay (with "Loading next word..." feedback)
 - Real-time progress bar updates
 
-### 3️⃣ Progress Tracking
+### 3� Progress Tracking
 Three localStorage states per word:
 - **Mastered**: Green progress bar (removed from queue)
 - **Reviewing**: White progress bar (cycles back until mastered)
@@ -145,7 +145,7 @@ Three localStorage states per word:
 
 ---
 
-## ⚙️ Technical Highlights
+##  Technical Highlights
 
 ### Spaced Repetition Algorithm
 ```javascript
@@ -181,19 +181,19 @@ newQueue = newQueue.filter(id => id !== currentWordId);
 ### Build Optimization
 - Production build: **208.67 KB** JavaScript
 - Gzipped: **66.26 KB** (highly optimized)
-- CSS: 11.22 KB → 3.02 KB gzipped
+- CSS: 11.22 KB � 3.02 KB gzipped
 - All code-split and tree-shaken by Vite
 
 ---
 
-## 🚀 Deployment Ready
+##  Deployment Ready
 
 ### Build Artifacts
 ```
 dist/
-├── index.html                 (482 bytes)
-├── assets/index-DqkRcSgH.js  (208.67 KB → 66.26 KB gzip)
-└── assets/index-q2PyKA26.css (11.22 KB → 3.02 KB gzip)
+ index.html                 (482 bytes)
+ assets/index-DqkRcSgH.js  (208.67 KB � 66.26 KB gzip)
+ assets/index-q2PyKA26.css (11.22 KB � 3.02 KB gzip)
 ```
 
 ### Vercel Configuration
@@ -209,51 +209,51 @@ npm i -g vercel
 vercel --prod
 
 # Option 2: GitHub Integration
-# Push to GitHub → Connect in Vercel dashboard → Auto-deploy
+# Push to GitHub � Connect in Vercel dashboard � Auto-deploy
 ```
 
 ---
 
-## 📋 Todos Completed
+## � Todos Completed
 
 All 10 implementation todos completed:
 
-- ✅ Project setup (Vite + React + dependencies)
-- ✅ Data transformation (CSV → JSON)
-- ✅ Base components (Header, DeckCard, ProgressBar)
-- ✅ Flashcard component (with flip animation)
-- ✅ useLocalStorage hook
-- ✅ useFlashcardSession hook (with spaced repetition)
-- ✅ Home page (deck selection)
-- ✅ Practice page (flashcard session)
-- ✅ Routing (React Router setup)
-- ✅ Styling (purple gradient theme + animations)
+-  Project setup (Vite + React + dependencies)
+-  Data transformation (CSV � JSON)
+-  Base components (Header, DeckCard, ProgressBar)
+-  Flashcard component (with flip animation)
+-  useLocalStorage hook
+-  useFlashcardSession hook (with spaced repetition)
+-  Home page (deck selection)
+-  Practice page (flashcard session)
+-  Routing (React Router setup)
+-  Styling (purple gradient theme + animations)
 
 ---
 
-## 🎨 UX/UI Features
+##  UX/UI Features
 
 ### Magoosh Pattern Replication
-✓ Dark header (#1a1a1a) with nav buttons  
-✓ Purple gradient background (#5b21b6 → #7c3aed)  
-✓ White card containers with rounded corners  
-✓ Green account prompt banner  
-✓ Real-time progress bars with smooth animations  
-✓ Entire card clickable (better mobile UX)  
-✓ "NEW WORD" badge on cards  
-✓ Back button (← Deck Name) in practice view  
+ Dark header (#1a1a1a) with nav buttons  
+ Purple gradient background (#5b21b6 � #7c3aed)  
+ White card containers with rounded corners  
+ Green account prompt banner  
+ Real-time progress bars with smooth animations  
+ Entire card clickable (better mobile UX)  
+ "NEW WORD" badge on cards  
+ Back button (� Deck Name) in practice view  
 
 ### Interaction Patterns
-✓ Card flip animation on click  
-✓ Inline answer buttons on reveal  
-✓ Auto-advance with loading state  
-✓ Real-time progress updates  
-✓ Smooth transitions & animations  
-✓ Hover effects on all interactive elements  
+ Card flip animation on click  
+ Inline answer buttons on reveal  
+ Auto-advance with loading state  
+ Real-time progress updates  
+ Smooth transitions & animations  
+ Hover effects on all interactive elements  
 
 ---
 
-## 📦 Deliverables
+##  Deliverables
 
 1. **Complete React Application**
    - Fully functional flashcard system
@@ -279,7 +279,7 @@ All 10 implementation todos completed:
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 The application is **production-ready** and can be deployed immediately:
 
@@ -302,7 +302,7 @@ Or push to GitHub and connect to Vercel dashboard for auto-deployment.
 
 ---
 
-## 📈 Performance
+##  Performance
 
 - **Build Time**: 733ms
 - **Bundle Size**: 66.26 KB gzipped
@@ -312,6 +312,6 @@ Or push to GitHub and connect to Vercel dashboard for auto-deployment.
 
 ---
 
-**Implementation Complete ✨**
+**Implementation Complete **
 
 Built with attention to UX, modern best practices, and production-grade code quality.

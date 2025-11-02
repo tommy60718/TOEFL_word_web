@@ -1,6 +1,6 @@
 # Quick Start Guide - TOEFL Flashcard App
 
-## 🚀 Run Locally (2 minutes)
+##  Run Locally (2 minutes)
 
 ```bash
 cd toefl-flashcard
@@ -22,7 +22,7 @@ That's it! The app will:
 
 ---
 
-## 📦 Build for Production (30 seconds)
+##  Build for Production (30 seconds)
 
 ```bash
 npm run build
@@ -36,7 +36,7 @@ npm run build
 
 ---
 
-## 🌐 Deploy to Vercel (1 minute)
+##  Deploy to Vercel (1 minute)
 
 ### Option 1: Using Vercel CLI
 
@@ -56,7 +56,7 @@ vercel --prod
 
 ---
 
-## 📱 What You Get
+##  What You Get
 
 ### Home Page
 - 3 deck selection cards
@@ -79,7 +79,7 @@ vercel --prod
 
 ---
 
-## 📁 Key Files
+##  Key Files
 
 | File | Purpose |
 |------|---------|
@@ -94,7 +94,7 @@ vercel --prod
 
 ---
 
-## 🔧 Regenerate Data from CSV
+##  Regenerate Data from CSV
 
 If you update `References/contents_in_table/words.csv`:
 
@@ -109,7 +109,7 @@ This regenerates `src/data/words.json` with:
 
 ---
 
-## 📊 How It Works
+##  How It Works
 
 ### Card States
 1. **New Word** (first encounter)
@@ -136,23 +136,23 @@ localStorage['toefl-progress'] = {
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Change Deck Names
-Edit `src/utils/csvToJson.js` → change `"name"` field
+Edit `src/utils/csvToJson.js` � change `"name"` field
 
 ### Update Colors
-Edit `tailwind.config.js` → modify `purple-magoosh` colors
+Edit `tailwind.config.js` � modify `purple-magoosh` colors
 
 ### Adjust Spaced Repetition
-Edit `src/hooks/useFlashcardSession.js` → change `insertPosition` calculation
+Edit `src/hooks/useFlashcardSession.js` � change `insertPosition` calculation
 
 ### Modify Examples Per Card
-Edit `src/utils/csvToJson.js` → change `.slice(0, 4)` to different number
+Edit `src/utils/csvToJson.js` � change `.slice(0, 4)` to different number
 
 ---
 
-## ✅ Testing Checklist
+##  Testing Checklist
 
 - [ ] Home page loads with 3 decks
 - [ ] Click a deck card to start practice
@@ -167,7 +167,7 @@ Edit `src/utils/csvToJson.js` → change `.slice(0, 4)` to different number
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -179,7 +179,7 @@ Edit `src/utils/csvToJson.js` → change `.slice(0, 4)` to different number
 
 ---
 
-## 📚 Learn More
+##  Learn More
 
 - **React**: https://react.dev
 - **Vite**: https://vitejs.dev
@@ -189,7 +189,7 @@ Edit `src/utils/csvToJson.js` → change `.slice(0, 4)` to different number
 
 ---
 
-## 💡 Pro Tips
+##  Pro Tips
 
 1. **Batch Learning**: Practice 10-15 cards per session for best retention
 2. **Daily Review**: Return to decks daily for spaced repetition to work
@@ -199,4 +199,4 @@ Edit `src/utils/csvToJson.js` → change `.slice(0, 4)` to different number
 
 ---
 
-**Built with React, Vite, and Tailwind CSS** ✨
+**Built with React, Vite, and Tailwind CSS** 

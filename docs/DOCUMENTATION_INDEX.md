@@ -1,21 +1,21 @@
-# 📚 Documentation Index - TOEFL Flashcard App
+#  Documentation Index - TOEFL Flashcard App
 
 ## Start Here
 
 **New to the project?** Follow this path:
 
-1. **First time?** → Read [README.md](./README.md)
-2. **Want to run it?** → Follow [QUICK_START.md](./QUICK_START.md)
-3. **Ready to deploy?** → See [DEPLOY_TO_VERCEL.md](./toefl-flashcard/DEPLOY_TO_VERCEL.md)
-4. **Need help?** → Check [USER_GUIDE.md](./USER_GUIDE.md)
+1. **First time?** � Read [README.md](./README.md)
+2. **Want to run it?** � Follow [QUICK_START.md](./QUICK_START.md)
+3. **Ready to deploy?** � See [DEPLOY_TO_VERCEL.md](./toefl-flashcard/DEPLOY_TO_VERCEL.md)
+4. **Need help?** � Check [USER_GUIDE.md](./USER_GUIDE.md)
 
 ---
 
-## 📖 Documentation Files
+##  Documentation Files
 
 ### Main Documentation (Project Root)
 
-#### [README.md](./README.md) ⭐ START HERE
+#### [README.md](./README.md) � START HERE
 - **Purpose**: Project overview and features
 - **Contains**: 
   - What the app does
@@ -26,7 +26,7 @@
   - Learning tips
   - Troubleshooting
 
-#### [USER_GUIDE.md](./USER_GUIDE.md) 📖 COMPREHENSIVE GUIDE
+#### [USER_GUIDE.md](./USER_GUIDE.md)  COMPREHENSIVE GUIDE
 - **Purpose**: Complete user guidance
 - **Contains**:
   - Getting started
@@ -37,7 +37,7 @@
   - FAQ with 20+ questions
   - Learning effectiveness tips
 
-#### [QUICK_START.md](./QUICK_START.md) ⚡ FAST SETUP
+#### [QUICK_START.md](./QUICK_START.md)  FAST SETUP
 - **Purpose**: Get running in 2 minutes
 - **Contains**:
   - Installation (3 commands)
@@ -46,7 +46,7 @@
   - Vercel deployment
   - Verification checklist
 
-#### [IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md) 🔧 TECHNICAL
+#### [IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md)  TECHNICAL
 - **Purpose**: Technical deep dive
 - **Contains**:
   - Data transformation pipeline
@@ -61,7 +61,7 @@
 
 ### App-Specific Documentation
 
-#### [toefl-flashcard/README.md](./toefl-flashcard/README.md) 📱 APP DOCS
+#### [toefl-flashcard/README.md](./toefl-flashcard/README.md)  APP DOCS
 - **Purpose**: App features and documentation
 - **Contains**:
   - Installation instructions
@@ -70,7 +70,7 @@
   - Tech stack details
   - Responsive design info
 
-#### [toefl-flashcard/DEPLOY_TO_VERCEL.md](./toefl-flashcard/DEPLOY_TO_VERCEL.md) 🚀 DEPLOYMENT
+#### [toefl-flashcard/DEPLOY_TO_VERCEL.md](./toefl-flashcard/DEPLOY_TO_VERCEL.md)  DEPLOYMENT
 - **Purpose**: Step-by-step Vercel deployment
 - **Contains**:
   - Vercel CLI option
@@ -82,7 +82,7 @@
 
 ---
 
-## 🗺️ Navigation Guide
+##  Navigation Guide
 
 ### By Use Case
 
@@ -110,7 +110,7 @@
 
 ---
 
-## 📊 Quick Reference
+##  Quick Reference
 
 ### Setup Commands
 ```bash
@@ -137,7 +137,7 @@ vercel --prod
 
 ---
 
-## 🎯 Documentation by Audience
+##  Documentation by Audience
 
 ### For End Users (Learning TOEFL)
 | Read This | Why |
@@ -169,22 +169,22 @@ vercel --prod
 
 ---
 
-## 📋 Feature Checklist
+## � Feature Checklist
 
-- ✅ 285 vocabulary items organized by type
-- ✅ Interactive flashcard flip animation
-- ✅ Spaced repetition algorithm
-- ✅ Real-time progress tracking
-- ✅ Automatic progress saving (localStorage)
-- ✅ Beautiful purple gradient UI
-- ✅ Responsive mobile design
-- ✅ Production build optimized
-- ✅ Vercel deployment ready
-- ✅ Complete documentation
+-  285 vocabulary items organized by type
+-  Interactive flashcard flip animation
+-  Spaced repetition algorithm
+-  Real-time progress tracking
+-  Automatic progress saving (localStorage)
+-  Beautiful purple gradient UI
+-  Responsive mobile design
+-  Production build optimized
+-  Vercel deployment ready
+-  Complete documentation
 
 ---
 
-## 🔗 Key Resources
+##  Key Resources
 
 ### Internal Documentation
 - [Project Root README](./README.md)
@@ -207,55 +207,55 @@ vercel --prod
 
 ---
 
-## ❓ Common Questions
+##  Common Questions
 
 **Where do I start?**
-→ [README.md](./README.md)
+� [README.md](./README.md)
 
 **How do I run this locally?**
-→ [QUICK_START.md](./QUICK_START.md)
+� [QUICK_START.md](./QUICK_START.md)
 
 **How do I deploy it?**
-→ [toefl-flashcard/DEPLOY_TO_VERCEL.md](./toefl-flashcard/DEPLOY_TO_VERCEL.md)
+� [toefl-flashcard/DEPLOY_TO_VERCEL.md](./toefl-flashcard/DEPLOY_TO_VERCEL.md)
 
 **How do I use the app?**
-→ [USER_GUIDE.md](./USER_GUIDE.md) - Using the App section
+� [USER_GUIDE.md](./USER_GUIDE.md) - Using the App section
 
 **What's the technical architecture?**
-→ [IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md)
+� [IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md)
 
 **I'm having issues, where can I find help?**
-→ [USER_GUIDE.md](./USER_GUIDE.md) - Troubleshooting & FAQ sections
+� [USER_GUIDE.md](./USER_GUIDE.md) - Troubleshooting & FAQ sections
 
 **What technologies are used?**
-→ [README.md](./README.md) - Tech Stack section
+� [README.md](./README.md) - Tech Stack section
 
 **How does the spaced repetition work?**
-→ [IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md) or [USER_GUIDE.md](./USER_GUIDE.md) - How It Works section
+� [IMPLEMENTATION_SUMMARY.md](./IMPLEMENTATION_SUMMARY.md) or [USER_GUIDE.md](./USER_GUIDE.md) - How It Works section
 
 ---
 
-## 📍 File Locations
+## � File Locations
 
 ```
 TOEFL_word_web/
-├── README.md                          ← Start here!
-├── USER_GUIDE.md                      ← Comprehensive guide
-├── QUICK_START.md                     ← 2-minute setup
-├── IMPLEMENTATION_SUMMARY.md          ← Technical details
-├── DOCUMENTATION_INDEX.md             ← This file
-├── toefl-flashcard/
-│   ├── README.md                      ← App docs
-│   ├── DEPLOY_TO_VERCEL.md            ← Deployment guide
-│   ├── src/                           ← Source code
-│   ├── dist/                          ← Production build
-│   └── package.json                   ← Dependencies
-└── References/                        ← Original data & mockups
+ README.md                          � Start here!
+ USER_GUIDE.md                      � Comprehensive guide
+ QUICK_START.md                     � 2-minute setup
+ IMPLEMENTATION_SUMMARY.md          � Technical details
+ DOCUMENTATION_INDEX.md             � This file
+ toefl-flashcard/
+�    README.md                      � App docs
+�    DEPLOY_TO_VERCEL.md            � Deployment guide
+�    src/                           � Source code
+�    dist/                          � Production build
+�    package.json                   � Dependencies
+ References/                        � Original data & mockups
 ```
 
 ---
 
-## 📞 Support
+## � Support
 
 ### Documentation Structure
 - Each doc is standalone and complete
@@ -271,7 +271,7 @@ TOEFL_word_web/
 
 ---
 
-## ✨ Next Steps
+##  Next Steps
 
 **First Time?**
 ```
@@ -298,6 +298,6 @@ TOEFL_word_web/
 
 **Last Updated**: November 2024
 **Version**: 1.0.0
-**Status**: Complete & Production Ready ✨
+**Status**: Complete & Production Ready 
 
-Happy learning! 📚
+Happy learning! 

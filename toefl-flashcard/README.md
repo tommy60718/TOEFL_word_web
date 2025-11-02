@@ -49,22 +49,22 @@ npm run dev
 
 ```
 src/
-├── components/          # Reusable UI components
-│   ├── Header.jsx      # Navigation header
-│   ├── DeckCard.jsx    # Deck selection card
-│   ├── ProgressBar.jsx # Progress visualization
-│   └── Flashcard.jsx   # Interactive flashcard with flip
-├── pages/              # Page components
-│   ├── Home.jsx        # Deck selection view
-│   └── Practice.jsx    # Flashcard practice session
-├── hooks/              # Custom React hooks
-│   ├── useLocalStorage.js      # Browser storage hook
-│   └── useFlashcardSession.js  # Session logic & spaced repetition
-├── utils/              # Utility functions
-│   └── csvToJson.js    # CSV parsing and transformation
-├── data/               # Generated data
-│   └── words.json      # Transformed flashcard vocabulary
-└── App.jsx             # Router setup
+ components/          # Reusable UI components
+�    Header.jsx      # Navigation header
+�    DeckCard.jsx    # Deck selection card
+�    ProgressBar.jsx # Progress visualization
+�    Flashcard.jsx   # Interactive flashcard with flip
+ pages/              # Page components
+�    Home.jsx        # Deck selection view
+�    Practice.jsx    # Flashcard practice session
+ hooks/              # Custom React hooks
+�    useLocalStorage.js      # Browser storage hook
+�    useFlashcardSession.js  # Session logic & spaced repetition
+ utils/              # Utility functions
+�    csvToJson.js    # CSV parsing and transformation
+ data/               # Generated data
+�    words.json      # Transformed flashcard vocabulary
+ App.jsx             # Router setup
 ```
 
 ## How It Works

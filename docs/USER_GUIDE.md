@@ -1,10 +1,10 @@
-# 📖 TOEFL Flashcard App - Complete User Guide
+#  TOEFL Flashcard App - Complete User Guide
 
 Welcome! This guide covers everything you need to know to use and deploy the TOEFL Root/Prefix/Suffix Flashcard App.
 
 ---
 
-## 📋 Table of Contents
+## � Table of Contents
 
 1. [Getting Started](#getting-started)
 2. [Using the App](#using-the-app)
@@ -15,7 +15,7 @@ Welcome! This guide covers everything you need to know to use and deploy the TOE
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### What is This App?
 
@@ -39,7 +39,7 @@ A web-based flashcard application for learning TOEFL vocabulary through **roots,
 
 ---
 
-## 📱 Using the App
+##  Using the App
 
 ### Start the App Locally
 
@@ -68,40 +68,40 @@ Open: http://localhost:5173
 
 #### Front of Card (Initial)
 ```
-┌─────────────────────────────┐
-│     NEW WORD                │
-│                             │
-│    a, ac, ad, af, ag       │
-│    al, an, ap, as, at      │
-│                             │
-│  Click to see definition → │
-└─────────────────────────────┘
+
+�     NEW WORD                �
+�                             �
+�    a, ac, ad, af, ag       �
+�    al, an, ap, as, at      �
+�                             �
+�  Click to see definition � �
+�
 ```
 
 - **Root/Prefix/Suffix**: Large text showing the word element
 - **"NEW WORD" Badge**: Only on first encounter
-- **Prompt**: "Click to see definition and example →"
+- **Prompt**: "Click to see definition and example �"
 
 **Action**: Click anywhere on the card
 
 #### Back of Card (After Click)
 ```
-┌─────────────────────────────────────┐
-│     NEW WORD                        │
-│                                     │
-│  a, ac, ad, af, ag, al, an, ap...  │
-│                                     │
-│  Prefix: to, toward, near, in add. │
-│          to, by                     │
-│                                     │
-│  Examples: aside, accompany,        │
-│            adjust, aggression       │
-│                                     │
-│  ┌──────────────┬──────────────┐   │
-│  │ ✓ I knew     │ ✗ I didn't   │   │
-│  │   this word  │   know this  │   │
-│  └──────────────┴──────────────┘   │
-└─────────────────────────────────────┘
+
+�     NEW WORD                        �
+�                                     �
+�  a, ac, ad, af, ag, al, an, ap...  �
+�                                     �
+�  Prefix: to, toward, near, in add. �
+�          to, by                     �
+�                                     �
+�  Examples: aside, accompany,        �
+�            adjust, aggression       �
+�                                     �
+�     �
+�  �  I knew     �  I didn't   �   �
+�  �   this word  �   know this  �   �
+�  ��   �
+�
 ```
 
 - **Type**: Prefix/Root/Suffix
@@ -110,12 +110,12 @@ Open: http://localhost:5173
 - **Buttons**: Two action buttons
 
 **Actions:**
-- Green Button ✓ "I knew this word"
+- Green Button  "I knew this word"
   - Marks as MASTERED
   - Removes from queue
   - Advances to next card
   
-- Red Button ✗ "I didn't know this word"
+- Red Button  "I didn't know this word"
   - Marks as LEARNING
   - Reappears after ~5 cards
   - Advances to next card
@@ -131,19 +131,19 @@ Three real-time progress bars:
 Example:
 ```
 You have mastered 5 out of 51 words
-[████░░░░░░░░░░░░░░░] 10%
+[���������������] 10%
 
 You are reviewing 0 out of 51 words
-[░░░░░░░░░░░░░░░░░░░░░] 0%
+[���������������������] 0%
 
 You are learning 7 out of 51 words
-[██████░░░░░░░░░░░░░░░] 14%
+[���������������] 14%
 ```
 
 ### Navigation
 
-- **← Deck Name** (top left): Go back to home
-- **🔀 Shuffle Icon** (top right): Indicates words will reappear
+- **� Deck Name** (top left): Go back to home
+- ** Shuffle Icon** (top right): Indicates words will reappear
 - **Green Banner**: Encourages creating account (optional)
 - **Footer**: Support contact information
 
@@ -167,14 +167,14 @@ You are learning 7 out of 51 words
 
 ---
 
-## 💾 Progress Tracking
+## � Progress Tracking
 
 ### How Progress is Saved
 
-✅ **Automatic**: Every action saves automatically to browser
-✅ **No Login**: Requires no account or authentication
-✅ **Offline**: Works even without internet
-✅ **Persistent**: Survives page refresh and browser restart
+ **Automatic**: Every action saves automatically to browser
+ **No Login**: Requires no account or authentication
+ **Offline**: Works even without internet
+ **Persistent**: Survives page refresh and browser restart
 
 ### Progress Storage Location
 
@@ -196,14 +196,14 @@ Saved in browser's localStorage under key: `toefl-progress`
 
 To reset your progress:
 1. Open browser DevTools (F12)
-2. Go to Application → Local Storage
+2. Go to Application � Local Storage
 3. Find `toefl-progress`
 4. Delete it
 5. Refresh page
 
 ---
 
-## 🛠️ Local Development
+##  Local Development
 
 ### Installation
 
@@ -241,16 +241,16 @@ Press `Ctrl + C` in terminal
 
 ---
 
-## 🚀 Deploying to Vercel
+##  Deploying to Vercel
 
 ### Why Vercel?
 
-✅ Free for individuals
-✅ Easy 1-command deploy
-✅ Auto-HTTPS
-✅ CDN for fast loading
-✅ Environment variables support
-✅ Analytics and monitoring
+ Free for individuals
+ Easy 1-command deploy
+ Auto-HTTPS
+ CDN for fast loading
+ Environment variables support
+ Analytics and monitoring
 
 ### Quick Deploy (Recommended)
 
@@ -316,7 +316,7 @@ git push -u origin main
 
 ---
 
-## ✅ Testing After Deployment
+##  Testing After Deployment
 
 Visit your live URL and verify:
 
@@ -335,7 +335,7 @@ Visit your live URL and verify:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Installation Issues
 
@@ -408,7 +408,7 @@ npm run build
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 ### How many words are in each deck?
 
@@ -427,8 +427,8 @@ Not yet, but you can:
 ### Does it work offline?
 
 Partially:
-- ✅ Works without internet after loading
-- ❌ Need internet to deploy/update
+-  Works without internet after loading
+-  Need internet to deploy/update
 
 ### Can I add my own words?
 
@@ -439,7 +439,7 @@ Not in current version, but planned:
 
 ### How does spaced repetition work?
 
-1. New card → you mark "didn't know"
+1. New card � you mark "didn't know"
 2. Card enters learning queue
 3. After ~5 other cards, it reappears
 4. Repeats until you master it
@@ -469,7 +469,7 @@ Recommended: 10-15 cards per session
 
 Yes, manually:
 1. Open DevTools (F12)
-2. Application → Local Storage
+2. Application � Local Storage
 3. Delete `toefl-progress`
 4. Refresh page
 
@@ -489,7 +489,7 @@ Yes, but requires editing code:
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 ### Setup Help
 - [QUICK_START.md](./QUICK_START.md) - Fast setup guide
@@ -508,7 +508,7 @@ Yes, but requires editing code:
 
 ---
 
-## 🎓 Learning Tips
+##  Learning Tips
 
 ### Effective Studying
 
@@ -541,7 +541,7 @@ Yes, but requires editing code:
 
 ---
 
-## 🎉 Ready to Start?
+##  Ready to Start?
 
 ```bash
 # 1. Install
@@ -557,7 +557,7 @@ npm run dev
 # 4. Start learning!
 ```
 
-**Have fun learning! 📚✨**
+**Have fun learning! **
 
 ---
 

@@ -59,12 +59,12 @@ Thank you for considering contributing to this project!
 
 ```
 toefl-flashcard/
-├── src/
-│   ├── components/    # Reusable UI components
-│   ├── pages/         # Page-level components
-│   ├── hooks/         # Custom React hooks
-│   ├── utils/         # Utility functions
-│   └── data/          # JSON data files
+ src/
+�    components/    # Reusable UI components
+�    pages/         # Page-level components
+�    hooks/         # Custom React hooks
+�    utils/         # Utility functions
+�    data/          # JSON data files
 ```
 
 ## Adding New Features
@@ -104,5 +104,5 @@ Please include:
 
 Check the [documentation](./docs/) or open an issue.
 
-Thank you for contributing! 🎉
+Thank you for contributing!
 
