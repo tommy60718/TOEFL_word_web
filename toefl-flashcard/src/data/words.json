@@ -1,106 +1,3019 @@
 {
   "decks": [
     {
-      "id": "common-words",
-      "name": "Common Words",
-      "difficulty": "Common",
-      "totalWords": 51,
+      "id": "prefix-deck",
+      "name": "Prefixes",
+      "type": "Prefix",
+      "totalWords": 64,
       "words": [
         {
-          "id": "indicate",
-          "word": "indicate",
-          "root": "dic, dict",
-          "meaning": "to show, to point out",
-          "definition": "verb: to be a sign of, to show",
-          "example": "The way you speak and act indicates your emotions."
+          "id": "a-ac-ad-af-ag-al-an-ap-as-at",
+          "root": "a, ac, ad, af, ag, al, an, ap, as, at",
+          "type": "Prefix",
+          "meaning": "to, toward, near, in addition to, by",
+          "examples": [
+            "aside",
+            "accompany",
+            "adjust",
+            "aggression"
+          ]
         },
         {
-          "id": "approach",
-          "word": "approach",
-          "root": "pro, ap",
-          "meaning": "to go toward, to come near",
-          "definition": "verb: to come near or nearer to",
-          "example": "The team will approach the problem systematically."
-        }
-      ]
-    },
-    {
-      "id": "easy-words",
-      "name": "Easy Words",
-      "difficulty": "Easy",
-      "totalWords": 51,
-      "words": [
+          "id": "a-an",
+          "root": "a, an",
+          "type": "Prefix",
+          "meaning": "not, without",
+          "examples": [
+            "apolitical",
+            "atheist",
+            "anarchy",
+            "anonymous"
+          ]
+        },
         {
-          "id": "beneficial",
-          "word": "beneficial",
-          "root": "bene",
-          "meaning": "good, well, beneficial",
-          "definition": "adjective: producing good results; favorable",
-          "example": "Exercise is beneficial for your health."
-        }
-      ]
-    },
-    {
-      "id": "medium-words-1",
-      "name": "Medium Words",
-      "difficulty": "Medium",
-      "totalWords": 51,
-      "words": [
+          "id": "ab-abs",
+          "root": "ab, abs",
+          "type": "Prefix",
+          "meaning": "away from, off",
+          "examples": [
+            "absolve",
+            "abrupt",
+            "absent"
+          ]
+        },
         {
-          "id": "biography",
-          "word": "biography",
-          "root": "bio, bi; graph",
-          "meaning": "life; write",
-          "definition": "noun: a written account of someone's life",
-          "example": "The biography of Albert Einstein is fascinating."
-        }
-      ]
-    },
-    {
-      "id": "medium-words-2",
-      "name": "Medium Words 2",
-      "difficulty": "Medium",
-      "totalWords": 50,
-      "words": [
+          "id": "ante",
+          "root": "ante",
+          "type": "Prefix",
+          "meaning": "before",
+          "examples": [
+            "anterior",
+            "anteroom",
+            "antebellum",
+            "antedate"
+          ]
+        },
         {
-          "id": "chronology",
-          "word": "chronology",
-          "root": "chron",
-          "meaning": "time",
-          "definition": "noun: the arrangement of events in the order they happened",
-          "example": "The chronology of historical events is important to understand."
-        }
-      ]
-    },
-    {
-      "id": "medium-words-3",
-      "name": "Medium Words 3",
-      "difficulty": "Medium",
-      "totalWords": 50,
-      "words": [
+          "id": "anti-ant",
+          "root": "anti, ant",
+          "type": "Prefix",
+          "meaning": "against, opposite",
+          "examples": [
+            "antisocial",
+            "antiseptic",
+            "antithesis",
+            "antibody"
+          ]
+        },
         {
-          "id": "circumnavigate",
-          "word": "circumnavigate",
+          "id": "auto",
+          "root": "auto",
+          "type": "Prefix",
+          "meaning": "self",
+          "examples": [
+            "automobile",
+            "automatic",
+            "automotive",
+            "autograph"
+          ]
+        },
+        {
+          "id": "cat-cata-cath",
+          "root": "cat, cata, cath",
+          "type": "Prefix",
+          "meaning": "down, with",
+          "examples": [
+            "catalogue",
+            "category",
+            "catheter"
+          ]
+        },
+        {
+          "id": "circum",
           "root": "circum",
+          "type": "Prefix",
           "meaning": "around",
-          "definition": "verb: to sail or fly all the way around something",
-          "example": "Magellan's fleet was the first to circumnavigate the globe."
+          "examples": [
+            "circumnavigate",
+            "circumflex",
+            "circumstance",
+            "circumcision"
+          ]
+        },
+        {
+          "id": "co-cog-col-con-com-cor",
+          "root": "co, cog, col, con, com, cor",
+          "type": "Prefix",
+          "meaning": "with, together",
+          "examples": [
+            "cohesiveness",
+            "cognate",
+            "collaborate",
+            "convene"
+          ]
+        },
+        {
+          "id": "com-con",
+          "root": "com, con",
+          "type": "Prefix",
+          "meaning": "fully",
+          "examples": [
+            "complete",
+            "compel",
+            "conscious",
+            "condense"
+          ]
+        },
+        {
+          "id": "contra-counter",
+          "root": "contra, counter",
+          "type": "Prefix",
+          "meaning": "against, opposite",
+          "examples": [
+            "contradict",
+            "counteract",
+            "contravene",
+            "contrary"
+          ]
+        },
+        {
+          "id": "de",
+          "root": "de",
+          "type": "Prefix",
+          "meaning": "from, down, away, to do the opposite, against",
+          "examples": [
+            "detach",
+            "deploy",
+            "derange",
+            "decrease"
+          ]
+        },
+        {
+          "id": "dia",
+          "root": "dia",
+          "type": "Prefix",
+          "meaning": "through, across, between",
+          "examples": [
+            "diameter",
+            "diagonal",
+            "dialogue",
+            "dialect"
+          ]
+        },
+        {
+          "id": "dis-dys-dif",
+          "root": "dis, dys, dif",
+          "type": "Prefix",
+          "meaning": "away, not, negative, opposite of, separate",
+          "examples": [
+            "dismiss",
+            "differ",
+            "disallow",
+            "disperse"
+          ]
+        },
+        {
+          "id": "e-ex-ef-es-ec",
+          "root": "e, ex, ef, es, ec",
+          "type": "Prefix",
+          "meaning": "out, away, from, fully",
+          "examples": [
+            "emit",
+            "expulsion",
+            "exhale",
+            "exit"
+          ]
+        },
+        {
+          "id": "ecto",
+          "root": "ecto",
+          "type": "Prefix",
+          "meaning": "outside, external",
+          "examples": [
+            "ectomorph",
+            "ectoderm",
+            "ectoplasm"
+          ]
+        },
+        {
+          "id": "en-em",
+          "root": "en, em",
+          "type": "Prefix",
+          "meaning": "put into, make",
+          "examples": [
+            "enamor",
+            "empower"
+          ]
+        },
+        {
+          "id": "endo",
+          "root": "endo",
+          "type": "Prefix",
+          "meaning": "inside, within",
+          "examples": [
+            "endotoxin",
+            "endoscope",
+            "endogenous"
+          ]
+        },
+        {
+          "id": "epi",
+          "root": "epi",
+          "type": "Prefix",
+          "meaning": "upon, beside, over",
+          "examples": [
+            "epilogue"
+          ]
+        },
+        {
+          "id": "exter-extra",
+          "root": "exter, extra",
+          "type": "Prefix",
+          "meaning": "outside of, beyond",
+          "examples": [
+            "external",
+            "extrinsic",
+            "exterior",
+            "extraordinary"
+          ]
+        },
+        {
+          "id": "femto",
+          "root": "femto",
+          "type": "Prefix",
+          "meaning": "quadrillionth",
+          "examples": [
+            "femtosecond"
+          ]
+        },
+        {
+          "id": "for-fore",
+          "root": "for, fore",
+          "type": "Prefix",
+          "meaning": "before",
+          "examples": [
+            "forecast",
+            "fortune",
+            "foresee"
+          ]
+        },
+        {
+          "id": "giga",
+          "root": "giga",
+          "type": "Prefix",
+          "meaning": "billion",
+          "examples": [
+            "gigabyte",
+            "gigaflop"
+          ]
+        },
+        {
+          "id": "hetero",
+          "root": "hetero",
+          "type": "Prefix",
+          "meaning": "other",
+          "examples": [
+            "heterodox",
+            "heterogeneous",
+            "heterosexual",
+            "heterodyne"
+          ]
+        },
+        {
+          "id": "homo",
+          "root": "homo",
+          "type": "Prefix",
+          "meaning": "same",
+          "examples": [
+            "homogenized",
+            "homosexual",
+            "homonym",
+            "homophone"
+          ]
+        },
+        {
+          "id": "hyper",
+          "root": "hyper",
+          "type": "Prefix",
+          "meaning": "over, above",
+          "examples": [
+            "hyperactive",
+            "hypertensive",
+            "hyperbolic",
+            "hypersensitive"
+          ]
+        },
+        {
+          "id": "in-im-(il)",
+          "root": "in, im, (il)",
+          "type": "Prefix",
+          "meaning": "in, into, on, near, toward",
+          "examples": [
+            "instead",
+            "import"
+          ]
+        },
+        {
+          "id": "in-im-il-ir",
+          "root": "in, im, il, ir",
+          "type": "Prefix",
+          "meaning": "not",
+          "examples": [
+            "illegible",
+            "irresolute",
+            "inaction",
+            "inviolate"
+          ]
+        },
+        {
+          "id": "infra",
+          "root": "infra",
+          "type": "Prefix",
+          "meaning": "beneath",
+          "examples": [
+            "infrared",
+            "infrastructure"
+          ]
+        },
+        {
+          "id": "inter",
+          "root": "inter",
+          "type": "Prefix",
+          "meaning": "between, among",
+          "examples": [
+            "international",
+            "intercept",
+            "interject",
+            "intermission"
+          ]
+        },
+        {
+          "id": "intro",
+          "root": "intro",
+          "type": "Prefix",
+          "meaning": "into, within",
+          "examples": [
+            "interoffice",
+            "introvert",
+            "introspection",
+            "introduce"
+          ]
+        },
+        {
+          "id": "mega",
+          "root": "mega",
+          "type": "Prefix",
+          "meaning": "great, million",
+          "examples": [
+            "megaphone",
+            "megaton",
+            "megaflop",
+            "megalomaniac"
+          ]
+        },
+        {
+          "id": "meso",
+          "root": "meso",
+          "type": "Prefix",
+          "meaning": "middle",
+          "examples": [
+            "mesomorph",
+            "mesoamerica",
+            "mesosphere"
+          ]
+        },
+        {
+          "id": "meta",
+          "root": "meta",
+          "type": "Prefix",
+          "meaning": "beyond, change",
+          "examples": [
+            "metaphor",
+            "metamorphosis",
+            "metabolism",
+            "metahistorical"
+          ]
+        },
+        {
+          "id": "micro",
+          "root": "micro",
+          "type": "Prefix",
+          "meaning": "millionth",
+          "examples": [
+            "microgram",
+            "microvolt"
+          ]
+        },
+        {
+          "id": "milli",
+          "root": "milli",
+          "type": "Prefix",
+          "meaning": "thousandth",
+          "examples": [
+            "millisecond",
+            "milligram",
+            "millivolt"
+          ]
+        },
+        {
+          "id": "mis",
+          "root": "mis",
+          "type": "Prefix",
+          "meaning": "wrong, bad, badly",
+          "examples": [
+            "misconduct",
+            "misinform",
+            "misinterpret",
+            "mispronounce"
+          ]
+        },
+        {
+          "id": "mono",
+          "root": "mono",
+          "type": "Prefix",
+          "meaning": "one",
+          "examples": [
+            "monopoly",
+            "monotype",
+            "monologue",
+            "mononucleosis"
+          ]
+        },
+        {
+          "id": "multi",
+          "root": "multi",
+          "type": "Prefix",
+          "meaning": "many",
+          "examples": [
+            "multitude",
+            "multipartite",
+            "multiply",
+            "multipurpose"
+          ]
+        },
+        {
+          "id": "nano",
+          "root": "nano",
+          "type": "Prefix",
+          "meaning": "billionth",
+          "examples": [
+            "nanosecond",
+            "nanobucks"
+          ]
+        },
+        {
+          "id": "non",
+          "root": "non",
+          "type": "Prefix",
+          "meaning": "not",
+          "examples": [
+            "nonferrous",
+            "nonsense",
+            "nonabrasive",
+            "nondescript"
+          ]
+        },
+        {
+          "id": "ob-oc-of-op",
+          "root": "ob, oc, of, op",
+          "type": "Prefix",
+          "meaning": "toward, against, in the way",
+          "examples": [
+            "oppose",
+            "occur",
+            "offer",
+            "obtain"
+          ]
+        },
+        {
+          "id": "over",
+          "root": "over",
+          "type": "Prefix",
+          "meaning": "excessive, above",
+          "examples": [
+            "overwork",
+            "overall",
+            "overwork"
+          ]
+        },
+        {
+          "id": "para",
+          "root": "para",
+          "type": "Prefix",
+          "meaning": "beside",
+          "examples": [
+            "paradox",
+            "paraprofessional",
+            "paramedic",
+            "paraphrase"
+          ]
+        },
+        {
+          "id": "per",
+          "root": "per",
+          "type": "Prefix",
+          "meaning": "through, intensive",
+          "examples": [
+            "persecute",
+            "permit",
+            "perspire",
+            "perforate"
+          ]
+        },
+        {
+          "id": "peri",
+          "root": "peri",
+          "type": "Prefix",
+          "meaning": "around",
+          "examples": [
+            "periscope",
+            "perimeter",
+            "perigee",
+            "periodontal"
+          ]
+        },
+        {
+          "id": "pico",
+          "root": "pico",
+          "type": "Prefix",
+          "meaning": "trillionth",
+          "examples": [
+            "picofarad",
+            "picocurie"
+          ]
+        },
+        {
+          "id": "poly",
+          "root": "poly",
+          "type": "Prefix",
+          "meaning": "many",
+          "examples": [
+            "polytheist",
+            "polygon",
+            "polygamy",
+            "polymorphous"
+          ]
+        },
+        {
+          "id": "post",
+          "root": "post",
+          "type": "Prefix",
+          "meaning": "after, behind",
+          "examples": [
+            "postpone",
+            "postdate"
+          ]
+        },
+        {
+          "id": "pre-pur",
+          "root": "pre, pur",
+          "type": "Prefix",
+          "meaning": "before",
+          "examples": [
+            "precede"
+          ]
+        },
+        {
+          "id": "pro",
+          "root": "pro",
+          "type": "Prefix",
+          "meaning": "for, forward",
+          "examples": [
+            "propel"
+          ]
+        },
+        {
+          "id": "re",
+          "root": "re",
+          "type": "Prefix",
+          "meaning": "back, again",
+          "examples": [
+            "report",
+            "realign",
+            "retract",
+            "revise"
+          ]
+        },
+        {
+          "id": "retro",
+          "root": "retro",
+          "type": "Prefix",
+          "meaning": "backwards",
+          "examples": [
+            "retrorocket",
+            "retrospect",
+            "retrogression",
+            "retroactive"
+          ]
+        },
+        {
+          "id": "se",
+          "root": "se",
+          "type": "Prefix",
+          "meaning": "apart, move away from",
+          "examples": [
+            "secede"
+          ]
+        },
+        {
+          "id": "semi",
+          "root": "semi",
+          "type": "Prefix",
+          "meaning": "half",
+          "examples": [
+            "semifinal",
+            "semiconscious",
+            "semiannual",
+            "semimonthly"
+          ]
+        },
+        {
+          "id": "sub-suc-suf-sup-sur-sus",
+          "root": "sub, suc, suf, sup, sur, sus",
+          "type": "Prefix",
+          "meaning": "under, below, from, secretly, instead of",
+          "examples": [
+            "sustain",
+            "survive",
+            "support",
+            "suffice"
+          ]
+        },
+        {
+          "id": "super-supra",
+          "root": "super, supra",
+          "type": "Prefix",
+          "meaning": "over, above",
+          "examples": [
+            "superior",
+            "suprarenal",
+            "superscript",
+            "supernatural"
+          ]
+        },
+        {
+          "id": "syn-sym",
+          "root": "syn, sym",
+          "type": "Prefix",
+          "meaning": "together, at the same time",
+          "examples": [
+            "sympathy",
+            "synthesis",
+            "synchronous",
+            "syndicate"
+          ]
+        },
+        {
+          "id": "tele",
+          "root": "tele",
+          "type": "Prefix",
+          "meaning": "distance, from afar",
+          "examples": [
+            "television",
+            "telephone",
+            "telegraph",
+            "telemetry"
+          ]
+        },
+        {
+          "id": "tera",
+          "root": "tera",
+          "type": "Prefix",
+          "meaning": "trillion",
+          "examples": [
+            "terabyte",
+            "teraflop"
+          ]
+        },
+        {
+          "id": "trans",
+          "root": "trans",
+          "type": "Prefix",
+          "meaning": "across, beyond, change",
+          "examples": [
+            "transform",
+            "transoceanic",
+            "transmit",
+            "transport"
+          ]
+        },
+        {
+          "id": "un",
+          "root": "un",
+          "type": "Prefix",
+          "meaning": "not, against, opposite",
+          "examples": [
+            "unceasing"
+          ]
+        },
+        {
+          "id": "unti",
+          "root": "unti",
+          "type": "Prefix",
+          "meaning": "before",
+          "examples": []
+        },
+        {
+          "id": "with",
+          "root": "with",
+          "type": "Prefix",
+          "meaning": "against",
+          "examples": []
         }
       ]
     },
     {
-      "id": "hard-words",
-      "name": "Hard Words",
-      "difficulty": "Hard",
-      "totalWords": 51,
+      "id": "root-deck",
+      "name": "Roots",
+      "type": "Root",
+      "totalWords": 159,
       "words": [
         {
-          "id": "obfuscate",
-          "word": "obfuscate",
-          "root": "fus",
-          "meaning": "unclear, confused",
-          "definition": "verb: to make something unclear or difficult to understand",
-          "example": "The report tried to obfuscate the real issues."
+          "id": "act-ag",
+          "root": "act, ag",
+          "type": "Root",
+          "meaning": "do, act, drive",
+          "examples": [
+            "active",
+            "react",
+            "agent",
+            "active"
+          ]
+        },
+        {
+          "id": "am-ami",
+          "root": "am, ami",
+          "type": "Root",
+          "meaning": "love, like",
+          "examples": [
+            "amorous",
+            "amiable",
+            "amicable"
+          ]
+        },
+        {
+          "id": "ambul",
+          "root": "ambul",
+          "type": "Root",
+          "meaning": "to walk",
+          "examples": [
+            "ambulatory",
+            "amble",
+            "ambulance",
+            "somnambulist"
+          ]
+        },
+        {
+          "id": "anim",
+          "root": "anim",
+          "type": "Root",
+          "meaning": "mind, life, spirit, anger",
+          "examples": [
+            "animal",
+            "animate",
+            "animosity"
+          ]
+        },
+        {
+          "id": "ann-annu-enni",
+          "root": "ann, annu, enni",
+          "type": "Root",
+          "meaning": "yearly",
+          "examples": [
+            "annual",
+            "annuity",
+            "anniversary",
+            "perennial"
+          ]
+        },
+        {
+          "id": "auc-aug-aut",
+          "root": "auc, aug, aut",
+          "type": "Root",
+          "meaning": "to originate, to increase",
+          "examples": [
+            "augment",
+            "author",
+            "auction"
+          ]
+        },
+        {
+          "id": "aud-audi-aur",
+          "root": "aud, audi, aur",
+          "type": "Root",
+          "meaning": "to hear",
+          "examples": [
+            "audience",
+            "auditory",
+            "audible",
+            "auditorium"
+          ]
+        },
+        {
+          "id": "bene",
+          "root": "bene",
+          "type": "Root",
+          "meaning": "good, well, gentle",
+          "examples": [
+            "benefactor",
+            "beneficial",
+            "benevolent",
+            "benediction"
+          ]
+        },
+        {
+          "id": "bi-bine",
+          "root": "bi, bine",
+          "type": "Root",
+          "meaning": "two",
+          "examples": [
+            "biped",
+            "bifurcate",
+            "biweekly",
+            "bivalve"
+          ]
+        },
+        {
+          "id": "bibli-biblio",
+          "root": "bibli, biblio",
+          "type": "Root",
+          "meaning": "book",
+          "examples": [
+            "bibliophile",
+            "bibliography"
+          ]
+        },
+        {
+          "id": "bio-bi",
+          "root": "bio, bi",
+          "type": "Root",
+          "meaning": "life",
+          "examples": [
+            "biography",
+            "biology"
+          ]
+        },
+        {
+          "id": "brev",
+          "root": "brev",
+          "type": "Root",
+          "meaning": "short",
+          "examples": [
+            "abbreviate",
+            "brevity",
+            "brief"
+          ]
+        },
+        {
+          "id": "cad-cap-cas-ceiv-cept-capt-cid-cip",
+          "root": "cad, cap, cas, ceiv, cept, capt, cid, cip",
+          "type": "Root",
+          "meaning": "to take, to seize, to hold",
+          "examples": [
+            "receive",
+            "deceive",
+            "capable",
+            "capacious"
+          ]
+        },
+        {
+          "id": "ceas-cede-ceed-cess",
+          "root": "ceas, cede, ceed, cess",
+          "type": "Root",
+          "meaning": "to go, to yield",
+          "examples": [
+            "succeed",
+            "proceed",
+            "precede",
+            "recede"
+          ]
+        },
+        {
+          "id": "cent",
+          "root": "cent",
+          "type": "Root",
+          "meaning": "hundred",
+          "examples": [
+            "centennial",
+            "century",
+            "centipede"
+          ]
+        },
+        {
+          "id": "centr",
+          "root": "centr",
+          "type": "Root",
+          "meaning": "center",
+          "examples": [
+            "eccentricity",
+            "centrifugal",
+            "concentric"
+          ]
+        },
+        {
+          "id": "chron",
+          "root": "chron",
+          "type": "Root",
+          "meaning": "time",
+          "examples": [
+            "chronology",
+            "chronic",
+            "chronicle",
+            "chronometer"
+          ]
+        },
+        {
+          "id": "cide-cis",
+          "root": "cide, cis",
+          "type": "Root",
+          "meaning": "to kill, to cut",
+          "examples": [
+            "fratricide",
+            "suicide",
+            "incision",
+            "excision"
+          ]
+        },
+        {
+          "id": "clam-claim",
+          "root": "clam, claim",
+          "type": "Root",
+          "meaning": "shout",
+          "examples": [
+            "acclaim",
+            "clamor",
+            "proclaim",
+            "exclaim"
+          ]
+        },
+        {
+          "id": "clin",
+          "root": "clin",
+          "type": "Root",
+          "meaning": "lean, bend",
+          "examples": [
+            "decline",
+            "aclinic",
+            "inclination"
+          ]
+        },
+        {
+          "id": "clud-clus-claus",
+          "root": "clud, clus, claus",
+          "type": "Root",
+          "meaning": "to close, shut",
+          "examples": [
+            "include",
+            "exclude",
+            "clause",
+            "claustrophobia"
+          ]
+        },
+        {
+          "id": "cogn-gnos",
+          "root": "cogn, gnos",
+          "type": "Root",
+          "meaning": "know, to know",
+          "examples": [
+            "recognize",
+            "cognizant",
+            "diagnose",
+            "agnostic"
+          ]
+        },
+        {
+          "id": "corp",
+          "root": "corp",
+          "type": "Root",
+          "meaning": "body",
+          "examples": [
+            "corporate",
+            "corpse",
+            "corpulent",
+            "incorporate"
+          ]
+        },
+        {
+          "id": "cort",
+          "root": "cort",
+          "type": "Root",
+          "meaning": "correct",
+          "examples": [
+            "escort",
+            "cortage"
+          ]
+        },
+        {
+          "id": "cour-cur-curr-curs",
+          "root": "cour, cur, curr, curs",
+          "type": "Root",
+          "meaning": "run, course",
+          "examples": [
+            "occur",
+            "excursion",
+            "discourse",
+            "courier"
+          ]
+        },
+        {
+          "id": "cre-cresc-cret-crease",
+          "root": "cre, cresc, cret, crease",
+          "type": "Root",
+          "meaning": "grow",
+          "examples": [
+            "create",
+            "crescent",
+            "accretion",
+            "increase"
+          ]
+        },
+        {
+          "id": "cred",
+          "root": "cred",
+          "type": "Root",
+          "meaning": "to believe",
+          "examples": [
+            "credo",
+            "credible",
+            "credence",
+            "credit"
+          ]
+        },
+        {
+          "id": "cycl",
+          "root": "cycl",
+          "type": "Root",
+          "meaning": "circle, wheel",
+          "examples": [
+            "bicycle",
+            "cyclical",
+            "cycle",
+            "encyclical"
+          ]
+        },
+        {
+          "id": "dec",
+          "root": "dec",
+          "type": "Root",
+          "meaning": "ten",
+          "examples": [
+            "decimal",
+            "decade",
+            "decalogue",
+            "decimate"
+          ]
+        },
+        {
+          "id": "dec-dign",
+          "root": "dec, dign",
+          "type": "Root",
+          "meaning": "suitable",
+          "examples": [
+            "decent",
+            "decorate",
+            "dignity"
+          ]
+        },
+        {
+          "id": "dei-div",
+          "root": "dei, div",
+          "type": "Root",
+          "meaning": "God",
+          "examples": [
+            "divinity",
+            "divine",
+            "deity",
+            "divination"
+          ]
+        },
+        {
+          "id": "demo",
+          "root": "demo",
+          "type": "Root",
+          "meaning": "people",
+          "examples": [
+            "democracy",
+            "demagogue",
+            "epidemic"
+          ]
+        },
+        {
+          "id": "di",
+          "root": "di",
+          "type": "Root",
+          "meaning": "two",
+          "examples": [
+            "divide",
+            "diverge",
+            "diglycerides"
+          ]
+        },
+        {
+          "id": "dic-dict-dit",
+          "root": "dic, dict, dit",
+          "type": "Root",
+          "meaning": "say, speak",
+          "examples": [
+            "predict",
+            "verdict",
+            "malediction",
+            "dictionary"
+          ]
+        },
+        {
+          "id": "dit",
+          "root": "dit",
+          "type": "Root",
+          "meaning": "give",
+          "examples": []
+        },
+        {
+          "id": "doc-doct",
+          "root": "doc, doct",
+          "type": "Root",
+          "meaning": "teach, prove",
+          "examples": [
+            "docile",
+            "doctor",
+            "doctrine",
+            "document"
+          ]
+        },
+        {
+          "id": "dog-dox",
+          "root": "dog, dox",
+          "type": "Root",
+          "meaning": "thought, idea",
+          "examples": [
+            "dogma",
+            "orthodox",
+            "paradox"
+          ]
+        },
+        {
+          "id": "duc-duct",
+          "root": "duc, duct",
+          "type": "Root",
+          "meaning": "to lead, pull",
+          "examples": [
+            "produce",
+            "abduct",
+            "product",
+            "transducer"
+          ]
+        },
+        {
+          "id": "equi",
+          "root": "equi",
+          "type": "Root",
+          "meaning": "equal",
+          "examples": [
+            "equidistant",
+            "equilateral",
+            "equilibrium",
+            "equinox"
+          ]
+        },
+        {
+          "id": "ev-et",
+          "root": "ev, et",
+          "type": "Root",
+          "meaning": "time, age",
+          "examples": [
+            "medieval",
+            "eternal"
+          ]
+        },
+        {
+          "id": "fa-fess",
+          "root": "fa, fess",
+          "type": "Root",
+          "meaning": "speak",
+          "examples": [
+            "fable",
+            "fabulous",
+            "fame",
+            "famous"
+          ]
+        },
+        {
+          "id": "fac-fact-fec-fic-fas-fea",
+          "root": "fac, fact, fec, fic, fas, fea",
+          "type": "Root",
+          "meaning": "make do, do",
+          "examples": [
+            "difficult",
+            "fashion",
+            "feasible",
+            "feature"
+          ]
+        },
+        {
+          "id": "fer",
+          "root": "fer",
+          "type": "Root",
+          "meaning": "bear, carry",
+          "examples": [
+            "fertile",
+            "infer",
+            "refer"
+          ]
+        },
+        {
+          "id": "fic-feign-fain-fit-feat",
+          "root": "fic, feign, fain, fit, feat",
+          "type": "Root",
+          "meaning": "shape, make, fashion",
+          "examples": [
+            "fiction",
+            "faint",
+            "feign"
+          ]
+        },
+        {
+          "id": "fid",
+          "root": "fid",
+          "type": "Root",
+          "meaning": "belief, faith",
+          "examples": [
+            "confide",
+            "diffident",
+            "fidelity"
+          ]
+        },
+        {
+          "id": "fig",
+          "root": "fig",
+          "type": "Root",
+          "meaning": "shape, form",
+          "examples": [
+            "figurem",
+            "effigy",
+            "figure",
+            "figment"
+          ]
+        },
+        {
+          "id": "flect-flex",
+          "root": "flect, flex",
+          "type": "Root",
+          "meaning": "to bend",
+          "examples": [
+            "flexible",
+            "reflection",
+            "deflect",
+            "circumflex"
+          ]
+        },
+        {
+          "id": "flict",
+          "root": "flict",
+          "type": "Root",
+          "meaning": "strike",
+          "examples": [
+            "affliction",
+            "conflict",
+            "inflict"
+          ]
+        },
+        {
+          "id": "flu-fluct-flux",
+          "root": "flu, fluct, flux",
+          "type": "Root",
+          "meaning": "flow",
+          "examples": [
+            "effluence",
+            "influence",
+            "effluvium",
+            "fluctuate"
+          ]
+        },
+        {
+          "id": "form",
+          "root": "form",
+          "type": "Root",
+          "meaning": "shape",
+          "examples": [
+            "format",
+            "formulate"
+          ]
+        },
+        {
+          "id": "fort",
+          "root": "fort",
+          "type": "Root",
+          "meaning": "strength",
+          "examples": [
+            "effort",
+            "forte",
+            "fortifiable"
+          ]
+        },
+        {
+          "id": "fract-frag-frai",
+          "root": "fract, frag, frai",
+          "type": "Root",
+          "meaning": "break",
+          "examples": [
+            "frail",
+            "fracture",
+            "fragment"
+          ]
+        },
+        {
+          "id": "fuge",
+          "root": "fuge",
+          "type": "Root",
+          "meaning": "flee",
+          "examples": [
+            "subterfuge",
+            "refuge",
+            "centrifuge"
+          ]
+        },
+        {
+          "id": "gen-gin",
+          "root": "gen, gin",
+          "type": "Root",
+          "meaning": "to give birth, kind",
+          "examples": [
+            "generate",
+            "generally",
+            "gingerly",
+            "indigenous"
+          ]
+        },
+        {
+          "id": "geo",
+          "root": "geo",
+          "type": "Root",
+          "meaning": "earth",
+          "examples": [
+            "geography"
+          ]
+        },
+        {
+          "id": "gor",
+          "root": "gor",
+          "type": "Root",
+          "meaning": "to gather, to bring together",
+          "examples": [
+            "category",
+            "categorize"
+          ]
+        },
+        {
+          "id": "grad-gress-gree",
+          "root": "grad, gress, gree",
+          "type": "Root",
+          "meaning": "to gather, to bring together",
+          "examples": [
+            "grade",
+            "degree",
+            "progress"
+          ]
+        },
+        {
+          "id": "graph-gram-graf",
+          "root": "graph, gram, graf",
+          "type": "Root",
+          "meaning": "to write, draw",
+          "examples": [
+            "polygraph",
+            "grammar",
+            "biography",
+            "graphite"
+          ]
+        },
+        {
+          "id": "hale",
+          "root": "hale",
+          "type": "Root",
+          "meaning": "breathe",
+          "examples": []
+        },
+        {
+          "id": "her-hes",
+          "root": "her, hes",
+          "type": "Root",
+          "meaning": "to stick",
+          "examples": [
+            "adhere",
+            "hesitate"
+          ]
+        },
+        {
+          "id": "hex-ses-sex",
+          "root": "hex, ses, sex",
+          "type": "Root",
+          "meaning": "six",
+          "examples": [
+            "hexagon",
+            "hexameter",
+            "sestet",
+            "sextuplets"
+          ]
+        },
+        {
+          "id": "it",
+          "root": "it",
+          "type": "Root",
+          "meaning": "go",
+          "examples": []
+        },
+        {
+          "id": "jac-ject",
+          "root": "jac, ject",
+          "type": "Root",
+          "meaning": "to throw",
+          "examples": [
+            "reject",
+            "eject",
+            "project",
+            "trajectory"
+          ]
+        },
+        {
+          "id": "judice",
+          "root": "judice",
+          "type": "Root",
+          "meaning": "judge",
+          "examples": []
+        },
+        {
+          "id": "jug-junct-just",
+          "root": "jug, junct, just",
+          "type": "Root",
+          "meaning": "to join",
+          "examples": [
+            "junction",
+            "adjust",
+            "conjugal"
+          ]
+        },
+        {
+          "id": "labor",
+          "root": "labor",
+          "type": "Root",
+          "meaning": "work",
+          "examples": []
+        },
+        {
+          "id": "lect-leg-lig",
+          "root": "lect, leg, lig",
+          "type": "Root",
+          "meaning": "choose, gather, select, read",
+          "examples": [
+            "collect",
+            "legible",
+            "eligible"
+          ]
+        },
+        {
+          "id": "lex-leag-leg",
+          "root": "lex, leag, leg",
+          "type": "Root",
+          "meaning": "law",
+          "examples": [
+            "legal",
+            "college",
+            "league"
+          ]
+        },
+        {
+          "id": "lide",
+          "root": "lide",
+          "type": "Root",
+          "meaning": "strike",
+          "examples": []
+        },
+        {
+          "id": "loc",
+          "root": "loc",
+          "type": "Root",
+          "meaning": "place, area",
+          "examples": [
+            "location",
+            "locally"
+          ]
+        },
+        {
+          "id": "log",
+          "root": "log",
+          "type": "Root",
+          "meaning": "say, speech, word, reason, study",
+          "examples": [
+            "logic"
+          ]
+        },
+        {
+          "id": "luc-lum-lust",
+          "root": "luc, lum, lust",
+          "type": "Root",
+          "meaning": "light",
+          "examples": [
+            "translucent",
+            "illuminate",
+            "illustrate"
+          ]
+        },
+        {
+          "id": "lude",
+          "root": "lude",
+          "type": "Root",
+          "meaning": "play",
+          "examples": []
+        },
+        {
+          "id": "main",
+          "root": "main",
+          "type": "Root",
+          "meaning": "bide",
+          "examples": []
+        },
+        {
+          "id": "mal",
+          "root": "mal",
+          "type": "Root",
+          "meaning": "bad, badly",
+          "examples": [
+            "malformation",
+            "maladjusted",
+            "dismal",
+            "malady"
+          ]
+        },
+        {
+          "id": "man-manu",
+          "root": "man, manu",
+          "type": "Root",
+          "meaning": "hand, make, do",
+          "examples": [
+            "manage",
+            "management"
+          ]
+        },
+        {
+          "id": "mem",
+          "root": "mem",
+          "type": "Root",
+          "meaning": "recall, remember",
+          "examples": [
+            "memory",
+            "commemorate"
+          ]
+        },
+        {
+          "id": "ment",
+          "root": "ment",
+          "type": "Root",
+          "meaning": "mind",
+          "examples": [
+            "mental",
+            "mention"
+          ]
+        },
+        {
+          "id": "metr",
+          "root": "metr",
+          "type": "Root",
+          "meaning": "admeasure",
+          "examples": []
+        },
+        {
+          "id": "mill-kilo",
+          "root": "mill, kilo",
+          "type": "Root",
+          "meaning": "thousand",
+          "examples": [
+            "millennium",
+            "kilobyte",
+            "kiloton"
+          ]
+        },
+        {
+          "id": "min",
+          "root": "min",
+          "type": "Root",
+          "meaning": "little, small",
+          "examples": [
+            "minute",
+            "minor",
+            "minuscule"
+          ]
+        },
+        {
+          "id": "mit-miss",
+          "root": "mit, miss",
+          "type": "Root",
+          "meaning": "to send",
+          "examples": [
+            "transmit",
+            "permit",
+            "missile",
+            "missionary"
+          ]
+        },
+        {
+          "id": "mob-mov-mot",
+          "root": "mob, mov, mot",
+          "type": "Root",
+          "meaning": "move",
+          "examples": [
+            "motion",
+            "remove",
+            "mobile"
+          ]
+        },
+        {
+          "id": "morph",
+          "root": "morph",
+          "type": "Root",
+          "meaning": "shape",
+          "examples": [
+            "polymorphic",
+            "morpheme",
+            "amorphous"
+          ]
+        },
+        {
+          "id": "nasc-nat-gnant-nai",
+          "root": "nasc, nat, gnant, nai",
+          "type": "Root",
+          "meaning": "to be born",
+          "examples": [
+            "nascent",
+            "native",
+            "pregnant",
+            "naive"
+          ]
+        },
+        {
+          "id": "nom-nym",
+          "root": "nom, nym",
+          "type": "Root",
+          "meaning": "name",
+          "examples": [
+            "nominate",
+            "synonym"
+          ]
+        },
+        {
+          "id": "non",
+          "root": "non",
+          "type": "Root",
+          "meaning": "nine",
+          "examples": [
+            "nonagon"
+          ]
+        },
+        {
+          "id": "nov",
+          "root": "nov",
+          "type": "Root",
+          "meaning": "new",
+          "examples": [
+            "novice",
+            "novelty"
+          ]
+        },
+        {
+          "id": "oct",
+          "root": "oct",
+          "type": "Root",
+          "meaning": "eight",
+          "examples": [
+            "octopus",
+            "octagon",
+            "octogenarian",
+            "octave"
+          ]
+        },
+        {
+          "id": "omni",
+          "root": "omni",
+          "type": "Root",
+          "meaning": "all",
+          "examples": [
+            "omnipotent",
+            "omnivorous",
+            "omniscient"
+          ]
+        },
+        {
+          "id": "oper",
+          "root": "oper",
+          "type": "Root",
+          "meaning": "work",
+          "examples": [
+            "operate",
+            "opus"
+          ]
+        },
+        {
+          "id": "pair-pare",
+          "root": "pair, pare",
+          "type": "Root",
+          "meaning": "arrange",
+          "examples": []
+        },
+        {
+          "id": "pat-pass-path",
+          "root": "pat, pass, path",
+          "type": "Root",
+          "meaning": "feel, suffer",
+          "examples": [
+            "patient",
+            "passion",
+            "sympathy",
+            "pathology"
+          ]
+        },
+        {
+          "id": "ped-pod",
+          "root": "ped, pod",
+          "type": "Root",
+          "meaning": "foot",
+          "examples": [
+            "impede",
+            "pedestal",
+            "podium",
+            "pedestrian"
+          ]
+        },
+        {
+          "id": "pel-puls",
+          "root": "pel, puls",
+          "type": "Root",
+          "meaning": "drive, push",
+          "examples": [
+            "repel",
+            "pulse"
+          ]
+        },
+        {
+          "id": "pend-pond-pens",
+          "root": "pend, pond, pens",
+          "type": "Root",
+          "meaning": "to hang, weigh",
+          "examples": [
+            "suspend",
+            "append"
+          ]
+        },
+        {
+          "id": "phan-phas-phen-fan-phant-fant",
+          "root": "phan, phas, phen, fan, phant, fant",
+          "type": "Root",
+          "meaning": "show, make visible",
+          "examples": [
+            "phantom",
+            "fantasy"
+          ]
+        },
+        {
+          "id": "phe",
+          "root": "phe",
+          "type": "Root",
+          "meaning": "speak",
+          "examples": []
+        },
+        {
+          "id": "phi",
+          "root": "phi",
+          "type": "Root",
+          "meaning": "love",
+          "examples": [
+            "philosopher"
+          ]
+        },
+        {
+          "id": "phon",
+          "root": "phon",
+          "type": "Root",
+          "meaning": "sound",
+          "examples": [
+            "telephone",
+            "phonics",
+            "phonograph",
+            "phonetic"
+          ]
+        },
+        {
+          "id": "phot",
+          "root": "phot",
+          "type": "Root",
+          "meaning": "light",
+          "examples": [
+            "photograph",
+            "photosynthesis",
+            "photon"
+          ]
+        },
+        {
+          "id": "pict",
+          "root": "pict",
+          "type": "Root",
+          "meaning": "paint, show, draw",
+          "examples": [
+            "picture",
+            "depict"
+          ]
+        },
+        {
+          "id": "pli-ply",
+          "root": "pli, ply",
+          "type": "Root",
+          "meaning": "fold",
+          "examples": [
+            "reply",
+            "implicate",
+            "ply"
+          ]
+        },
+        {
+          "id": "plore",
+          "root": "plore",
+          "type": "Root",
+          "meaning": "weep",
+          "examples": []
+        },
+        {
+          "id": "pon-pos",
+          "root": "pon, pos",
+          "type": "Root",
+          "meaning": "put, place",
+          "examples": [
+            "postpone",
+            "position",
+            "posture"
+          ]
+        },
+        {
+          "id": "port",
+          "root": "port",
+          "type": "Root",
+          "meaning": "to carry",
+          "examples": [
+            "porter",
+            "portable",
+            "report",
+            "transportation"
+          ]
+        },
+        {
+          "id": "prim-prin",
+          "root": "prim, prin",
+          "type": "Root",
+          "meaning": "first",
+          "examples": []
+        },
+        {
+          "id": "psych",
+          "root": "psych",
+          "type": "Root",
+          "meaning": "mind",
+          "examples": [
+            "psychology"
+          ]
+        },
+        {
+          "id": "pute",
+          "root": "pute",
+          "type": "Root",
+          "meaning": "think",
+          "examples": []
+        },
+        {
+          "id": "quat-quad",
+          "root": "quat, quad",
+          "type": "Root",
+          "meaning": "four",
+          "examples": [
+            "quadrangle",
+            "quadruplets"
+          ]
+        },
+        {
+          "id": "quint-penta",
+          "root": "quint, penta",
+          "type": "Root",
+          "meaning": "five",
+          "examples": [
+            "quintet",
+            "quintuplets",
+            "pentagon",
+            "pentane"
+          ]
+        },
+        {
+          "id": "quip",
+          "root": "quip",
+          "type": "Root",
+          "meaning": "ship",
+          "examples": []
+        },
+        {
+          "id": "quir-quis-quest-quer",
+          "root": "quir, quis, quest, quer",
+          "type": "Root",
+          "meaning": "seek, ask",
+          "examples": [
+            "query",
+            "inquire",
+            "exquisite",
+            "quest"
+          ]
+        },
+        {
+          "id": "rupt",
+          "root": "rupt",
+          "type": "Root",
+          "meaning": "break",
+          "examples": [
+            "rupture",
+            "corrupt",
+            "interrupt"
+          ]
+        },
+        {
+          "id": "sanct",
+          "root": "sanct",
+          "type": "Root",
+          "meaning": "holy",
+          "examples": [
+            "sanctify",
+            "sanctuary",
+            "sanction",
+            "sanctimonious"
+          ]
+        },
+        {
+          "id": "sci-scio",
+          "root": "sci, scio",
+          "type": "Root",
+          "meaning": "to know",
+          "examples": [
+            "conscious",
+            "science"
+          ]
+        },
+        {
+          "id": "scrib-script",
+          "root": "scrib, script",
+          "type": "Root",
+          "meaning": "to write",
+          "examples": [
+            "inscription",
+            "prescribe",
+            "proscribe",
+            "manuscript"
+          ]
+        },
+        {
+          "id": "sect-sec",
+          "root": "sect, sec",
+          "type": "Root",
+          "meaning": "cut",
+          "examples": [
+            "intersect",
+            "transect",
+            "dissect",
+            "secant"
+          ]
+        },
+        {
+          "id": "sent-sens",
+          "root": "sent, sens",
+          "type": "Root",
+          "meaning": "feel, think",
+          "examples": [
+            "sentiment",
+            "sensation"
+          ]
+        },
+        {
+          "id": "sept",
+          "root": "sept",
+          "type": "Root",
+          "meaning": "seven",
+          "examples": [
+            "septet",
+            "septennial"
+          ]
+        },
+        {
+          "id": "sequ-secut-sue",
+          "root": "sequ, secut, sue",
+          "type": "Root",
+          "meaning": "follow",
+          "examples": [
+            "sequence",
+            "consecutive",
+            "ensue"
+          ]
+        },
+        {
+          "id": "serve",
+          "root": "serve",
+          "type": "Root",
+          "meaning": "keep",
+          "examples": []
+        },
+        {
+          "id": "sist",
+          "root": "sist",
+          "type": "Root",
+          "meaning": "to withstand, make up",
+          "examples": [
+            "insist"
+          ]
+        },
+        {
+          "id": "soci",
+          "root": "soci",
+          "type": "Root",
+          "meaning": "to join, companions",
+          "examples": [
+            "sociable",
+            "society"
+          ]
+        },
+        {
+          "id": "sol",
+          "root": "sol",
+          "type": "Root",
+          "meaning": "alone",
+          "examples": [
+            "solitary",
+            "isolate"
+          ]
+        },
+        {
+          "id": "solv-solu-solut",
+          "root": "solv, solu, solut",
+          "type": "Root",
+          "meaning": "loosen, explain",
+          "examples": [
+            "solve",
+            "absolute",
+            "soluble"
+          ]
+        },
+        {
+          "id": "spect-spec-spi-spic",
+          "root": "spect, spec, spi, spic",
+          "type": "Root",
+          "meaning": "to look, see",
+          "examples": [
+            "inspect",
+            "spectator",
+            "circumspect",
+            "retrospect"
+          ]
+        },
+        {
+          "id": "sper",
+          "root": "sper",
+          "type": "Root",
+          "meaning": "hope",
+          "examples": []
+        },
+        {
+          "id": "spir",
+          "root": "spir",
+          "type": "Root",
+          "meaning": "breath, soul",
+          "examples": [
+            "respiration",
+            "inspire"
+          ]
+        },
+        {
+          "id": "stand-stant-stab-stat-stan-sti-sta-st-stead",
+          "root": "stand, stant, stab, stat, stan, sti, sta, st, stead",
+          "type": "Root",
+          "meaning": "stand",
+          "examples": [
+            "stature",
+            "establish",
+            "stance"
+          ]
+        },
+        {
+          "id": "strain-strict-string-stige",
+          "root": "strain, strict, string, stige",
+          "type": "Root",
+          "meaning": "bind, pull",
+          "examples": [
+            "constrict",
+            "restrain",
+            "stringent",
+            "prestige"
+          ]
+        },
+        {
+          "id": "stru-struct-stroy-stry",
+          "root": "stru, struct, stroy, stry",
+          "type": "Root",
+          "meaning": "build",
+          "examples": [
+            "destroy",
+            "misconstrue",
+            "obstruct"
+          ]
+        },
+        {
+          "id": "tact-tang-tig-ting",
+          "root": "tact, tang, tig, ting",
+          "type": "Root",
+          "meaning": "touch",
+          "examples": [
+            "tactile",
+            "tactilely",
+            "tangible",
+            "contiguous"
+          ]
+        },
+        {
+          "id": "tain-ten-tent-tin",
+          "root": "tain, ten, tent, tin",
+          "type": "Root",
+          "meaning": "hold, keep, have",
+          "examples": [
+            "retain",
+            "continue",
+            "content",
+            "tenacious"
+          ]
+        },
+        {
+          "id": "tect-teg",
+          "root": "tect, teg",
+          "type": "Root",
+          "meaning": "cover",
+          "examples": [
+            "detect",
+            "protect",
+            "tegular",
+            "tegument"
+          ]
+        },
+        {
+          "id": "tend-tens-tend",
+          "root": "tend, tens, tend",
+          "type": "Root",
+          "meaning": "stretch",
+          "examples": [
+            "contend",
+            "extensive"
+          ]
+        },
+        {
+          "id": "term",
+          "root": "term",
+          "type": "Root",
+          "meaning": "end, boundary, limit",
+          "examples": [
+            "exterminate",
+            "terminal"
+          ]
+        },
+        {
+          "id": "terr",
+          "root": "terr",
+          "type": "Root",
+          "meaning": "earth",
+          "examples": [
+            "territory",
+            "terrain"
+          ]
+        },
+        {
+          "id": "test",
+          "root": "test",
+          "type": "Root",
+          "meaning": "see, witness",
+          "examples": [
+            "attest",
+            "testify"
+          ]
+        },
+        {
+          "id": "theo-the",
+          "root": "theo, the",
+          "type": "Root",
+          "meaning": "God",
+          "examples": [
+            "theology",
+            "theist",
+            "polytheist"
+          ]
+        },
+        {
+          "id": "therm",
+          "root": "therm",
+          "type": "Root",
+          "meaning": "heat",
+          "examples": [
+            "thermometer",
+            "thermal"
+          ]
+        },
+        {
+          "id": "tire",
+          "root": "tire",
+          "type": "Root",
+          "meaning": "draw, pull",
+          "examples": []
+        },
+        {
+          "id": "tor-tors-tort",
+          "root": "tor, tors, tort",
+          "type": "Root",
+          "meaning": "twist",
+          "examples": [
+            "torsion",
+            "torment",
+            "contort"
+          ]
+        },
+        {
+          "id": "tract-trai-treat",
+          "root": "tract, trai, treat",
+          "type": "Root",
+          "meaning": "to drag, draw, pull",
+          "examples": [
+            "attract",
+            "tractor",
+            "traction",
+            "extract"
+          ]
+        },
+        {
+          "id": "tri",
+          "root": "tri",
+          "type": "Root",
+          "meaning": "three",
+          "examples": [
+            "tripod",
+            "triangle",
+            "trinity",
+            "trilateral"
+          ]
+        },
+        {
+          "id": "tribute",
+          "root": "tribute",
+          "type": "Root",
+          "meaning": "give",
+          "examples": []
+        },
+        {
+          "id": "uni",
+          "root": "uni",
+          "type": "Root",
+          "meaning": "one",
+          "examples": [
+            "uniform",
+            "unilateral",
+            "universal",
+            "unity"
+          ]
+        },
+        {
+          "id": "vac",
+          "root": "vac",
+          "type": "Root",
+          "meaning": "empty",
+          "examples": [
+            "vacant",
+            "vacuum"
+          ]
+        },
+        {
+          "id": "vade",
+          "root": "vade",
+          "type": "Root",
+          "meaning": "go",
+          "examples": []
+        },
+        {
+          "id": "veh-vect",
+          "root": "veh, vect",
+          "type": "Root",
+          "meaning": "to carry",
+          "examples": [
+            "vector",
+            "vehicle",
+            "convection",
+            "vehement"
+          ]
+        },
+        {
+          "id": "ven-vent",
+          "root": "ven, vent",
+          "type": "Root",
+          "meaning": "come",
+          "examples": [
+            "convene",
+            "invent",
+            "prevent"
+          ]
+        },
+        {
+          "id": "ver",
+          "root": "ver",
+          "type": "Root",
+          "meaning": "true",
+          "examples": [
+            "verify"
+          ]
+        },
+        {
+          "id": "verb-verv",
+          "root": "verb, verv",
+          "type": "Root",
+          "meaning": "word",
+          "examples": [
+            "verify",
+            "veracity",
+            "verbalize",
+            "verve"
+          ]
+        },
+        {
+          "id": "vert-vers",
+          "root": "vert, vers",
+          "type": "Root",
+          "meaning": "to turn, change",
+          "examples": [
+            "convert",
+            "revert",
+            "advertise",
+            "versatile"
+          ]
+        },
+        {
+          "id": "vi",
+          "root": "vi",
+          "type": "Root",
+          "meaning": "way",
+          "examples": []
+        },
+        {
+          "id": "vid-vie-vis",
+          "root": "vid, vie, vis",
+          "type": "Root",
+          "meaning": "see",
+          "examples": [
+            "visible",
+            "video",
+            "review",
+            "indivisible"
+          ]
+        },
+        {
+          "id": "vit-viv",
+          "root": "vit, viv",
+          "type": "Root",
+          "meaning": "life",
+          "examples": [
+            "vital",
+            "vitality",
+            "vitamins",
+            "revitalize"
+          ]
+        },
+        {
+          "id": "voc-voke",
+          "root": "voc, voke",
+          "type": "Root",
+          "meaning": "call",
+          "examples": [
+            "vocal",
+            "revoke"
+          ]
+        },
+        {
+          "id": "volv-volt-vol",
+          "root": "volv, volt, vol",
+          "type": "Root",
+          "meaning": "roll, turn",
+          "examples": [
+            "revolve",
+            "revolt",
+            "evolution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suffix-deck",
+      "name": "Suffixes",
+      "type": "Suffix",
+      "totalWords": 62,
+      "words": [
+        {
+          "id": "-able-ible",
+          "root": "-able, -ible",
+          "type": "Suffix",
+          "meaning": "Adjective: worth, ability",
+          "examples": [
+            "solvable",
+            "incredible"
+          ]
+        },
+        {
+          "id": "-acy-cy",
+          "root": "-acy, -cy",
+          "type": "Suffix",
+          "meaning": "Noun: state or quality",
+          "examples": [
+            "privacy",
+            "infancy",
+            "adequacy",
+            "intimacy"
+          ]
+        },
+        {
+          "id": "-age",
+          "root": "-age",
+          "type": "Suffix",
+          "meaning": "Noun: activity, or result of action",
+          "examples": [
+            "courage",
+            "suffrage",
+            "shrinkage",
+            "tonnage"
+          ]
+        },
+        {
+          "id": "-al",
+          "root": "-al",
+          "type": "Suffix",
+          "meaning": "Noun: action, result of action",
+          "examples": [
+            "referral",
+            "disavowal",
+            "disposal",
+            "festival"
+          ]
+        },
+        {
+          "id": "-al-ial-ical",
+          "root": "-al, -ial, -ical",
+          "type": "Suffix",
+          "meaning": "Adjective: quality, relation",
+          "examples": [
+            "structural",
+            "territorial",
+            "categorical"
+          ]
+        },
+        {
+          "id": "-an",
+          "root": "-an",
+          "type": "Suffix",
+          "meaning": "Noun: person",
+          "examples": [
+            "artisan",
+            "guardian",
+            "historian",
+            "magician"
+          ]
+        },
+        {
+          "id": "-ance-ence",
+          "root": "-ance, -ence",
+          "type": "Suffix",
+          "meaning": "Noun: action, state, quality or process",
+          "examples": [
+            "resistance",
+            "independence",
+            "extravagance",
+            "fraudulence"
+          ]
+        },
+        {
+          "id": "-ancy-ency",
+          "root": "-ancy, -ency",
+          "type": "Suffix",
+          "meaning": "Noun: state, quality or capacity",
+          "examples": [
+            "vacancy",
+            "agency",
+            "truancy",
+            "latency"
+          ]
+        },
+        {
+          "id": "-ant-ent",
+          "root": "-ant, -ent",
+          "type": "Suffix",
+          "meaning": "Noun: an agent, something that performs the action",
+          "examples": [
+            "disinfectant",
+            "dependent",
+            "fragrant"
+          ]
+        },
+        {
+          "id": "-ant-ent-ient",
+          "root": "-ant, -ent, -ient",
+          "type": "Suffix",
+          "meaning": "Adjective: kind of agent, indication",
+          "examples": [
+            "important",
+            "dependent",
+            "convenient"
+          ]
+        },
+        {
+          "id": "-ar-ary",
+          "root": "-ar, -ary",
+          "type": "Suffix",
+          "meaning": "Adjective: resembling, related to",
+          "examples": [
+            "spectacular",
+            "unitary"
+          ]
+        },
+        {
+          "id": "-ate",
+          "root": "-ate",
+          "type": "Suffix",
+          "meaning": "Noun: state, office, function",
+          "examples": [
+            "candidate",
+            "electorate",
+            "delegate"
+          ]
+        },
+        {
+          "id": "-ate",
+          "root": "-ate",
+          "type": "Suffix",
+          "meaning": "Verb: cause to be",
+          "examples": [
+            "graduate",
+            "ameliorate",
+            "amputate",
+            "colligate"
+          ]
+        },
+        {
+          "id": "-ate",
+          "root": "-ate",
+          "type": "Suffix",
+          "meaning": "Adjective: kind of state",
+          "examples": [
+            "inviolate"
+          ]
+        },
+        {
+          "id": "-ation",
+          "root": "-ation",
+          "type": "Suffix",
+          "meaning": "Noun: action, resulting state",
+          "examples": [
+            "specialization",
+            "aggravation",
+            "alternation"
+          ]
+        },
+        {
+          "id": "-dom",
+          "root": "-dom",
+          "type": "Suffix",
+          "meaning": "Noun: place, state of being",
+          "examples": [
+            "wisdom"
+          ]
+        },
+        {
+          "id": "-ed",
+          "root": "-ed",
+          "type": "Suffix",
+          "meaning": "Verb: past tense",
+          "examples": [
+            "attained"
+          ]
+        },
+        {
+          "id": "-ed",
+          "root": "-ed",
+          "type": "Suffix",
+          "meaning": "Adjective: having the quality of",
+          "examples": [
+            "terraced"
+          ]
+        },
+        {
+          "id": "-en",
+          "root": "-en",
+          "type": "Suffix",
+          "meaning": "Verb: to cause to become",
+          "examples": [
+            "moisten"
+          ]
+        },
+        {
+          "id": "-en",
+          "root": "-en",
+          "type": "Suffix",
+          "meaning": "Adjective: material",
+          "examples": [
+            "silken"
+          ]
+        },
+        {
+          "id": "-er",
+          "root": "-er",
+          "type": "Suffix",
+          "meaning": "Adjective: comparative",
+          "examples": [
+            "brighter"
+          ]
+        },
+        {
+          "id": "-er-or",
+          "root": "-er, -or",
+          "type": "Suffix",
+          "meaning": "Noun: person or thing that does something",
+          "examples": [
+            "porter",
+            "collector"
+          ]
+        },
+        {
+          "id": "-er-or",
+          "root": "-er, -or",
+          "type": "Suffix",
+          "meaning": "Verb: action",
+          "examples": [
+            "ponder",
+            "clamor"
+          ]
+        },
+        {
+          "id": "-est",
+          "root": "-est",
+          "type": "Suffix",
+          "meaning": "Adjective: superlative",
+          "examples": [
+            "strongest"
+          ]
+        },
+        {
+          "id": "-fold",
+          "root": "-fold",
+          "type": "Suffix",
+          "meaning": "Adverb: in a manner of, marked by",
+          "examples": [
+            "fourfold"
+          ]
+        },
+        {
+          "id": "-ful",
+          "root": "-ful",
+          "type": "Suffix",
+          "meaning": "Noun: an amount or quantity that fills",
+          "examples": [
+            "mouthful"
+          ]
+        },
+        {
+          "id": "-ful",
+          "root": "-ful",
+          "type": "Suffix",
+          "meaning": "Adjective: having, giving, marked by",
+          "examples": [
+            "fanciful"
+          ]
+        },
+        {
+          "id": "-fy",
+          "root": "-fy",
+          "type": "Suffix",
+          "meaning": "make",
+          "examples": []
+        },
+        {
+          "id": "-ia",
+          "root": "-ia",
+          "type": "Suffix",
+          "meaning": "Noun: names, diseases",
+          "examples": [
+            "phobia"
+          ]
+        },
+        {
+          "id": "-ian-an",
+          "root": "-ian, -an",
+          "type": "Suffix",
+          "meaning": "Noun: related to, one that is",
+          "examples": [
+            "pedestrian",
+            "human"
+          ]
+        },
+        {
+          "id": "-iatry",
+          "root": "-iatry",
+          "type": "Suffix",
+          "meaning": "Noun: art of healing",
+          "examples": [
+            "psychiatry"
+          ]
+        },
+        {
+          "id": "-ic",
+          "root": "-ic",
+          "type": "Suffix",
+          "meaning": "Adjective: quality, relation",
+          "examples": [
+            "generic"
+          ]
+        },
+        {
+          "id": "-ic-ics",
+          "root": "-ic, -ics",
+          "type": "Suffix",
+          "meaning": "Noun: related to the arts and sciences",
+          "examples": [
+            "arithmetic",
+            "economics"
+          ]
+        },
+        {
+          "id": "-ice",
+          "root": "-ice",
+          "type": "Suffix",
+          "meaning": "Noun: act",
+          "examples": [
+            "malice"
+          ]
+        },
+        {
+          "id": "-ify",
+          "root": "-ify",
+          "type": "Suffix",
+          "meaning": "Verb: cause",
+          "examples": [
+            "specify"
+          ]
+        },
+        {
+          "id": "-ile",
+          "root": "-ile",
+          "type": "Suffix",
+          "meaning": "Adjective: having the qualities of",
+          "examples": [
+            "projectile"
+          ]
+        },
+        {
+          "id": "-ing",
+          "root": "-ing",
+          "type": "Suffix",
+          "meaning": "Noun: material made for, activity, result of an activity",
+          "examples": [
+            "flooring",
+            "swimming",
+            "building"
+          ]
+        },
+        {
+          "id": "-ing",
+          "root": "-ing",
+          "type": "Suffix",
+          "meaning": "Verb: present participle",
+          "examples": [
+            "depicting"
+          ]
+        },
+        {
+          "id": "-ing",
+          "root": "-ing",
+          "type": "Suffix",
+          "meaning": "Adjective: activity",
+          "examples": [
+            "cohering"
+          ]
+        },
+        {
+          "id": "-ion",
+          "root": "-ion",
+          "type": "Suffix",
+          "meaning": "Noun: condition or action",
+          "examples": [
+            "abduction"
+          ]
+        },
+        {
+          "id": "-ish",
+          "root": "-ish",
+          "type": "Suffix",
+          "meaning": "Adjective: having the character of",
+          "examples": [
+            "newish"
+          ]
+        },
+        {
+          "id": "-ism",
+          "root": "-ism",
+          "type": "Suffix",
+          "meaning": "Noun: doctrine, belief, action or conduct",
+          "examples": [
+            "formalism"
+          ]
+        },
+        {
+          "id": "-ist",
+          "root": "-ist",
+          "type": "Suffix",
+          "meaning": "Noun: person or member",
+          "examples": [
+            "podiatrist"
+          ]
+        },
+        {
+          "id": "-ite",
+          "root": "-ite",
+          "type": "Suffix",
+          "meaning": "Noun: state or",
+          "examples": [
+            "graphite"
+          ]
+        },
+        {
+          "id": "-ity-ty",
+          "root": "-ity, -ty",
+          "type": "Suffix",
+          "meaning": "Noun: state or quality",
+          "examples": [
+            "lucidity",
+            "novelty"
+          ]
+        },
+        {
+          "id": "-ive",
+          "root": "-ive",
+          "type": "Suffix",
+          "meaning": "Noun: condition",
+          "examples": [
+            "native"
+          ]
+        },
+        {
+          "id": "-ive-ative-itive",
+          "root": "-ive, -ative, -itive",
+          "type": "Suffix",
+          "meaning": "Adjective: having the quality of",
+          "examples": [
+            "festive",
+            "cooperative",
+            "sensitive"
+          ]
+        },
+        {
+          "id": "-ize",
+          "root": "-ize",
+          "type": "Suffix",
+          "meaning": "Verb: cause",
+          "examples": [
+            "fantasize"
+          ]
+        },
+        {
+          "id": "-less",
+          "root": "-less",
+          "type": "Suffix",
+          "meaning": "Adjective: without, missing",
+          "examples": [
+            "motiveless"
+          ]
+        },
+        {
+          "id": "-ly",
+          "root": "-ly",
+          "type": "Suffix",
+          "meaning": "Adverb: in the manner of",
+          "examples": [
+            "fluently"
+          ]
+        },
+        {
+          "id": "-ment",
+          "root": "-ment",
+          "type": "Suffix",
+          "meaning": "Noun: condition or result",
+          "examples": [
+            "document"
+          ]
+        },
+        {
+          "id": "-ness",
+          "root": "-ness",
+          "type": "Suffix",
+          "meaning": "Noun: state, condition, quality",
+          "examples": [
+            "kindness"
+          ]
+        },
+        {
+          "id": "-or",
+          "root": "-or",
+          "type": "Suffix",
+          "meaning": "Noun: condition or activity",
+          "examples": [
+            "valor"
+          ]
+        },
+        {
+          "id": "-ory",
+          "root": "-ory",
+          "type": "Suffix",
+          "meaning": "Noun: place for, serves for",
+          "examples": [
+            "territory"
+          ]
+        },
+        {
+          "id": "-ous-eous-ose-ious",
+          "root": "-ous, -eous, -ose, -ious",
+          "type": "Suffix",
+          "meaning": "Adjective: having the quality of, relating to",
+          "examples": [
+            "adventurous",
+            "courageous",
+            "verbose",
+            "fractious"
+          ]
+        },
+        {
+          "id": "-ship",
+          "root": "-ship",
+          "type": "Suffix",
+          "meaning": "Noun: status, condition",
+          "examples": [
+            "relationship"
+          ]
+        },
+        {
+          "id": "-ster",
+          "root": "-ster",
+          "type": "Suffix",
+          "meaning": "person",
+          "examples": []
+        },
+        {
+          "id": "-ure",
+          "root": "-ure",
+          "type": "Suffix",
+          "meaning": "Noun: act, condition, process, function",
+          "examples": [
+            "exposure",
+            "conjecture"
+          ]
+        },
+        {
+          "id": "-ward",
+          "root": "-ward",
+          "type": "Suffix",
+          "meaning": "Adverb: in a direction or manner",
+          "examples": [
+            "homeward"
+          ]
+        },
+        {
+          "id": "-wise",
+          "root": "-wise",
+          "type": "Suffix",
+          "meaning": "Adverb: in the manner of, with regard to",
+          "examples": [
+            "timewise"
+          ]
+        },
+        {
+          "id": "-y",
+          "root": "-y",
+          "type": "Suffix",
+          "meaning": "Noun: state, condition, result of an activity",
+          "examples": [
+            "society",
+            "victory"
+          ]
+        },
+        {
+          "id": "-y",
+          "root": "-y",
+          "type": "Suffix",
+          "meaning": "Adjective: marked by, having",
+          "examples": [
+            "hungry"
+          ]
         }
       ]
     }

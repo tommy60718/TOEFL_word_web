@@ -1,36 +1,53 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
+import Header from '../components/Header';
 import DeckCard from '../components/DeckCard';
-import wordsData from '../data/words.json';
 import { useLocalStorage } from '../hooks/useLocalStorage';
-import { getProgressStats } from '../utils/progressTracker';
+import wordsData from '../data/words.json';
 
 export default function Home() {
-  const [deckProgress, setDeckProgress] = useLocalStorage('deckProgress', {});
+  const [progress] = useLocalStorage('toefl-progress', {});
+  const [decks, setDecks] = useState([]);
+
+  useEffect(() => {
+    if (wordsData && wordsData.decks) {
+      setDecks(wordsData.decks);
+    }
+  }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-900 to-purple-600 p-8">
-      <div className="max-w-6xl mx-auto">
-        <h1 className="text-5xl font-bold text-white mb-2">TOEFL Vocabulary Flashcards</h1>
-        <p className="text-gray-200 mb-12">
-          Master TOEFL vocabulary organized by prefix, root, and suffix
-        </p>
+    <div className="min-h-screen bg-purple-gradient pt-20 pb-12">
+      <Header />
+      
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="mb-12">
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">
+            TOEFL Root/Prefix/Suffix Flashcards
+          </h1>
+          <p className="text-white text-lg opacity-90">
+            Master word building with roots, prefixes, and suffixes
+          </p>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {wordsData.decks.map((deck) => {
-            const progress = deckProgress[deck.id];
-            const stats = progress ? getProgressStats(progress, deck.totalWords) : null;
+          {decks.map(deck => {
+            const deckProgress = progress[deck.id] || { mastered: [] };
+            const masteredCount = deckProgress.mastered.length;
+
             return (
               <DeckCard
                 key={deck.id}
                 deck={deck}
-                stats={stats}
+                masteredCount={masteredCount}
               />
             );
           })}
         </div>
 
-        <div className="mt-12 text-center text-gray-300 text-sm">
-          <p>Created to help you master TOEFL vocabulary efficiently</p>
+        {/* Footer Info */}
+        <div className="mt-16 text-center text-white opacity-75">
+          <p className="text-sm">
+            Track your progress across {decks.length} vocabulary decks
+          </p>
         </div>
       </div>
     </div>

@@ -1,166 +1,106 @@
-import { useState, useEffect } from 'react';
-import { useParams, useNavigate, Link } from 'react-router-dom';
+import { useParams, useNavigate } from 'react-router-dom';
+import { useEffect, useState } from 'react';
 import Flashcard from '../components/Flashcard';
+import ProgressBar from '../components/ProgressBar';
+import { useFlashcardSession } from '../hooks/useFlashcardSession';
 import wordsData from '../data/words.json';
-import { useLocalStorage } from '../hooks/useLocalStorage';
-import {
-  initializeDeckProgress,
-  markWordAsKnown,
-  markWordAsUnknown,
-  getCurrentWord,
-  getProgressStats,
-} from '../utils/progressTracker';
 
 export default function Practice() {
   const { deckId } = useParams();
   const navigate = useNavigate();
-  const [deckProgress, setDeckProgress] = useLocalStorage('deckProgress', {});
+  const [deck, setDeck] = useState(null);
 
-  const deck = wordsData.decks.find((d) => d.id === deckId);
-  const currentProgress = deckProgress[deckId] || initializeDeckProgress(deckId, deck.words);
-  const [progress, setProgress] = useState(currentProgress);
-  const [sessionEnded, setSessionEnded] = useState(false);
+  const {
+    currentCard,
+    isRevealed,
+    setIsRevealed,
+    isLoading,
+    markAsKnown,
+    markAsUnknown,
+    stats,
+  } = useFlashcardSession(deck);
 
   useEffect(() => {
-    setDeckProgress((prev) => ({
-      ...prev,
-      [deckId]: progress,
-    }));
-  }, [progress, deckId, setDeckProgress]);
+    if (wordsData && wordsData.decks) {
+      const foundDeck = wordsData.decks.find(d => d.id === deckId);
+      setDeck(foundDeck);
+    }
+  }, [deckId]);
 
   if (!deck) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-purple-900 to-purple-600 flex items-center justify-center">
-        <div className="text-white text-center">
-          <p className="text-xl mb-4">Deck not found</p>
-          <Link to="/" className="text-blue-300 hover:underline">
-            Back to home
-          </Link>
-        </div>
-      </div>
-    );
-  }
-
-  const currentWord = getCurrentWord(deck, progress);
-  const stats = getProgressStats(progress, deck.totalWords);
-
-  const handleKnown = () => {
-    const newProgress = markWordAsKnown(progress, currentWord.id);
-    setProgress(newProgress);
-    if (newProgress.currentIndex >= progress.sessionWords.length) {
-      setSessionEnded(true);
-    }
-  };
-
-  const handleUnknown = () => {
-    const newProgress = markWordAsUnknown(progress, currentWord.id);
-    setProgress(newProgress);
-    if (newProgress.currentIndex >= progress.sessionWords.length) {
-      setSessionEnded(true);
-    }
-  };
-
-  if (sessionEnded) {
-    return (
-      <div className="min-h-screen bg-gradient-to-br from-purple-900 to-purple-600 p-8">
-        <div className="max-w-2xl mx-auto text-center text-white">
-          <h1 className="text-4xl font-bold mb-8">Session Complete!</h1>
-
-          <div className="bg-white bg-opacity-10 rounded-lg p-8 mb-8 space-y-6">
-            <div>
-              <p className="text-gray-300 text-lg mb-2">Words Mastered</p>
-              <p className="text-5xl font-bold text-green-400">{stats.mastered}</p>
-            </div>
-
-            <div className="border-t border-white border-opacity-20 pt-6">
-              <p className="text-gray-300 text-lg mb-2">Still Learning</p>
-              <p className="text-3xl font-bold text-yellow-400">{stats.learning}</p>
-            </div>
-
-            <div className="border-t border-white border-opacity-20 pt-6">
-              <p className="text-gray-300 text-lg mb-2">Progress</p>
-              <p className="text-3xl font-bold text-blue-400">{stats.masteredPercent}%</p>
-            </div>
-          </div>
-
-          <div className="space-y-4">
-            <button
-              onClick={() => {
-                setProgress(initializeDeckProgress(deckId, deck.words));
-                setSessionEnded(false);
-              }}
-              className="w-full bg-blue-500 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-600 transition-colors"
-            >
-              Practice Again
-            </button>
-            <Link to="/" className="block bg-gray-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-gray-700 transition-colors">
-              Back to Home
-            </Link>
-          </div>
-        </div>
+      <div className="min-h-screen bg-purple-gradient flex items-center justify-center">
+        <div className="text-white text-2xl">Loading...</div>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-900 to-purple-600 p-8">
-      <div className="max-w-3xl mx-auto">
-        <div className="mb-8 flex items-center justify-between">
-          <Link to="/" className="text-white hover:text-gray-200 font-semibold">
+    <div className="min-h-screen bg-purple-gradient pt-8 pb-12">
+      {/* Header with back button */}
+      <div className="max-w-4xl mx-auto px-4 mb-8">
+        <div className="flex items-center justify-between mb-6">
+          <button
+            onClick={() => navigate('/')}
+            className="text-white text-2xl hover:opacity-80 transition flex items-center gap-2"
+          >
             ← {deck.name}
-          </Link>
-          <p className="text-gray-300 text-sm">
-            Words you don't know will reappear later
+          </button>
+          <div className="text-white text-sm flex items-center gap-2">
+            <span>🔀</span> Words you don't know will reappear later
+          </div>
+        </div>
+
+        {/* Account prompt banner */}
+        <div className="bg-green-500 text-white p-4 rounded-lg mb-8">
+          <p className="text-center">
+            You should <a href="#" className="underline hover:opacity-80">create an account</a> to save your progress. It only takes a minute!
           </p>
         </div>
+      </div>
 
-        <div className="bg-green-400 text-white p-4 rounded-lg mb-8">
-          <p>You should <a href="#" className="underline font-semibold">create an account</a> to save your progress. It only takes a minute!</p>
+      {/* Main content */}
+      <div className="max-w-4xl mx-auto px-4">
+        {/* Flashcard */}
+        <div className="mb-12">
+          <Flashcard
+            card={currentCard}
+            isRevealed={isRevealed}
+            onCardClick={() => !isRevealed && setIsRevealed(true)}
+            onKnown={markAsKnown}
+            onUnknown={markAsUnknown}
+            isLoading={isLoading}
+          />
         </div>
 
-        {currentWord && (
-          <>
-            <Flashcard
-              word={currentWord}
-              onKnown={handleKnown}
-              onUnknown={handleUnknown}
-              index={progress.currentIndex}
-              total={deck.totalWords}
-            />
+        {/* Progress Bars */}
+        <div className="space-y-4">
+          <ProgressBar
+            label="You have mastered"
+            current={stats.mastered}
+            total={stats.totalWords}
+          />
+          <ProgressBar
+            label="You are reviewing"
+            current={stats.reviewing}
+            total={stats.totalWords}
+          />
+          <ProgressBar
+            label="You are learning"
+            current={stats.learning}
+            total={stats.totalWords}
+          />
+        </div>
 
-            <div className="mt-12 space-y-4 text-white">
-              <div className="flex items-center justify-between">
-                <span>You have mastered {stats.mastered} out of {stats.total} words</span>
-                <div className="w-1/2 bg-gray-600 rounded-full h-2">
-                  <div
-                    className="bg-green-500 h-2 rounded-full transition-all"
-                    style={{ width: `${stats.masteredPercent}%` }}
-                  ></div>
-                </div>
-              </div>
-
-              <div className="flex items-center justify-between">
-                <span>You are reviewing {stats.reviewing} out of {stats.total} words</span>
-                <div className="w-1/2 bg-gray-600 rounded-full h-2">
-                  <div
-                    className="bg-yellow-500 h-2 rounded-full transition-all"
-                    style={{ width: `${(stats.reviewing / stats.total) * 100}%` }}
-                  ></div>
-                </div>
-              </div>
-
-              <div className="flex items-center justify-between">
-                <span>You are learning {stats.learning} out of {stats.total} words</span>
-                <div className="w-1/2 bg-gray-600 rounded-full h-2">
-                  <div
-                    className="bg-blue-500 h-2 rounded-full transition-all"
-                    style={{ width: `${(stats.learning / stats.total) * 100}%` }}
-                  ></div>
-                </div>
-              </div>
-            </div>
-          </>
-        )}
+        {/* Footer */}
+        <div className="mt-12 text-center text-white text-sm">
+          <p>
+            Have feedback about this deck? Please email{' '}
+            <a href="mailto:support@example.com" className="underline hover:opacity-80">
+              support@example.com
+            </a>
+          </p>
+        </div>
       </div>
     </div>
   );

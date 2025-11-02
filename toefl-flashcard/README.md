@@ -1,163 +1,171 @@
-<<<<<<< Current (Your changes)
-=======
-# TOEFL Vocabulary Flashcards
+# TOEFL Root/Prefix/Suffix Flashcard App
 
-An interactive flashcard web application to help users master TOEFL vocabulary words organized by prefix, root, and suffix.
+A modern web application for learning TOEFL vocabulary through interactive flashcards organized by roots, prefixes, and suffixes.
 
 ## Features
 
-- **Interactive Flashcards**: Flip cards to reveal definitions and example sentences
-- **Progress Tracking**: Track mastered, learning, and reviewing words with progress bars
-- **Spaced Repetition**: Unknown words automatically reappear for additional practice
-- **Multiple Difficulty Levels**: 6 decks ranging from Easy to Hard
-- **Persistent Storage**: Progress is saved locally in the browser using localStorage
-- **Responsive Design**: Works on desktop, tablet, and mobile devices
-- **Clean UI**: Minimalist design with purple gradient theme
+- **Interactive Flashcards**: Flip cards to reveal definitions and examples
+- **Spaced Repetition**: Automatically resurface words you don't know
+- **Progress Tracking**: Monitor mastery across three vocabulary categories
+- **Responsive Design**: Beautiful purple gradient UI optimized for all devices
+- **Local Storage**: Progress saved automatically in browser
+- **No Account Required**: Fully functional without authentication
+
+## Data
+
+The app includes **285 vocabulary items** organized into three decks:
+- **Prefixes**: 64 word elements
+- **Roots**: 159 word elements
+- **Suffixes**: 62 word elements
+
+Source data derived from `References/contents_in_table/words.csv`
 
 ## Tech Stack
 
-- **Frontend Framework**: React 18.3
-- **Build Tool**: Vite 7.1
-- **Styling**: Tailwind CSS 3.4
-- **Routing**: React Router DOM 6.x
-- **Package Manager**: npm
+- **Frontend**: React 18 + Vite
+- **Routing**: React Router v6
+- **Styling**: Tailwind CSS v3
+- **State**: React Hooks + Custom Hooks
+- **Storage**: Browser localStorage
+- **Build**: Vite
+- **Deployment**: Vercel
+
+## Installation
+
+```bash
+# Navigate to project directory
+cd toefl-flashcard
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Visit http://localhost:5173
+```
 
 ## Project Structure
 
 ```
 src/
-├── components/
-│   ├── Flashcard.jsx          # Main flashcard component
-│   ├── DeckCard.jsx           # Deck selection card
-│   └── ProgressBar.jsx        # Progress indicators
-├── pages/
-│   ├── Home.jsx               # Deck selection page
-│   └── Practice.jsx           # Flashcard practice session
-├── hooks/
-│   └── useLocalStorage.js     # Custom localStorage hook
-├── utils/
-│   └── progressTracker.js     # Spaced repetition logic
-├── data/
-│   └── words.json             # Vocabulary data
-├── App.jsx                    # Main app with routing
-├── index.css                  # Global styles with Tailwind
-└── main.jsx                   # Entry point
+├── components/          # Reusable UI components
+│   ├── Header.jsx      # Navigation header
+│   ├── DeckCard.jsx    # Deck selection card
+│   ├── ProgressBar.jsx # Progress visualization
+│   └── Flashcard.jsx   # Interactive flashcard with flip
+├── pages/              # Page components
+│   ├── Home.jsx        # Deck selection view
+│   └── Practice.jsx    # Flashcard practice session
+├── hooks/              # Custom React hooks
+│   ├── useLocalStorage.js      # Browser storage hook
+│   └── useFlashcardSession.js  # Session logic & spaced repetition
+├── utils/              # Utility functions
+│   └── csvToJson.js    # CSV parsing and transformation
+├── data/               # Generated data
+│   └── words.json      # Transformed flashcard vocabulary
+└── App.jsx             # Router setup
 ```
 
-## Getting Started
+## How It Works
 
-### Prerequisites
+### Deck Selection (Home Page)
+1. View all 3 vocabulary decks
+2. See progress for each deck
+3. Click any card to start practice
 
-- Node.js 20.19+ (or 22.12+)
-- npm 10.7.0 or higher
+### Practice Session
+1. Flashcards appear face-up with the word/root/suffix
+2. Click to flip and reveal definition and examples
+3. Mark as "I knew this" (green button) or "I didn't know" (red button)
+4. Unknown words reappear after ~5 cards (spaced repetition)
+5. Progress bars update in real-time
 
-### Installation
+### Progress Storage
+- All progress saved to browser's localStorage
+- Survives page refreshes and browser restarts
+- Three states tracked per deck: Mastered, Reviewing, Learning
 
-1. Clone the repository:
+## Development
+
+### Generate Words from CSV
+
 ```bash
-cd toefl-flashcard
+node scripts/generateWords.mjs
 ```
 
-2. Install dependencies:
-```bash
-npm install
-```
+This converts `References/contents_in_table/words.csv` into `src/data/words.json`.
 
-### Development
+### Build for Production
 
-Run the development server:
-```bash
-npm run dev
-```
-
-The app will be available at `http://localhost:5173`
-
-### Building
-
-Build for production:
 ```bash
 npm run build
 ```
 
-The optimized bundle will be in the `dist/` folder.
+Output files in `dist/` directory.
 
-Preview the production build locally:
+### Preview Production Build
+
 ```bash
 npm run preview
 ```
 
 ## Deployment to Vercel
 
-### Method 1: Using Vercel CLI
+### Option 1: CLI
 
-1. Install Vercel CLI:
 ```bash
-npm install -g vercel
+# Install Vercel CLI
+npm i -g vercel
+
+# Deploy from project directory
+vercel --prod
 ```
 
-2. Deploy:
-```bash
-vercel
-```
+### Option 2: GitHub Integration
 
-3. Follow the prompts to connect your project and deploy
+1. Push code to GitHub
+2. Connect repository in Vercel dashboard
+3. Automatic deployments on push
 
-### Method 2: GitHub Integration
+## UX Features
 
-1. Push your code to a GitHub repository
-2. Go to https://vercel.com/import
-3. Import your repository
-4. Vercel will automatically detect Vite and configure the build
+- **Auto-advance**: Next card loads automatically after answer
+- **Loading State**: "Loading next word..." feedback
+- **Smooth Transitions**: Card flip and progress bar animations
+- **Responsive Grid**: Adapts from 1 to 3 columns based on screen size
+- **Dark Mode**: Purple gradient background reduces eye strain
+- **Inline Buttons**: Answer buttons integrated into card
+- **Real-time Progress**: Stats update immediately
 
-### Environment Setup
+## Spaced Repetition Algorithm
 
-No environment variables are required for this MVP. The app uses browser localStorage for persistence.
-
-## Usage
-
-1. **Select a Deck**: Choose a vocabulary deck by difficulty level
-2. **View Words**: Read the vocabulary word and root information
-3. **Reveal Answer**: Click the card to reveal the definition and example
-4. **Mark Progress**: 
-   - "I knew this word" → Marks as mastered
-   - "I didn't know this word" → Marks for review
-5. **Track Progress**: Monitor your mastery across progress bars
-
-## Data Format
-
-Each vocabulary entry includes:
-- **word**: The vocabulary word
-- **root**: The prefix/root/suffix component
-- **meaning**: Brief meaning of the root
-- **definition**: Part of speech and definition
-- **example**: Example sentence using the word
+- Unknown words are reinserted ~5 positions ahead in queue
+- Reviewing words cycle back until mastered
+- Mastered words removed from session queue
+- Words shuffled for variety within each state category
 
 ## Browser Support
 
-- Chrome/Edge 90+
-- Firefox 88+
-- Safari 14+
-- Mobile browsers (iOS Safari, Chrome Mobile)
+- Chrome/Edge: Latest
+- Firefox: Latest
+- Safari: Latest
+- Mobile: Full responsive support
 
 ## Future Enhancements
 
-- User authentication and cloud sync
-- Advanced spaced repetition algorithm (SM-2)
+- User authentication & sync
+- Backend database for cross-device progress
+- Advanced spaced repetition (SM-2 algorithm)
 - Word search and filtering
 - Statistics dashboard
+- Custom deck creation
 - Audio pronunciation
-- Downloadable PDFs
-- Mobile app
-
-## Contributing
-
-This is a personal project. For suggestions or issues, please reach out.
 
 ## License
 
-This project is open source and available for personal and educational use.
+Educational use - TOEFL vocabulary preparation
 
-## Created
+## Support
 
-November 2025
->>>>>>> Incoming (Background Agent changes)
+For questions or feedback, please reach out to support@example.com
