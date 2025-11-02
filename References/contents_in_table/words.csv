@@ -1,0 +1,286 @@
+Root_Prefix_Suffix,Type,Meaning,Examples
+"a, ac, ad, af, ag, al, an, ap, as, at",Prefix,"to, toward, near, in addition to, by","aside, accompany, adjust, aggression, allocate, annihilate, affix, associate, attend, adverb"
+"a, an",Prefix,"not, without","apolitical, atheist, anarchy, anonymous, apathy, aphasia, anemia"
+"ab, abs",Prefix,"away from, off","absolve, abrupt, absent"
+ante,Prefix,before,"anterior, anteroom, antebellum, antedate, antecedent, antediluvian"
+"anti, ant",Prefix,"against, opposite","antisocial, antiseptic, antithesis, antibody, antichrist, antinomies, antifreeze, antipathy"
+auto,Prefix,self,"automobile, automatic, automotive, autograph, autonomous, autoimmune"
+"cat, cata, cath",Prefix,"down, with","catalogue, category, catheter"
+circum,Prefix,around,"circumnavigate, circumflex, circumstance, circumcision, circumference, circumorbital, circumlocution, circumvent, circumscribe, circulatory"
+"co, cog, col, con, com, cor",Prefix,"with, together","cohesiveness, cognate, collaborate, convene, commitment, compress, contemporary, converge, compact, confluence, convenient, concatenate, conjoin, combine, correct"
+"com, con",Prefix,fully,"complete, compel, conscious, condense, confess, confirm"
+"contra, counter",Prefix,"against, opposite","contradict, counteract, contravene, contrary, counterspy, contrapuntal"
+de,Prefix,"from, down, away, to do the opposite, against","detach, deploy, derange, decrease, deodorize, devoid, deflate, degenerate, deice"
+dia,Prefix,"through, across, between","diameter, diagonal, dialogue, dialect, dialectic, diagnosis, diachronic"
+"dis, dys, dif",Prefix,"away, not, negative, opposite of, separate","dismiss, differ, disallow, disperse, dissuade, divide, disconnect, dysfunction, disproportion, disrespect, distemper, distrust, distaste, disarray, dyslexia"
+"e, ex, ef, es, ec",Prefix,"out, away, from, fully","emit, expulsion, exhale, exit, express, exclusive, enervate, expel, exceed, explosion"
+ecto,Prefix,"outside, external","ectomorph, ectoderm, ectoplasm"
+"en, em",Prefix,"put into, make","enamor, empower"
+endo,Prefix,"inside, within","endotoxin, endoscope, endogenous"
+epi,Prefix,"upon, beside, over",epilogue
+"exter, extra",Prefix,"outside of, beyond","external, extrinsic, exterior, extraordinary, extrabiblical, extracurricular, extrapolate, extraneous"
+femto,Prefix,quadrillionth,femtosecond
+"for, fore",Prefix,before,"forecast, fortune, foresee"
+giga,Prefix,billion,"gigabyte, gigaflop"
+hetero,Prefix,other,"heterodox, heterogeneous, heterosexual, heterodyne"
+homo,Prefix,same,"homogenized, homosexual, homonym, homophone"
+hyper,Prefix,"over, above","hyperactive, hypertensive, hyperbolic, hypersensitive, hyperventilate, hyperkinetic"
+"in, im, (il)",Prefix,"in, into, on, near, toward","instead, import"
+"in, im, il, ir",Prefix,not,"illegible, irresolute, inaction, inviolate, innocuous, intractable, innocent, impregnable, impossible, imposter"
+infra,Prefix,beneath,"infrared, infrastructure"
+inter,Prefix,"between, among","international, intercept, interject, intermission, internal, intermittent"
+intro,Prefix,"into, within","interoffice, introvert, introspection, introduce"
+mega,Prefix,"great, million","megaphone, megaton, megaflop, megalomaniac, megabyte, megalopolis"
+meso,Prefix,middle,"mesomorph, mesoamerica, mesosphere"
+meta,Prefix,"beyond, change","metaphor, metamorphosis, metabolism, metahistorical, metainformation"
+micro,Prefix,millionth,"microgram, microvolt"
+milli,Prefix,thousandth,"millisecond, milligram, millivolt"
+mis,Prefix,"wrong, bad, badly","misconduct, misinform, misinterpret, mispronounce, misnomer, mistake, misogynist"
+mono,Prefix,one,"monopoly, monotype, monologue, mononucleosis, monorail, monotheist"
+multi,Prefix,many,"multitude, multipartite, multiply, multipurpose"
+nano,Prefix,billionth,"nanosecond, nanobucks"
+non,Prefix,not,"nonferrous, nonsense, nonabrasive, nondescript"
+"ob, oc, of, op",Prefix,"toward, against, in the way","oppose, occur, offer, obtain"
+over,Prefix,"excessive, above","overwork, overall, overwork"
+para,Prefix,beside,"paradox, paraprofessional, paramedic, paraphrase, parachute"
+per,Prefix,"through, intensive","persecute, permit, perspire, perforate, persuade"
+peri,Prefix,around,"periscope, perimeter, perigee, periodontal"
+pico,Prefix,trillionth,"picofarad, picocurie"
+poly,Prefix,many,"polytheist, polygon, polygamy, polymorphous"
+post,Prefix,"after, behind","postpone, postdate"
+"pre, pur",Prefix,before,precede
+pro,Prefix,"for, forward",propel
+re,Prefix,"back, again","report, realign, retract, revise, regain"
+retro,Prefix,backwards,"retrorocket, retrospect, retrogression, retroactive"
+se,Prefix,"apart, move away from",secede
+semi,Prefix,half,"semifinal, semiconscious, semiannual, semimonthly, semicircle"
+"sub, suc, suf, sup, sur, sus",Prefix,"under, below, from, secretly, instead of","sustain, survive, support, suffice, succeed, submerge, submarine, substandard, subnormal, subvert"
+"super, supra",Prefix,"over, above","superior, suprarenal, superscript, supernatural, superimpose, supercede"
+"syn, sym",Prefix,"together, at the same time","sympathy, synthesis, synchronous, syndicate"
+tele,Prefix,"distance, from afar","television, telephone, telegraph, telemetry"
+tera,Prefix,trillion,"terabyte, teraflop"
+trans,Prefix,"across, beyond, change","transform, transoceanic, transmit, transport, transducer"
+un,Prefix,"not, against, opposite",unceasing
+unti,Prefix,before,
+with,Prefix,against,
+"act, ag",Root,"do, act, drive","active, react, agent, active, agitate"
+"am, ami",Root,"love, like","amorous, amiable, amicable"
+ambul,Root,to walk,"ambulatory, amble, ambulance, somnambulist"
+anim,Root,"mind, life, spirit, anger","animal, animate, animosity"
+"ann, annu, enni",Root,yearly,"annual, annuity, anniversary, perennial"
+"auc, aug, aut",Root,"to originate, to increase","augment, author, auction"
+"aud, audi, aur",Root,to hear,"audience, auditory, audible, auditorium, audiovisual, audition, auricular"
+bene,Root,"good, well, gentle","benefactor, beneficial, benevolent, benediction, beneficiary, benefit"
+"bi, bine",Root,two,"biped, bifurcate, biweekly, bivalve, biannual"
+"bibli, biblio",Root,book,"bibliophile, bibliography"
+"bio, bi",Root,life,"biography, biology"
+brev,Root,short,"abbreviate, brevity, brief"
+"cad, cap, cas, ceiv, cept, capt, cid, cip",Root,"to take, to seize, to hold","receive, deceive, capable, capacious, captive, accident, capture, occasion, concept"
+"ceas, cede, ceed, cess",Root,"to go, to yield","succeed, proceed, precede, recede, secession, exceed, succession"
+cent,Root,hundred,"centennial, century, centipede"
+centr,Root,center,"eccentricity, centrifugal, concentric"
+chron,Root,time,"chronology, chronic, chronicle, chronometer, anachronism"
+"cide, cis",Root,"to kill, to cut","fratricide, suicide, incision, excision, circumcision"
+"clam, claim",Root,shout,"acclaim, clamor, proclaim, exclaim"
+clin,Root,"lean, bend","decline, aclinic, inclination"
+"clud, clus, claus",Root,"to close, shut","include, exclude, clause, claustrophobia, enclose, exclusive, reclusive, conclude"
+"cogn, gnos",Root,"know, to know","recognize, cognizant, diagnose, agnostic"
+corp,Root,body,"corporate, corpse, corpulent, incorporate"
+cort,Root,correct,"escort, cortage"
+"cour, cur, curr, curs",Root,"run, course","occur, excursion, discourse, courier, course"
+"cre, cresc, cret, crease",Root,grow,"create, crescent, accretion, increase"
+cred,Root,to believe,"credo, credible, credence, credit, credential, incredible, credulity, incredulous"
+cycl,Root,"circle, wheel","bicycle, cyclical, cycle, encyclical"
+dec,Root,ten,"decimal, decade, decalogue, decimate"
+"dec, dign",Root,suitable,"decent, decorate, dignity"
+"dei, div",Root,God,"divinity, divine, deity, divination, deify"
+demo,Root,people,"democracy, demagogue, epidemic"
+di,Root,two,"divide, diverge, diglycerides"
+"dic, dict, dit",Root,"say, speak","predict, verdict, malediction, dictionary, dictate, dictum, diction, indict"
+dit,Root,give,
+"doc, doct",Root,"teach, prove","docile, doctor, doctrine, document"
+"dog, dox",Root,"thought, idea","dogma, orthodox, paradox"
+"duc, duct",Root,"to lead, pull","produce, abduct, product, transducer, viaduct, aqueduct, induct, deduct, reduce, induce"
+equi,Root,equal,"equidistant, equilateral, equilibrium, equinox, equitable, equation, equator"
+"ev, et",Root,"time, age","medieval, eternal"
+"fa, fess",Root,speak,"fable, fabulous, fame, famous, confess, profess"
+"fac, fact, fec, fic, fas, fea",Root,"make do, do","difficult, fashion, feasible, feature, factory, fact, effect"
+fer,Root,"bear, carry","fertile, infer, refer"
+"fic, feign, fain, fit, feat",Root,"shape, make, fashion","fiction, faint, feign"
+fid,Root,"belief, faith","confide, diffident, fidelity"
+fig,Root,"shape, form","figurem, effigy, figure, figment"
+"flect, flex",Root,to bend,"flexible, reflection, deflect, circumflex"
+flict,Root,strike,"affliction, conflict, inflict"
+"flu, fluct, flux",Root,flow,"effluence, influence, effluvium, fluctuate, confluence, reflux, influx, fluid"
+form,Root,shape,"format, formulate"
+fort,Root,strength,"effort, forte, fortifiable"
+"fract, frag, frai",Root,break,"frail, fracture, fragment"
+fuge,Root,flee,"subterfuge, refuge, centrifuge"
+"gen, gin",Root,"to give birth, kind","generate, generally, gingerly, indigenous"
+geo,Root,earth,geography
+gor,Root,"to gather, to bring together","category, categorize"
+"grad, gress, gree",Root,"to gather, to bring together","grade, degree, progress"
+"graph, gram, graf",Root,"to write, draw","polygraph, grammar, biography, graphite, telegram, autograph, lithograph, historiography, graphic"
+hale,Root,breathe,
+"her, hes",Root,to stick,"adhere, hesitate"
+"hex, ses, sex",Root,six,"hexagon, hexameter, sestet, sextuplets"
+it,Root,go,
+"jac, ject",Root,to throw,"reject, eject, project, trajectory, interject, dejected, inject, ejaculate"
+judice,Root,judge,
+"jug, junct, just",Root,to join,"junction, adjust, conjugal"
+labor,Root,work,
+"lect, leg, lig",Root,"choose, gather, select, read","collect, legible, eligible"
+"lex, leag, leg",Root,law,"legal, college, league"
+lide,Root,strike,
+loc,Root,"place, area","location, locally"
+log,Root,"say, speech, word, reason, study",logic
+"luc, lum, lust",Root,light,"translucent, illuminate, illustrate"
+lude,Root,play,
+main,Root,bide,
+mal,Root,"bad, badly","malformation, maladjusted, dismal, malady, malcontent, malfunction, malfeasance, maleficent"
+"man, manu",Root,"hand, make, do","manage, management"
+mem,Root,"recall, remember","memory, commemorate"
+ment,Root,mind,"mental, mention"
+metr,Root,admeasure,
+"mill, kilo",Root,thousand,"millennium, kilobyte, kiloton"
+min,Root,"little, small","minute, minor, minuscule"
+"mit, miss",Root,to send,"transmit, permit, missile, missionary, remit, admit, missive, mission"
+"mob, mov, mot",Root,move,"motion, remove, mobile"
+morph,Root,shape,"polymorphic, morpheme, amorphous"
+"nasc, nat, gnant, nai",Root,to be born,"nascent, native, pregnant, naive"
+"nom, nym",Root,name,"nominate, synonym"
+non,Root,nine,nonagon
+nov,Root,new,"novice, novelty"
+oct,Root,eight,"octopus, octagon, octogenarian, octave"
+omni,Root,all,"omnipotent, omnivorous, omniscient"
+oper,Root,work,"operate, opus"
+"pair, pare",Root,arrange,
+"pat, pass, path",Root,"feel, suffer","patient, passion, sympathy, pathology"
+"ped, pod",Root,foot,"impede, pedestal, podium, pedestrian"
+"pel, puls",Root,"drive, push","repel, pulse"
+"pend, pond, pens",Root,"to hang, weigh","suspend, append"
+"phan, phas, phen, fan, phant, fant",Root,"show, make visible","phantom, fantasy"
+phe,Root,speak,
+phi,Root,love,philosopher
+phon,Root,sound,"telephone, phonics, phonograph, phonetic, homophone, microphone"
+phot,Root,light,"photograph, photosynthesis, photon"
+pict,Root,"paint, show, draw","picture, depict"
+"pli, ply",Root,fold,"reply, implicate, ply"
+plore,Root,weep,
+"pon, pos",Root,"put, place","postpone, position, posture"
+port,Root,to carry,"porter, portable, report, transportation, deport, import, export"
+"prim, prin",Root,first,
+psych,Root,mind,psychology
+pute,Root,think,
+"quat, quad",Root,four,"quadrangle, quadruplets"
+"quint, penta",Root,five,"quintet, quintuplets, pentagon, pentane, pentameter"
+quip,Root,ship,
+"quir, quis, quest, quer",Root,"seek, ask","query, inquire, exquisite, quest"
+rupt,Root,break,"rupture, corrupt, interrupt"
+sanct,Root,holy,"sanctify, sanctuary, sanction, sanctimonious, sacrosanct"
+"sci, scio",Root,to know,"conscious, science"
+"scrib, script",Root,to write,"inscription, prescribe, proscribe, manuscript, conscript, scribble, scribe"
+"sect, sec",Root,cut,"intersect, transect, dissect, secant, section"
+"sent, sens",Root,"feel, think","sentiment, sensation"
+sept,Root,seven,"septet, septennial"
+"sequ, secut, sue",Root,follow,"sequence, consecutive, ensue"
+serve,Root,keep,
+sist,Root,"to withstand, make up",insist
+soci,Root,"to join, companions","sociable, society"
+sol,Root,alone,"solitary, isolate"
+"solv, solu, solut",Root,"loosen, explain","solve, absolute, soluble"
+"spect, spec, spi, spic",Root,"to look, see","inspect, spectator, circumspect, retrospect, prospect, spectacle"
+sper,Root,hope,
+spir,Root,"breath, soul","respiration, inspire"
+"stand, stant, stab, stat, stan, sti, sta, st, stead",Root,stand,"stature, establish, stance"
+"strain, strict, string, stige",Root,"bind, pull","constrict, restrain, stringent, prestige"
+"stru, struct, stroy, stry",Root,build,"destroy, misconstrue, obstruct"
+"tact, tang, tig, ting",Root,touch,"tactile, tactilely, tangible, contiguous, contingent"
+"tain, ten, tent, tin",Root,"hold, keep, have","retain, continue, content, tenacious"
+"tect, teg",Root,cover,"detect, protect, tegular, tegument"
+"tend, tens, tend",Root,stretch,"contend, extensive"
+term,Root,"end, boundary, limit","exterminate, terminal"
+terr,Root,earth,"territory, terrain"
+test,Root,"see, witness","attest, testify"
+"theo, the",Root,God,"theology, theist, polytheist"
+therm,Root,heat,"thermometer, thermal"
+tire,Root,"draw, pull",
+"tor, tors, tort",Root,twist,"torsion, torment, contort"
+"tract, trai, treat",Root,"to drag, draw, pull","attract, tractor, traction, extract, retract, protract, detract, subtract, contract, intractable"
+tri,Root,three,"tripod, triangle, trinity, trilateral"
+tribute,Root,give,
+uni,Root,one,"uniform, unilateral, universal, unity, unanimousone, unite, unison"
+vac,Root,empty,"vacant, vacuum"
+vade,Root,go,
+"veh, vect",Root,to carry,"vector, vehicle, convection, vehement"
+"ven, vent",Root,come,"convene, invent, prevent"
+ver,Root,true,verify
+"verb, verv",Root,word,"verify, veracity, verbalize, verve"
+"vert, vers",Root,"to turn, change","convert, revert, advertise, versatile, vertigo, invert, reversion, extravert, introvert"
+vi,Root,way,
+"vid, vie, vis",Root,see,"visible, video, review, indivisible"
+"vit, viv",Root,life,"vital, vitality, vitamins, revitalize, revive"
+"voc, voke",Root,call,"vocal, revoke"
+"volv, volt, vol",Root,"roll, turn","revolve, revolt, evolution"
+"-able, -ible",Suffix,"Adjective: worth, ability","solvable, incredible"
+"-acy, -cy",Suffix,Noun: state or quality,"privacy, infancy, adequacy, intimacy, supremacy"
+-age,Suffix,"Noun: activity, or result of action","courage, suffrage, shrinkage, tonnage"
+-al,Suffix,"Noun: action, result of action","referral, disavowal, disposal, festival"
+"-al, -ial, -ical",Suffix,"Adjective: quality, relation","structural, territorial, categorical"
+-an,Suffix,Noun: person,"artisan, guardian, historian, magician"
+"-ance, -ence",Suffix,"Noun: action, state, quality or process","resistance, independence, extravagance, fraudulence"
+"-ancy, -ency",Suffix,"Noun: state, quality or capacity","vacancy, agency, truancy, latency"
+"-ant, -ent",Suffix,"Noun: an agent, something that performs the action","disinfectant, dependent, fragrant"
+"-ant, -ent, -ient",Suffix,"Adjective: kind of agent, indication","important, dependent, convenient"
+"-ar, -ary",Suffix,"Adjective: resembling, related to","spectacular, unitary"
+-ate,Suffix,"Noun: state, office, function","candidate, electorate, delegate"
+-ate,Suffix,Verb: cause to be,"graduate, ameliorate, amputate, colligate"
+-ate,Suffix,Adjective: kind of state,inviolate
+-ation,Suffix,"Noun: action, resulting state","specialization, aggravation, alternation"
+-dom,Suffix,"Noun: place, state of being",wisdom
+-ed,Suffix,Verb: past tense,attained
+-ed,Suffix,Adjective: having the quality of,terraced
+-en,Suffix,Verb: to cause to become,moisten
+-en,Suffix,Adjective: material,silken
+-er,Suffix,Adjective: comparative,brighter
+"-er, -or",Suffix,Noun: person or thing that does something,"porter, collector"
+"-er, -or",Suffix,Verb: action,"ponder, clamor"
+-est,Suffix,Adjective: superlative,strongest
+-fold,Suffix,"Adverb: in a manner of, marked by",fourfold
+-ful,Suffix,Noun: an amount or quantity that fills,mouthful
+-ful,Suffix,"Adjective: having, giving, marked by",fanciful
+-fy,Suffix,make,
+-ia,Suffix,"Noun: names, diseases",phobia
+"-ian, -an",Suffix,"Noun: related to, one that is","pedestrian, human"
+-iatry,Suffix,Noun: art of healing,psychiatry
+-ic,Suffix,"Adjective: quality, relation",generic
+"-ic, -ics",Suffix,Noun: related to the arts and sciences,"arithmetic, economics"
+-ice,Suffix,Noun: act,malice
+-ify,Suffix,Verb: cause,specify
+-ile,Suffix,Adjective: having the qualities of,projectile
+-ing,Suffix,"Noun: material made for, activity, result of an activity","flooring, swimming, building"
+-ing,Suffix,Verb: present participle,depicting
+-ing,Suffix,Adjective: activity,cohering
+-ion,Suffix,Noun: condition or action,abduction
+-ish,Suffix,Adjective: having the character of,newish
+-ism,Suffix,"Noun: doctrine, belief, action or conduct",formalism
+-ist,Suffix,Noun: person or member,podiatrist
+-ite,Suffix,Noun: state or,graphite
+"-ity, -ty",Suffix,Noun: state or quality,"lucidity, novelty"
+-ive,Suffix,Noun: condition,native
+"-ive, -ative, -itive",Suffix,Adjective: having the quality of,"festive, cooperative, sensitive"
+-ize,Suffix,Verb: cause,fantasize
+-less,Suffix,"Adjective: without, missing",motiveless
+-ly,Suffix,Adverb: in the manner of,fluently
+-ment,Suffix,Noun: condition or result,document
+-ness,Suffix,"Noun: state, condition, quality",kindness
+-or,Suffix,Noun: condition or activity,valor
+-ory,Suffix,"Noun: place for, serves for",territory
+"-ous, -eous, -ose, -ious",Suffix,"Adjective: having the quality of, relating to","adventurous, courageous, verbose, fractious"
+-ship,Suffix,"Noun: status, condition",relationship
+-ster,Suffix,person,
+-ure,Suffix,"Noun: act, condition, process, function","exposure, conjecture"
+-ward,Suffix,Adverb: in a direction or manner,homeward
+-wise,Suffix,"Adverb: in the manner of, with regard to",timewise
+-y,Suffix,"Noun: state, condition, result of an activity","society, victory"
+-y,Suffix,"Adjective: marked by, having",hungry

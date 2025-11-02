@@ -1,0 +1,108 @@
+{
+  "decks": [
+    {
+      "id": "common-words",
+      "name": "Common Words",
+      "difficulty": "Common",
+      "totalWords": 51,
+      "words": [
+        {
+          "id": "indicate",
+          "word": "indicate",
+          "root": "dic, dict",
+          "meaning": "to show, to point out",
+          "definition": "verb: to be a sign of, to show",
+          "example": "The way you speak and act indicates your emotions."
+        },
+        {
+          "id": "approach",
+          "word": "approach",
+          "root": "pro, ap",
+          "meaning": "to go toward, to come near",
+          "definition": "verb: to come near or nearer to",
+          "example": "The team will approach the problem systematically."
+        }
+      ]
+    },
+    {
+      "id": "easy-words",
+      "name": "Easy Words",
+      "difficulty": "Easy",
+      "totalWords": 51,
+      "words": [
+        {
+          "id": "beneficial",
+          "word": "beneficial",
+          "root": "bene",
+          "meaning": "good, well, beneficial",
+          "definition": "adjective: producing good results; favorable",
+          "example": "Exercise is beneficial for your health."
+        }
+      ]
+    },
+    {
+      "id": "medium-words-1",
+      "name": "Medium Words",
+      "difficulty": "Medium",
+      "totalWords": 51,
+      "words": [
+        {
+          "id": "biography",
+          "word": "biography",
+          "root": "bio, bi; graph",
+          "meaning": "life; write",
+          "definition": "noun: a written account of someone's life",
+          "example": "The biography of Albert Einstein is fascinating."
+        }
+      ]
+    },
+    {
+      "id": "medium-words-2",
+      "name": "Medium Words 2",
+      "difficulty": "Medium",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "chronology",
+          "word": "chronology",
+          "root": "chron",
+          "meaning": "time",
+          "definition": "noun: the arrangement of events in the order they happened",
+          "example": "The chronology of historical events is important to understand."
+        }
+      ]
+    },
+    {
+      "id": "medium-words-3",
+      "name": "Medium Words 3",
+      "difficulty": "Medium",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "circumnavigate",
+          "word": "circumnavigate",
+          "root": "circum",
+          "meaning": "around",
+          "definition": "verb: to sail or fly all the way around something",
+          "example": "Magellan's fleet was the first to circumnavigate the globe."
+        }
+      ]
+    },
+    {
+      "id": "hard-words",
+      "name": "Hard Words",
+      "difficulty": "Hard",
+      "totalWords": 51,
+      "words": [
+        {
+          "id": "obfuscate",
+          "word": "obfuscate",
+          "root": "fus",
+          "meaning": "unclear, confused",
+          "definition": "verb: to make something unclear or difficult to understand",
+          "example": "The report tried to obfuscate the real issues."
+        }
+      ]
+    }
+  ]
+}
