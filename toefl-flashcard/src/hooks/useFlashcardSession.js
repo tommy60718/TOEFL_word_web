@@ -1,8 +1,8 @@
 import { useState, useEffect, useCallback } from 'react';
-import { useLocalStorage } from './useLocalStorage';
+import { useFirestoreProgress } from './useFirestoreProgress';
 
 export function useFlashcardSession(deck) {
-  const [progress, setProgress] = useLocalStorage('toefl-progress', {});
+  const [progress, setProgress] = useFirestoreProgress('all-progress', {});
   const [queue, setQueue] = useState([]);
   const [currentCardIndex, setCurrentCardIndex] = useState(0);
   const [isRevealed, setIsRevealed] = useState(false);
@@ -29,7 +29,7 @@ export function useFlashcardSession(deck) {
     // Build queue: unknown/learning first, then new words
     const wordIds = deck.words.map(w => w.id);
     const unknown = wordIds.filter(
-      id => !savedProgress.mastered.includes(id) && 
+      id => !savedProgress.mastered.includes(id) &&
             !savedProgress.learning.includes(id) &&
             !savedProgress.reviewing.includes(id)
     );
@@ -39,7 +39,7 @@ export function useFlashcardSession(deck) {
     // Shuffle unknown words for variety
     const shuffled = [...unknown].sort(() => Math.random() - 0.5);
     const reviewingShuffled = [...reviewing].sort(() => Math.random() - 0.5);
-    
+
     const newQueue = [...reviewingShuffled, ...learning, ...shuffled];
     setQueue(newQueue);
     setCurrentCardIndex(0);
@@ -57,11 +57,11 @@ export function useFlashcardSession(deck) {
     const currentWordId = queue[currentCardIndex];
 
     const newProgress = { ...deckProgress };
-    
+
     // Remove from other states
     newProgress.learning = newProgress.learning.filter(id => id !== currentWordId);
     newProgress.reviewing = newProgress.reviewing.filter(id => id !== currentWordId);
-    
+
     // Add to mastered
     if (!newProgress.mastered.includes(currentWordId)) {
       newProgress.mastered.push(currentWordId);

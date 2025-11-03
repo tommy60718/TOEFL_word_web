@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react';
 import Header from '../components/Header';
 import DeckCard from '../components/DeckCard';
-import { useLocalStorage } from '../hooks/useLocalStorage';
+import { useFirestoreProgress } from '../hooks/useFirestoreProgress';
 import wordsData from '../data/words.json';
 
 export default function Home() {
-  const [progress] = useLocalStorage('toefl-progress', {});
+  const [progress] = useFirestoreProgress('all-progress', {});
   const [decks, setDecks] = useState([]);
 
   useEffect(() => {
@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-purple-gradient pt-20 pb-12">
       <Header />
-      
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">
