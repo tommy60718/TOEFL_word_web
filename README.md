@@ -1,16 +1,41 @@
 # TOEFL Root/Prefix/Suffix Flashcard App
 
-A modern, interactive web application for mastering TOEFL vocabulary through roots, prefixes, and suffixes. Built with React, Vite, and Tailwind CSS.
+A modern, interactive web application for mastering TOEFL vocabulary through roots, prefixes, and suffixes. Built with React, Vite, Tailwind CSS, and Firebase.
 
 ## Features
 
 - **285 Vocabulary Items**: 64 prefixes, 159 roots, 62 suffixes
-- **Interactive Flashcards**: Smooth flip animations on click
+- **Interactive Flashcards**: Smooth flip animations with 3D transforms
 - **Spaced Repetition**: Automatically resurface words you don't know
 - **Progress Tracking**: Real-time progress bars across three learning states
-- **Auto-Save**: localStorage persistence (no account needed)
-- **Responsive Design**: Beautiful purple gradient UI for all devices
-- **Production Ready**: Optimized build (65KB gzipped)
+- **Cloud Progress Sync**: Firebase Firestore keeps progress synced across devices
+- **Social OAuth**: Sign in with Google or GitHub
+- **Modern UI Design**: Beautiful teal-blue gradient with Inter typography
+- **Responsive Design**: Optimized for mobile, tablet, and desktop
+- **Production Ready**: Optimized build with fast load times
+
+## Recent Updates (v2.0)
+
+### UI Design Overhaul
+- Complete design system refresh with green/blue color palette
+- Modern gradient backgrounds (#5cc9a4 → #4a8bcf)
+- Inter font throughout for professional appearance
+- Enhanced card components with soft shadows and hover effects
+- Improved visual hierarchy and typography
+
+### Authentication & Cloud Features
+- Firebase Authentication with Google OAuth
+- Firebase Authentication with GitHub OAuth
+- Firestore cloud database for progress storage
+- User profile page with account information
+- Automatic progress sync across all devices
+
+### Performance & UX
+- Eliminated localStorage flickering issues
+- Optimized component rendering with useCallback
+- Better contrast for text readability
+- Sticky header with glassmorphism effect
+- Smooth micro-interactions and animations
 
 ## Quick Start
 
@@ -20,11 +45,30 @@ cd toefl-flashcard
 # Install dependencies
 npm install
 
+# Set up environment variables (.env file)
+VITE_FIREBASE_API_KEY=your_api_key
+VITE_FIREBASE_AUTH_DOMAIN=your_domain
+VITE_FIREBASE_PROJECT_ID=your_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_bucket
+VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+VITE_FIREBASE_APP_ID=your_app_id
+
 # Start development server
 npm run dev
 
 # Open http://localhost:5173
 ```
+
+## Authentication
+
+### Setting Up Firebase
+
+1. Create a Firebase project at [firebase.google.com](https://firebase.google.com)
+2. Enable Google and GitHub OAuth providers
+3. Add authorized domains:
+   - `localhost:5173` (local development)
+   - Your Vercel domain (production)
+4. Copy credentials to `.env` file
 
 ## Deploy to Vercel
 
@@ -37,118 +81,56 @@ vercel login
 vercel --prod
 ```
 
-Your app goes live at: `https://toefl-flashcard-[hash].vercel.app`
+### Environment Variables on Vercel
+
+1. Go to Vercel project settings
+2. Add all `VITE_FIREBASE_*` environment variables
+3. Set scope to Production, Preview, and Development
+4. Redeploy the project
+
+Your app goes live at: `https://toefl-word-web-[hash].vercel.app`
 
 ## Documentation
 
-- **[Quick Start Guide](./docs/QUICK_START.md)** - Get running in 2 minutes
-- **[User Guide](./docs/USER_GUIDE.md)** - Complete usage guide
-- **[Implementation Summary](./docs/IMPLEMENTATION_SUMMARY.md)** - Technical deep dive
-- **[Documentation Index](./docs/DOCUMENTATION_INDEX.md)** - Full documentation map
 - **[Contributing](./CONTRIBUTING.md)** - How to contribute
+- **[Changelog](./CHANGELOG.md)** - Version history
 
 ## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
 | React 18 | UI framework |
-| Vite 5 | Build tool |
+| Vite 5 | Build tool & dev server |
 | React Router 6 | Client-side routing |
-| Tailwind CSS 3 | Styling |
-| localStorage | Progress persistence |
-| Vercel | Deployment platform |
-
-## Project Structure
-
-```
-TOEFL_word_web/
- toefl-flashcard/        # Main React app
-�    src/
-�   �    components/     # UI components
-�   �    pages/          # Page components
-�   �    hooks/          # Custom hooks
-�   �    utils/          # Utilities
-�   �    data/           # Vocabulary data (285 items)
-�    dist/               # Production build
-�    package.json        # Dependencies
- docs/                   # Documentation
- References/             # Original data & mockups
- README.md               # This file
-```
-
-## How It Works
-
-### Card States
-```
-NEW �� LEARNING �� REVIEWING �� MASTERED
-  ��                            �
-  �
-  (Unknown words cycle back after ~5 cards)
-```
-
-### Usage Flow
-
-1. **Select a Deck** - Choose Prefixes, Roots, or Suffixes
-2. **Practice** - Flip cards to see definitions
-3. **Rate Knowledge** - Click "I knew this" (green) or "I didn't know" (red)
-4. **Track Progress** - See real-time progress bars
-5. **Auto-Advance** - Next card loads automatically
-
-## Learning Tips
-
-- **Practice 10-15 cards per session** for optimal retention
-- **Return daily** to benefit from spaced repetition
-- **Focus on red button words** - they'll cycle back
-- **Complete one deck** before moving to next
-- **Use mobile** - practice during commute
+| Tailwind CSS 3 | Utility-first styling |
+| Firebase Auth | Social OAuth authentication |
+| Firestore | Cloud NoSQL database |
+| Inter Font | Modern typography |
+| Vercel | Deployment & hosting |
 
 ## Stats
 
 - **285 Vocabulary Items** organized by type
-- **Build Time**: ~715ms
-- **Bundle Size**: 65.48 KB gzipped
-- **Initial Load**: ~100ms on 4G
-- **661 Lines** of clean, modular code
+- **3 Decks** (Prefixes, Roots, Suffixes)
+- **Build Time**: ~3 seconds
+- **Bundle Size**: ~670 KB (176 KB gzipped)
+- **Initial Load**: Fast with code splitting
 
-## Development
+## Browser Support
 
-### Regenerate Data
-```bash
-node scripts/generateWords.mjs
-```
-
-### Build for Production
-```bash
-npm run build
-# Output in dist/
-```
-
-### Deployment Options
-1. **Vercel CLI** (recommended): `vercel --prod`
-2. **GitHub Integration**: Push to GitHub �� Connect to Vercel
-3. **Manual**: Upload `dist/` to any static host
-
-## Testing Checklist
-
-- [ ] Home page loads with 3 deck cards
-- [ ] Click deck to enter practice mode
-- [ ] Card flips to show definition
-- [ ] Green/red buttons work correctly
-- [ ] Progress bars update in real-time
-- [ ] Back button returns to home
-- [ ] Progress persists after refresh
-- [ ] Works on mobile device
+- Chrome/Edge 90+
+- Firefox 88+
+- Safari 14+
+- Mobile browsers (iOS Safari, Chrome Mobile)
 
 ## Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
 | Port 5173 in use | `npm run dev -- --port 3000` |
-| CSS not loading | `npm install tailwindcss@3.3.6` |
-| Build fails | Ensure Node.js 20.11.1+ |
-| Progress not saving | Enable localStorage in browser |
-
-See [User Guide](./docs/USER_GUIDE.md) for detailed troubleshooting.
+| Firebase auth fails | Check environment variables in `.env` |
+| Progress not syncing | Verify Firestore security rules |
+| Build fails | Run `npm install` and `npm run build` |
 
 ## Contributing
 
@@ -158,22 +140,6 @@ Contributions welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 MIT License - see [LICENSE](./LICENSE) for details.
 
-## Acknowledgments
-
-- Inspired by [Magoosh TOEFL Flashcards](https://toefl.magoosh.com/flashcards)
-- Built for TOEFL learners worldwide
-- Data sourced from common TOEFL root/prefix/suffix vocabulary
-
 ---
 
-**Ready to start learning?**
-
-```bash
-cd toefl-flashcard && npm install && npm run dev
-```
-
-Visit http://localhost:5173 and master those TOEFL words!
-
----
-
-**Last Updated**: November 2024 | **Version**: 1.0.0 | **Status**: Production Ready
+**Last Updated**: November 2024 | **Version**: 2.0.0 | **Status**: Production Ready ✨
