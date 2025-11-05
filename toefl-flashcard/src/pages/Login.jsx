@@ -37,19 +37,19 @@ export default function Login() {
   };
 
   return (
-    <div className="min-h-screen bg-purple-gradient flex items-center justify-center px-4">
-      <div className="max-w-md w-full bg-white rounded-lg shadow-2xl p-8">
+    <div className="min-h-screen bg-teal-blue-gradient flex items-center justify-center px-4">
+      <div className="max-w-md w-full card shadow-lg-soft p-8 md:p-10">
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 mb-2">
+          <h1 className="text-4xl font-bold text-transparent bg-gradient-to-r from-green-accent-500 to-blue-accent-400 bg-clip-text mb-2">
             TOEFL Flashcards
           </h1>
-          <p className="text-gray-600">
+          <p className="text-gray-600 font-medium">
             Master TOEFL vocabulary with roots, prefixes, and suffixes
           </p>
         </div>
 
         {error && (
-          <div className="mb-6 p-4 bg-red-100 text-red-700 rounded-lg text-sm">
+          <div className="mb-6 p-4 bg-red-100 text-red-700 rounded-lg text-sm font-medium border border-red-300">
             {error}
           </div>
         )}
@@ -58,7 +58,7 @@ export default function Login() {
           <button
             onClick={handleGoogleLogin}
             disabled={loading}
-            className="w-full py-3 px-4 bg-blue-600 hover:bg-blue-700 disabled:bg-gray-400 text-white font-semibold rounded-lg transition flex items-center justify-center gap-3"
+            className={`w-full py-3 px-4 bg-gradient-to-r from-green-accent-500 to-green-accent-600 hover:shadow-lg hover:-translate-y-1 disabled:opacity-60 disabled:cursor-not-allowed text-white font-semibold rounded-lg transition-all duration-200 flex items-center justify-center gap-3`}
           >
             <svg
               className="w-5 h-5"
@@ -76,7 +76,7 @@ export default function Login() {
           <button
             onClick={handleGitHubLogin}
             disabled={loading}
-            className="w-full py-3 px-4 bg-gray-800 hover:bg-gray-900 disabled:bg-gray-400 text-white font-semibold rounded-lg transition flex items-center justify-center gap-3"
+            className={`w-full py-3 px-4 bg-gradient-to-r from-blue-accent-400 to-blue-accent-600 hover:shadow-lg hover:-translate-y-1 disabled:opacity-60 disabled:cursor-not-allowed text-white font-semibold rounded-lg transition-all duration-200 flex items-center justify-center gap-3`}
           >
             <svg
               className="w-5 h-5"
@@ -89,7 +89,7 @@ export default function Login() {
           </button>
         </div>
 
-        <p className="text-center text-gray-600 text-sm mt-6">
+        <p className="text-center text-gray-600 text-sm mt-6 font-medium">
           Your progress will be securely saved to the cloud
         </p>
       </div>

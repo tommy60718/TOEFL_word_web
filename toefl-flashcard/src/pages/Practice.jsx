@@ -29,32 +29,35 @@ export default function Practice() {
 
   if (!deck) {
     return (
-      <div className="min-h-screen bg-purple-gradient flex items-center justify-center">
-        <div className="text-white text-2xl">Loading...</div>
+      <div className="min-h-screen bg-teal-blue-gradient flex items-center justify-center">
+        <div className="text-white text-2xl font-semibold">Loading...</div>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-purple-gradient pt-8 pb-12">
+    <div className="min-h-screen bg-teal-blue-gradient pt-8 pb-12">
       {/* Header with back button */}
       <div className="max-w-4xl mx-auto px-4 mb-8">
         <div className="flex items-center justify-between mb-6">
           <button
             onClick={() => navigate('/')}
-            className="text-white text-2xl hover:opacity-80 transition flex items-center gap-2"
+            className="text-white text-lg font-semibold hover:opacity-80 transition-opacity flex items-center gap-2 px-4 py-2 rounded-lg hover:bg-white/10"
           >
-            ← {deck.name}
+            ← Back to Decks
           </button>
-          <div className="text-white text-sm flex items-center gap-2">
-            <span>🔀</span> Words you don't know will reappear later
+          <div className="text-white text-sm font-medium flex items-center gap-2 bg-white/10 px-4 py-2 rounded-lg backdrop-blur-sm">
+            <span>🔀</span> Unknown words reappear later
           </div>
         </div>
 
-        {/* Account prompt banner */}
-        <div className="bg-green-500 text-white p-4 rounded-lg mb-8">
-          <p className="text-center">
-            You should <a href="#" className="underline hover:opacity-80">create an account</a> to save your progress. It only takes a minute!
+        {/* Title Banner */}
+        <div className="bg-white/15 backdrop-blur-sm border border-white/20 text-white p-6 rounded-card mb-8">
+          <h1 className="text-2xl font-bold">
+            {deck.name}
+          </h1>
+          <p className="text-white/80 text-sm mt-1">
+            Master these vocabulary elements to boost your TOEFL score
           </p>
         </div>
       </div>
@@ -93,10 +96,10 @@ export default function Practice() {
         </div>
 
         {/* Footer */}
-        <div className="mt-12 text-center text-white text-sm">
+        <div className="mt-12 text-center text-white/80 text-sm">
           <p>
             Have feedback about this deck? Please email{' '}
-            <a href="mailto:support@example.com" className="underline hover:opacity-80">
+            <a href="mailto:support@example.com" className="underline hover:text-white transition-colors">
               support@example.com
             </a>
           </p>

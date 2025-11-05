@@ -8,23 +8,26 @@ export default function DeckCard({ deck, masteredCount }) {
   return (
     <Link
       to={`/practice/${deck.id}`}
-      className="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition transform hover:scale-105 cursor-pointer flex flex-col justify-between h-full min-h-64"
+      className="card card-hover p-6 flex flex-col justify-between h-full min-h-64 border-2 border-transparent hover:border-green-accent-500 cursor-pointer"
     >
       <div>
-        <h3 className="text-2xl font-bold text-gray-800 mb-2">
+        <h3 className="text-2xl font-bold text-gray-900 mb-2">
           {deck.name}
         </h3>
-        <p className="text-gray-600 mb-4">
+        <p className="text-gray-600 text-sm mb-4">
           {masteredCount} of {deck.totalWords} words mastered
         </p>
-        <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden mb-6">
+        <div className="progress-bar mb-6">
           <div
-            className="bg-green-500 h-full rounded-full transition-all duration-500"
+            className="progress-fill"
             style={{ width: `${percentage}%` }}
           />
         </div>
+        <div className="text-xs text-gray-500 font-medium">
+          {percentage}% Complete
+        </div>
       </div>
-      <div className="text-center text-gray-700 hover:text-gray-900 font-medium">
+      <div className="text-center text-green-accent-500 hover:text-green-accent-600 font-semibold transition-colors">
         Practice this deck →
       </div>
     </Link>

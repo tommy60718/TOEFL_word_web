@@ -3,14 +3,22 @@ export default function ProgressBar({ label, current, total }) {
 
   return (
     <div className="mb-6">
-      <p className="text-white mb-2 font-medium">
-        {label} {current} out of {total} words
-      </p>
-      <div className="w-full bg-white rounded-full h-4 overflow-hidden shadow">
+      <div className="flex justify-between items-center mb-3">
+        <p className="text-white font-semibold">
+          {label}
+        </p>
+        <span className="text-white text-sm font-medium">
+          {current} / {total}
+        </span>
+      </div>
+      <div className="progress-bar h-2 bg-white/20">
         <div
-          className="bg-green-500 h-full rounded-full transition-all duration-500"
+          className="progress-fill"
           style={{ width: `${percentage}%` }}
         />
+      </div>
+      <div className="mt-2 text-white/75 text-xs font-medium">
+        {percentage}% completed
       </div>
     </div>
   );
