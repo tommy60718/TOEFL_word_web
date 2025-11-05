@@ -143,3 +143,15 @@ MIT License - see [LICENSE](./LICENSE) for details.
 ---
 
 **Last Updated**: November 2024 | **Version**: 2.0.0 | **Status**: Production Ready ✨
+
+---
+
+## Support This Project
+
+Don't hesitate to give this repo a ⭐ star if you find this repo useful! Your support helps us continue improving the app for TOEFL learners everywhere.
+
+If you found this helpful, please consider:
+- Starring the repository
+- Sharing with fellow TOEFL learners
+- Contributing improvements
+- Reporting issues and suggesting features
