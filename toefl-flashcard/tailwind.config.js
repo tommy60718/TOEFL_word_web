@@ -23,7 +23,7 @@ export default {
       backgroundImage: {
         'green-gradient': 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
         'blue-gradient': 'linear-gradient(135deg, #3b82f6 0%, #2563eb 100%)',
-        'teal-blue-gradient': 'linear-gradient(to bottom right, #70dca9, #5b95dc)',
+        'teal-blue-gradient': 'linear-gradient(to bottom right, #5cc9a4, #4a8bcf)',
       },
       borderRadius: {
         'card': '15px',
