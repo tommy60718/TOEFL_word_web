@@ -16,7 +16,7 @@ export default function Header() {
   };
 
   return (
-    <nav className="header-sticky shadow-soft border-b border-gray-100">
+    <nav className="header-sticky shadow-md border-b border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
@@ -52,7 +52,7 @@ export default function Header() {
 
               {/* Dropdown Menu */}
               {showMenu && (
-                <div className="absolute right-0 mt-2 w-48 bg-white rounded-card shadow-lg-soft py-2 top-full border border-gray-100 z-50">
+                <div className="absolute right-0 mt-2 w-48 bg-white rounded-2xl shadow-xl py-2 top-full border border-gray-100 z-50">
                   <Link
                     to="/profile"
                     className="block px-4 py-2 hover:bg-gray-50 transition-colors text-gray-900 font-medium"

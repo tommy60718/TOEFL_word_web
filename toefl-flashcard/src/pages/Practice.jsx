@@ -52,7 +52,7 @@ export default function Practice() {
         </div>
 
         {/* Title Banner */}
-        <div className="bg-white/15 backdrop-blur-sm border border-white/20 text-white p-6 rounded-card mb-8">
+        <div className="bg-white/15 backdrop-blur-sm border border-white/20 text-white p-6 rounded-2xl mb-8">
           <h1 className="text-2xl font-bold">
             {deck.name}
           </h1>

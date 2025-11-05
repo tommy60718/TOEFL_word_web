@@ -38,7 +38,7 @@ export default function Login() {
 
   return (
     <div className="min-h-screen bg-teal-blue-gradient flex items-center justify-center px-4">
-      <div className="max-w-md w-full card shadow-lg-soft p-8 md:p-10">
+      <div className="max-w-md w-full card shadow-xl p-8 md:p-10">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-transparent bg-gradient-to-r from-green-accent-500 to-blue-accent-400 bg-clip-text mb-2">
             TOEFL Flashcards

@@ -30,7 +30,7 @@ export default function Profile() {
       <Header />
 
       <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="card shadow-lg-soft p-8 md:p-10">
+        <div className="card shadow-xl p-8 md:p-10">
           <h1 className="text-4xl font-bold text-transparent bg-gradient-to-r from-green-accent-500 to-blue-accent-400 bg-clip-text mb-8">
             Profile
           </h1>
@@ -43,10 +43,10 @@ export default function Profile() {
                   <img
                     src={user.photoURL}
                     alt={user.displayName || user.email}
-                    className="w-32 h-32 rounded-full border-4 border-green-accent-500 shadow-lg-soft"
+                    className="w-32 h-32 rounded-full border-4 border-green-accent-500 shadow-xl"
                   />
                 ) : (
-                  <div className="w-32 h-32 rounded-full bg-gradient-to-r from-green-accent-500 to-blue-accent-400 flex items-center justify-center text-white text-5xl font-bold shadow-lg-soft">
+                  <div className="w-32 h-32 rounded-full bg-gradient-to-r from-green-accent-500 to-blue-accent-400 flex items-center justify-center text-white text-5xl font-bold shadow-xl">
                     {(user.displayName || user.email)?.[0]?.toUpperCase() || 'U'}
                   </div>
                 )}

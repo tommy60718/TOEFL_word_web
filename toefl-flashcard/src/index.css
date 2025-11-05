@@ -60,16 +60,17 @@
 
   /* Cards */
   .card {
-    @apply bg-white rounded-card shadow-card transition-all duration-300;
+    @apply bg-white rounded-2xl shadow-lg transition-all duration-300;
   }
 
   .card-hover {
-    @apply hover:shadow-lg-soft hover:-translate-y-1 transition-all duration-300;
+    @apply hover:shadow-2xl hover:-translate-y-1 transition-all duration-300;
   }
 
   /* Loading Spinner */
   .spinner {
-    @apply inline-block w-10 h-10 border-4 border-gray-200 border-t-green-accent-500 rounded-full animate-spin;
+    @apply inline-block w-10 h-10 border-4 border-gray-200 rounded-full animate-spin;
+    border-top-color: #10b981;
   }
 
   /* Smooth Transitions */
@@ -101,7 +102,8 @@
   }
 
   .progress-fill {
-    @apply h-full bg-gradient-to-r from-green-accent-500 to-green-accent-600 transition-all duration-500;
+    @apply h-full transition-all duration-500;
+    background: linear-gradient(90deg, #10b981 0%, #059669 100%);
   }
 }
 

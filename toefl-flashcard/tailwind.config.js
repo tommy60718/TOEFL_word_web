@@ -5,14 +5,42 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
+      },
       colors: {
-        'purple-magoosh': {
-          600: '#5b21b6',
-          700: '#7c3aed',
+        'green-accent': {
+          100: '#d1fae5',
+          500: '#10b981',
+          600: '#059669',
+          800: '#065f46',
+        },
+        'blue-accent': {
+          400: '#3b82f6',
+          600: '#2563eb',
         },
       },
       backgroundImage: {
-        'purple-gradient': 'linear-gradient(to bottom right, #5b21b6, #7c3aed)',
+        'green-gradient': 'linear-gradient(135deg, #10b981 0%, #059669 100%)',
+        'blue-gradient': 'linear-gradient(135deg, #3b82f6 0%, #2563eb 100%)',
+        'teal-blue-gradient': 'linear-gradient(to bottom right, #70dca9, #5b95dc)',
+      },
+      borderRadius: {
+        'card': '15px',
+      },
+      keyframes: {
+        pulse: {
+          '0%, 100%': { opacity: '1' },
+          '50%': { opacity: '0.7' },
+        },
+        spin: {
+          'from': { transform: 'rotate(0deg)' },
+          'to': { transform: 'rotate(360deg)' },
+        },
+      },
+      animation: {
+        pulse: 'pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+        spin: 'spin 1s linear infinite',
       },
     },
   },

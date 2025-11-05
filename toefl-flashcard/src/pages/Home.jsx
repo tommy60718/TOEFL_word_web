@@ -47,7 +47,7 @@ export default function Home() {
 
         {/* Footer Info */}
         <div className="mt-16 text-center text-white">
-          <div className="bg-white/10 backdrop-blur-sm rounded-card p-6 border border-white/20">
+          <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20">
             <p className="text-sm md:text-base font-medium">
               Track your progress across <span className="font-bold">{decks.length}</span> vocabulary decks
             </p>

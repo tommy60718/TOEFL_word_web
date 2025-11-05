@@ -16,7 +16,7 @@ export default function Flashcard({
 
   if (!card) {
     return (
-      <div className="card flex items-center justify-center h-96 shadow-soft">
+      <div className="card flex items-center justify-center h-96 shadow-md">
         <p className="text-gray-600 text-xl font-medium">No words to practice</p>
       </div>
     );
@@ -25,7 +25,7 @@ export default function Flashcard({
   const isNewWord = true;
 
   return (
-    <div className="card shadow-lg-soft overflow-hidden transition-all duration-300">
+    <div className="card shadow-xl overflow-hidden transition-all duration-300">
       {/* Card Body - Front */}
       {!isFlipped ? (
         <div
