@@ -1,0 +1,366 @@
+{
+  "TPO70-1": {
+    "theme": "Empire, River",
+    "vocabulary": [
+      {
+        "word": "porous",
+        "part_of_speech": "adj.",
+        "chinese": "多孔的",
+        "example": "Porous rock allows water to seep through easily."
+      },
+      {
+        "word": "silt",
+        "part_of_speech": "n.",
+        "chinese": "淤泥、泥沙",
+        "example": "The river deposited silt along its banks, enriching the soil."
+      },
+      {
+        "word": "clog",
+        "part_of_speech": "v./n.",
+        "chinese": "阻塞、堵塞",
+        "example": "Debris can clog irrigation channels and prevent water flow."
+      },
+      {
+        "word": "dike",
+        "part_of_speech": "n.",
+        "chinese": "堤防、堤壩",
+        "example": "The dike protected the farmland from seasonal flooding."
+      },
+      {
+        "word": "inundation",
+        "part_of_speech": "n.",
+        "chinese": "淹沒、水災",
+        "example": "The inundation of the valley forced thousands to evacuate."
+      },
+      {
+        "word": "inundate",
+        "part_of_speech": "v.",
+        "chinese": "淹沒",
+        "example": "Heavy rains inundated the low-lying areas near the river."
+      },
+      {
+        "word": "predicament",
+        "part_of_speech": "n.",
+        "chinese": "困境、窘境",
+        "example": "The empire faced a serious predicament when the river changed course."
+      },
+      {
+        "word": "convene",
+        "part_of_speech": "v.",
+        "chinese": "召集、集會",
+        "example": "The emperor convened his advisors to discuss the flooding crisis."
+      },
+      {
+        "word": "pledge",
+        "part_of_speech": "v./n.",
+        "chinese": "承諾、誓言",
+        "example": "Local leaders pledged to contribute resources for flood control."
+      },
+      {
+        "word": "hinder",
+        "part_of_speech": "v.",
+        "chinese": "阻礙、妨礙",
+        "example": "Poor infrastructure hindered efforts to manage the water system."
+      },
+      {
+        "word": "produce",
+        "part_of_speech": "v.",
+        "chinese": "生產",
+        "example": "The fertile land produced abundant crops for the empire."
+      },
+      {
+        "word": "reproduce",
+        "part_of_speech": "v.",
+        "chinese": "複製、繁殖",
+        "example": "Scribes reproduced important documents for distribution."
+      },
+      {
+        "word": "inscription",
+        "part_of_speech": "n.",
+        "chinese": "刻字、銘文",
+        "example": "The inscription on the monument commemorated the flood control project."
+      },
+      {
+        "word": "erect",
+        "part_of_speech": "v.",
+        "chinese": "建立、豎立",
+        "example": "Workers erected a massive stone monument to honor the emperor."
+      },
+      {
+        "word": "meritorious",
+        "part_of_speech": "adj.",
+        "chinese": "值得嘉許的、有功的",
+        "example": "The engineer received an award for his meritorious service."
+      },
+      {
+        "word": "merit",
+        "part_of_speech": "n.",
+        "chinese": "優點、價值",
+        "example": "The plan had merit but required significant resources."
+      },
+      {
+        "word": "neutralization",
+        "part_of_speech": "n.",
+        "chinese": "中和、抵消",
+        "example": "The neutralization of flood threats required coordinated efforts."
+      },
+      {
+        "word": "monsoon",
+        "part_of_speech": "n.",
+        "chinese": "季風、雨季",
+        "example": "The monsoon season brought heavy rains and flooding."
+      },
+      {
+        "word": "agriculture",
+        "part_of_speech": "n.",
+        "chinese": "農業",
+        "example": "Agriculture was the foundation of the empire's economy."
+      },
+      {
+        "word": "inevitable",
+        "part_of_speech": "adj.",
+        "chinese": "不可避免的",
+        "example": "Seasonal flooding was inevitable in the river valley."
+      },
+      {
+        "word": "impose",
+        "part_of_speech": "v.",
+        "chinese": "強加、徵收",
+        "example": "The emperor imposed new taxes to fund irrigation projects."
+      },
+      {
+        "word": "principality",
+        "part_of_speech": "n.",
+        "chinese": "公國、小國",
+        "example": "Several principalities united under the empire's rule."
+      },
+      {
+        "word": "principal",
+        "part_of_speech": "n./adj.",
+        "chinese": "校長、主要的",
+        "example": "The principal concern was preventing catastrophic flooding."
+      },
+      {
+        "word": "imperial",
+        "part_of_speech": "adj.",
+        "chinese": "帝國的",
+        "example": "Imperial decrees mandated cooperation on water management."
+      },
+      {
+        "word": "empire",
+        "part_of_speech": "n.",
+        "chinese": "帝國",
+        "example": "The empire controlled vast territories along the river."
+      },
+      {
+        "word": "customarily",
+        "part_of_speech": "adv.",
+        "chinese": "習慣性地、通常",
+        "example": "Farmers customarily planted crops after the flood season."
+      },
+      {
+        "word": "customary",
+        "part_of_speech": "adj.",
+        "chinese": "習慣的、慣例的",
+        "example": "It was customary to offer prayers before major construction projects."
+      },
+      {
+        "word": "grazing",
+        "part_of_speech": "n.",
+        "chinese": "放牧",
+        "example": "Grazing lands were located on higher ground away from floods."
+      },
+      {
+        "word": "offensive",
+        "part_of_speech": "n./adj.",
+        "chinese": "攻勢、冒犯的",
+        "example": "The military launched an offensive to secure water resources."
+      },
+      {
+        "word": "homogeneity",
+        "part_of_speech": "n.",
+        "chinese": "同質性、一致性",
+        "example": "The empire promoted cultural homogeneity across its territories."
+      }
+    ]
+  },
+  "TPO70-2": {
+    "theme": "Geography, Ocean, Mountain",
+    "vocabulary": [
+      {
+        "word": "invoke",
+        "part_of_speech": "v.",
+        "chinese": "喚起、援引",
+        "example": "Scientists invoke plate tectonics to explain mountain formation."
+      },
+      {
+        "word": "terrestrial",
+        "part_of_speech": "adj.",
+        "chinese": "陸地的、地球的",
+        "example": "Terrestrial mountains differ significantly from underwater formations."
+      },
+      {
+        "word": "territory",
+        "part_of_speech": "n.",
+        "chinese": "領土、領域",
+        "example": "The expedition explored uncharted territory in the mountain range."
+      },
+      {
+        "word": "contraction",
+        "part_of_speech": "n.",
+        "chinese": "收縮、縮減",
+        "example": "The contraction of Earth's crust creates compressional forces."
+      },
+      {
+        "word": "incandescent",
+        "part_of_speech": "adj.",
+        "chinese": "白熾的、發光的",
+        "example": "The incandescent lava flowed down the mountainside."
+      },
+      {
+        "word": "deform",
+        "part_of_speech": "v.",
+        "chinese": "變形、使變形",
+        "example": "Tectonic forces deform rock layers over millions of years."
+      },
+      {
+        "word": "popularize",
+        "part_of_speech": "v.",
+        "chinese": "普及、推廣",
+        "example": "Alfred Wegener popularized the theory of continental drift."
+      },
+      {
+        "word": "accommodate",
+        "part_of_speech": "v.",
+        "chinese": "容納、適應",
+        "example": "The theory must accommodate new evidence from ocean floor studies."
+      },
+      {
+        "word": "crust",
+        "part_of_speech": "n.",
+        "chinese": "地殼、外殼",
+        "example": "Earth's crust is divided into several tectonic plates."
+      },
+      {
+        "word": "ocean basin",
+        "part_of_speech": "n.",
+        "chinese": "海洋盆地",
+        "example": "The ocean basin contains the deepest parts of the seafloor."
+      },
+      {
+        "word": "perplexing",
+        "part_of_speech": "adj.",
+        "chinese": "令人困惑的",
+        "example": "The age distribution of ocean rocks was perplexing to early geologists."
+      },
+      {
+        "word": "perplex",
+        "part_of_speech": "v.",
+        "chinese": "使困惑",
+        "example": "The discovery perplexed scientists who expected older rocks."
+      },
+      {
+        "word": "puzzle",
+        "part_of_speech": "v./n.",
+        "chinese": "使困惑、謎題",
+        "example": "The puzzle of seafloor spreading was solved in the 1960s."
+      },
+      {
+        "word": "interleave",
+        "part_of_speech": "v.",
+        "chinese": "交錯、插入",
+        "example": "Magnetic stripes interleave across the ocean floor."
+      },
+      {
+        "word": "interleaving",
+        "part_of_speech": "n.",
+        "chinese": "交錯、交替",
+        "example": "The interleaving pattern of rock types indicates periodic volcanic activity."
+      },
+      {
+        "word": "sediment",
+        "part_of_speech": "n.",
+        "chinese": "沉積物",
+        "example": "Sediment accumulates on the ocean floor over time."
+      },
+      {
+        "word": "deposit",
+        "part_of_speech": "v./n.",
+        "chinese": "沉積、存放",
+        "example": "Rivers deposit sediment in deltas where they meet the ocean."
+      },
+      {
+        "word": "stratigraphic",
+        "part_of_speech": "adj.",
+        "chinese": "地層學的",
+        "example": "Stratigraphic analysis reveals the history of rock formation."
+      },
+      {
+        "word": "strata",
+        "part_of_speech": "n.",
+        "chinese": "地層、層",
+        "example": "Different strata contain fossils from different time periods."
+      },
+      {
+        "word": "striking",
+        "part_of_speech": "adj.",
+        "chinese": "顯著的、驚人的",
+        "example": "The striking symmetry of magnetic patterns confirmed seafloor spreading."
+      },
+      {
+        "word": "conundrum",
+        "part_of_speech": "n.",
+        "chinese": "難題、謎題",
+        "example": "The absence of old oceanic crust was a major conundrum."
+      },
+      {
+        "word": "attribute",
+        "part_of_speech": "v./n.",
+        "chinese": "歸因於、屬性",
+        "example": "Scientists attribute mountain building to plate collisions."
+      },
+      {
+        "word": "feldspar",
+        "part_of_speech": "n.",
+        "chinese": "長石",
+        "example": "Feldspar is a common mineral in continental crust."
+      },
+      {
+        "word": "olivine",
+        "part_of_speech": "n.",
+        "chinese": "橄欖石",
+        "example": "Olivine is abundant in the Earth's mantle and oceanic crust."
+      },
+      {
+        "word": "pyroxene",
+        "part_of_speech": "n.",
+        "chinese": "輝石",
+        "example": "Pyroxene minerals are found in basaltic rocks."
+      },
+      {
+        "word": "crater",
+        "part_of_speech": "n.",
+        "chinese": "隕石坑、火山口",
+        "example": "Volcanic craters dot the landscape of the island chain."
+      },
+      {
+        "word": "subside",
+        "part_of_speech": "v.",
+        "chinese": "下沉、減弱",
+        "example": "The seafloor subsides as it moves away from the mid-ocean ridge."
+      },
+      {
+        "word": "paleontology",
+        "part_of_speech": "n.",
+        "chinese": "古生物學",
+        "example": "Paleontology provides evidence for the age of rock formations."
+      },
+      {
+        "word": "erode",
+        "part_of_speech": "v.",
+        "chinese": "侵蝕、腐蝕",
+        "example": "Wind and water erode mountains over geological time."
+      }
+    ]
+  }
+}

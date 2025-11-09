@@ -1,0 +1,216 @@
+{
+  "TPO71-1": {
+    "theme": "Ocean, Electricity",
+    "vocabulary": [
+      {
+        "word": "reservoir",
+        "part_of_speech": "n.",
+        "chinese": "水庫、蓄水池",
+        "example": "The reservoir supplies water to millions of people in the city."
+      },
+      {
+        "word": "untapped",
+        "part_of_speech": "adj.",
+        "chinese": "未開發、未被利用",
+        "example": "Africa has vast untapped natural resources that could boost its economy."
+      },
+      {
+        "word": "diffuse",
+        "part_of_speech": "v./adj.",
+        "chinese": "擴散、分散",
+        "example": "The light diffused through the frosted glass, creating a soft glow."
+      },
+      {
+        "word": "exploit",
+        "part_of_speech": "v.",
+        "chinese": "利用、開發",
+        "example": "Companies exploit renewable energy sources to reduce carbon emissions."
+      },
+      {
+        "word": "tap to generate electricity",
+        "part_of_speech": "v. phrase",
+        "chinese": "被利用來發電",
+        "example": "Geothermal energy can be tapped to generate electricity in volcanic regions."
+      },
+      {
+        "word": "be dammed to impound",
+        "part_of_speech": "v. phrase",
+        "chinese": "築壩蓄水",
+        "example": "The river was dammed to impound water for irrigation purposes."
+      },
+      {
+        "word": "contend with",
+        "part_of_speech": "v. phrase",
+        "chinese": "應對、處理",
+        "example": "Coastal cities must contend with rising sea levels due to climate change."
+      },
+      {
+        "word": "contend",
+        "part_of_speech": "v.",
+        "chinese": "爭論、競爭",
+        "example": "Scientists contend that ocean currents play a crucial role in climate regulation."
+      },
+      {
+        "word": "hydroelectric",
+        "part_of_speech": "adj.",
+        "chinese": "水力發電的",
+        "example": "Hydroelectric power plants convert the energy of flowing water into electricity."
+      },
+      {
+        "word": "hydro",
+        "part_of_speech": "prefix",
+        "chinese": "水力",
+        "example": "Hydropower is one of the oldest sources of renewable energy."
+      },
+      {
+        "word": "crest",
+        "part_of_speech": "n.",
+        "chinese": "波峰、頂點",
+        "example": "The wave reached its crest before crashing onto the shore."
+      },
+      {
+        "word": "buoy",
+        "part_of_speech": "n.",
+        "chinese": "浮標、浮球",
+        "example": "The buoy marked the safe swimming area in the ocean."
+      },
+      {
+        "word": "gulf",
+        "part_of_speech": "n.",
+        "chinese": "海灣",
+        "example": "The Gulf of Mexico is known for its warm waters and diverse marine life."
+      },
+      {
+        "word": "preclude",
+        "part_of_speech": "v.",
+        "chinese": "排除、阻止",
+        "example": "The high cost of installation precludes many homeowners from using solar panels."
+      }
+    ]
+  },
+  "TPO71-2": {
+    "theme": "Archaeology",
+    "vocabulary": [
+      {
+        "word": "evident",
+        "part_of_speech": "adj.",
+        "chinese": "明顯的",
+        "example": "It was evident from the artifacts that the civilization was highly advanced."
+      },
+      {
+        "word": "archaeology",
+        "part_of_speech": "n.",
+        "chinese": "考古學",
+        "example": "She studied archaeology to understand ancient human civilizations."
+      },
+      {
+        "word": "excavate",
+        "part_of_speech": "v.",
+        "chinese": "挖掘",
+        "example": "Archaeologists excavated the site and discovered pottery from 3000 BCE."
+      },
+      {
+        "word": "reveal",
+        "part_of_speech": "v.",
+        "chinese": "揭露、顯示",
+        "example": "The excavation revealed a complex network of underground tunnels."
+      },
+      {
+        "word": "dedicated to",
+        "part_of_speech": "adj. phrase",
+        "chinese": "致力於、專門用於",
+        "example": "This museum is dedicated to preserving ancient Roman artifacts."
+      },
+      {
+        "word": "vessel",
+        "part_of_speech": "n.",
+        "chinese": "容器、船隻",
+        "example": "Clay vessels were used to store grain and water in ancient times."
+      },
+      {
+        "word": "lapidary",
+        "part_of_speech": "n.",
+        "chinese": "石雕工、寶石工",
+        "example": "The lapidary carefully carved intricate designs into the precious stones."
+      },
+      {
+        "word": "loom",
+        "part_of_speech": "n.",
+        "chinese": "織布機",
+        "example": "Ancient looms were used to weave textiles from wool and cotton."
+      },
+      {
+        "word": "weaving",
+        "part_of_speech": "n.",
+        "chinese": "編織",
+        "example": "Weaving was an important craft in many ancient societies."
+      },
+      {
+        "word": "seal from",
+        "part_of_speech": "v. phrase",
+        "chinese": "密封、封存",
+        "example": "The tomb was sealed from the outside world for thousands of years."
+      },
+      {
+        "word": "archive",
+        "part_of_speech": "n.",
+        "chinese": "檔案館、資料庫",
+        "example": "The archive contains thousands of documents from the medieval period."
+      },
+      {
+        "word": "obsidian",
+        "part_of_speech": "n.",
+        "chinese": "黑曜石",
+        "example": "Obsidian was prized for making sharp cutting tools and weapons."
+      },
+      {
+        "word": "reddish",
+        "part_of_speech": "adj.",
+        "chinese": "紅色的、略帶紅色的",
+        "example": "The pottery had a distinctive reddish color from the iron-rich clay."
+      },
+      {
+        "word": "smithy",
+        "part_of_speech": "n.",
+        "chinese": "鍛造工坊",
+        "example": "The smithy was where metalworkers forged tools and weapons."
+      },
+      {
+        "word": "fume",
+        "part_of_speech": "n.",
+        "chinese": "煙霧、煙",
+        "example": "Toxic fumes from the smelting process filled the workshop."
+      },
+      {
+        "word": "interpretation",
+        "part_of_speech": "n.",
+        "chinese": "詮釋、解讀",
+        "example": "Different archaeologists have different interpretations of the site's purpose."
+      },
+      {
+        "word": "ware",
+        "part_of_speech": "n.",
+        "chinese": "器皿、製品",
+        "example": "The museum displays various types of ceramic ware from different periods."
+      },
+      {
+        "word": "distinct",
+        "part_of_speech": "adj.",
+        "chinese": "獨特的、明顯不同的",
+        "example": "Each culture has distinct pottery styles that help identify their origin."
+      },
+      {
+        "word": "utterly",
+        "part_of_speech": "adv.",
+        "chinese": "完全地、徹底地",
+        "example": "The ancient city was utterly destroyed by the earthquake."
+      },
+      {
+        "word": "provincial",
+        "part_of_speech": "adj.",
+        "chinese": "省級的、地方的",
+        "example": "Provincial workshops produced goods for local markets rather than trade."
+      }
+    ]
+  }
+}
