@@ -3016,6 +3016,859 @@
           ]
         }
       ]
+    },
+    {
+      "id": "tpo70-deck",
+      "name": "TPO 70 Vocabulary",
+      "type": "Vocabulary",
+      "totalWords": 59,
+      "words": [
+        {
+          "id": "tpo70-deck-0",
+          "root": "porous",
+          "type": "Vocabulary",
+          "meaning": "多孔的",
+          "examples": [
+            "Porous rock allows water to seep through easily."
+          ]
+        },
+        {
+          "id": "tpo70-deck-1",
+          "root": "silt",
+          "type": "Vocabulary",
+          "meaning": "淤泥、泥沙",
+          "examples": [
+            "The river deposited silt along its banks, enriching the soil."
+          ]
+        },
+        {
+          "id": "tpo70-deck-2",
+          "root": "clog",
+          "type": "Vocabulary",
+          "meaning": "阻塞、堵塞",
+          "examples": [
+            "Debris can clog irrigation channels and prevent water flow."
+          ]
+        },
+        {
+          "id": "tpo70-deck-3",
+          "root": "dike",
+          "type": "Vocabulary",
+          "meaning": "堤防、堤壩",
+          "examples": [
+            "The dike protected the farmland from seasonal flooding."
+          ]
+        },
+        {
+          "id": "tpo70-deck-4",
+          "root": "inundation",
+          "type": "Vocabulary",
+          "meaning": "淹沒、水災",
+          "examples": [
+            "The inundation of the valley forced thousands to evacuate."
+          ]
+        },
+        {
+          "id": "tpo70-deck-5",
+          "root": "inundate",
+          "type": "Vocabulary",
+          "meaning": "淹沒",
+          "examples": [
+            "Heavy rains inundated the low-lying areas near the river."
+          ]
+        },
+        {
+          "id": "tpo70-deck-6",
+          "root": "predicament",
+          "type": "Vocabulary",
+          "meaning": "困境、窘境",
+          "examples": [
+            "The empire faced a serious predicament when the river changed course."
+          ]
+        },
+        {
+          "id": "tpo70-deck-7",
+          "root": "convene",
+          "type": "Vocabulary",
+          "meaning": "召集、集會",
+          "examples": [
+            "The emperor convened his advisors to discuss the flooding crisis."
+          ]
+        },
+        {
+          "id": "tpo70-deck-8",
+          "root": "pledge",
+          "type": "Vocabulary",
+          "meaning": "承諾、誓言",
+          "examples": [
+            "Local leaders pledged to contribute resources for flood control."
+          ]
+        },
+        {
+          "id": "tpo70-deck-9",
+          "root": "hinder",
+          "type": "Vocabulary",
+          "meaning": "阻礙、妨礙",
+          "examples": [
+            "Poor infrastructure hindered efforts to manage the water system."
+          ]
+        },
+        {
+          "id": "tpo70-deck-10",
+          "root": "produce",
+          "type": "Vocabulary",
+          "meaning": "生產",
+          "examples": [
+            "The fertile land produced abundant crops for the empire."
+          ]
+        },
+        {
+          "id": "tpo70-deck-11",
+          "root": "reproduce",
+          "type": "Vocabulary",
+          "meaning": "複製、繁殖",
+          "examples": [
+            "Scribes reproduced important documents for distribution."
+          ]
+        },
+        {
+          "id": "tpo70-deck-12",
+          "root": "inscription",
+          "type": "Vocabulary",
+          "meaning": "刻字、銘文",
+          "examples": [
+            "The inscription on the monument commemorated the flood control project."
+          ]
+        },
+        {
+          "id": "tpo70-deck-13",
+          "root": "erect",
+          "type": "Vocabulary",
+          "meaning": "建立、豎立",
+          "examples": [
+            "Workers erected a massive stone monument to honor the emperor."
+          ]
+        },
+        {
+          "id": "tpo70-deck-14",
+          "root": "meritorious",
+          "type": "Vocabulary",
+          "meaning": "值得嘉許的、有功的",
+          "examples": [
+            "The engineer received an award for his meritorious service."
+          ]
+        },
+        {
+          "id": "tpo70-deck-15",
+          "root": "merit",
+          "type": "Vocabulary",
+          "meaning": "優點、價值",
+          "examples": [
+            "The plan had merit but required significant resources."
+          ]
+        },
+        {
+          "id": "tpo70-deck-16",
+          "root": "neutralization",
+          "type": "Vocabulary",
+          "meaning": "中和、抵消",
+          "examples": [
+            "The neutralization of flood threats required coordinated efforts."
+          ]
+        },
+        {
+          "id": "tpo70-deck-17",
+          "root": "monsoon",
+          "type": "Vocabulary",
+          "meaning": "季風、雨季",
+          "examples": [
+            "The monsoon season brought heavy rains and flooding."
+          ]
+        },
+        {
+          "id": "tpo70-deck-18",
+          "root": "agriculture",
+          "type": "Vocabulary",
+          "meaning": "農業",
+          "examples": [
+            "Agriculture was the foundation of the empire's economy."
+          ]
+        },
+        {
+          "id": "tpo70-deck-19",
+          "root": "inevitable",
+          "type": "Vocabulary",
+          "meaning": "不可避免的",
+          "examples": [
+            "Seasonal flooding was inevitable in the river valley."
+          ]
+        },
+        {
+          "id": "tpo70-deck-20",
+          "root": "impose",
+          "type": "Vocabulary",
+          "meaning": "強加、徵收",
+          "examples": [
+            "The emperor imposed new taxes to fund irrigation projects."
+          ]
+        },
+        {
+          "id": "tpo70-deck-21",
+          "root": "principality",
+          "type": "Vocabulary",
+          "meaning": "公國、小國",
+          "examples": [
+            "Several principalities united under the empire's rule."
+          ]
+        },
+        {
+          "id": "tpo70-deck-22",
+          "root": "principal",
+          "type": "Vocabulary",
+          "meaning": "校長、主要的",
+          "examples": [
+            "The principal concern was preventing catastrophic flooding."
+          ]
+        },
+        {
+          "id": "tpo70-deck-23",
+          "root": "imperial",
+          "type": "Vocabulary",
+          "meaning": "帝國的",
+          "examples": [
+            "Imperial decrees mandated cooperation on water management."
+          ]
+        },
+        {
+          "id": "tpo70-deck-24",
+          "root": "empire",
+          "type": "Vocabulary",
+          "meaning": "帝國",
+          "examples": [
+            "The empire controlled vast territories along the river."
+          ]
+        },
+        {
+          "id": "tpo70-deck-25",
+          "root": "customarily",
+          "type": "Vocabulary",
+          "meaning": "習慣性地、通常",
+          "examples": [
+            "Farmers customarily planted crops after the flood season."
+          ]
+        },
+        {
+          "id": "tpo70-deck-26",
+          "root": "customary",
+          "type": "Vocabulary",
+          "meaning": "習慣的、慣例的",
+          "examples": [
+            "It was customary to offer prayers before major construction projects."
+          ]
+        },
+        {
+          "id": "tpo70-deck-27",
+          "root": "grazing",
+          "type": "Vocabulary",
+          "meaning": "放牧",
+          "examples": [
+            "Grazing lands were located on higher ground away from floods."
+          ]
+        },
+        {
+          "id": "tpo70-deck-28",
+          "root": "offensive",
+          "type": "Vocabulary",
+          "meaning": "攻勢、冒犯的",
+          "examples": [
+            "The military launched an offensive to secure water resources."
+          ]
+        },
+        {
+          "id": "tpo70-deck-29",
+          "root": "homogeneity",
+          "type": "Vocabulary",
+          "meaning": "同質性、一致性",
+          "examples": [
+            "The empire promoted cultural homogeneity across its territories."
+          ]
+        },
+        {
+          "id": "tpo70-deck-30",
+          "root": "invoke",
+          "type": "Vocabulary",
+          "meaning": "喚起、援引",
+          "examples": [
+            "Scientists invoke plate tectonics to explain mountain formation."
+          ]
+        },
+        {
+          "id": "tpo70-deck-31",
+          "root": "terrestrial",
+          "type": "Vocabulary",
+          "meaning": "陸地的、地球的",
+          "examples": [
+            "Terrestrial mountains differ significantly from underwater formations."
+          ]
+        },
+        {
+          "id": "tpo70-deck-32",
+          "root": "territory",
+          "type": "Vocabulary",
+          "meaning": "領土、領域",
+          "examples": [
+            "The expedition explored uncharted territory in the mountain range."
+          ]
+        },
+        {
+          "id": "tpo70-deck-33",
+          "root": "contraction",
+          "type": "Vocabulary",
+          "meaning": "收縮、縮減",
+          "examples": [
+            "The contraction of Earth's crust creates compressional forces."
+          ]
+        },
+        {
+          "id": "tpo70-deck-34",
+          "root": "incandescent",
+          "type": "Vocabulary",
+          "meaning": "白熾的、發光的",
+          "examples": [
+            "The incandescent lava flowed down the mountainside."
+          ]
+        },
+        {
+          "id": "tpo70-deck-35",
+          "root": "deform",
+          "type": "Vocabulary",
+          "meaning": "變形、使變形",
+          "examples": [
+            "Tectonic forces deform rock layers over millions of years."
+          ]
+        },
+        {
+          "id": "tpo70-deck-36",
+          "root": "popularize",
+          "type": "Vocabulary",
+          "meaning": "普及、推廣",
+          "examples": [
+            "Alfred Wegener popularized the theory of continental drift."
+          ]
+        },
+        {
+          "id": "tpo70-deck-37",
+          "root": "accommodate",
+          "type": "Vocabulary",
+          "meaning": "容納、適應",
+          "examples": [
+            "The theory must accommodate new evidence from ocean floor studies."
+          ]
+        },
+        {
+          "id": "tpo70-deck-38",
+          "root": "crust",
+          "type": "Vocabulary",
+          "meaning": "地殼、外殼",
+          "examples": [
+            "Earth's crust is divided into several tectonic plates."
+          ]
+        },
+        {
+          "id": "tpo70-deck-39",
+          "root": "ocean basin",
+          "type": "Vocabulary",
+          "meaning": "海洋盆地",
+          "examples": [
+            "The ocean basin contains the deepest parts of the seafloor."
+          ]
+        },
+        {
+          "id": "tpo70-deck-40",
+          "root": "perplexing",
+          "type": "Vocabulary",
+          "meaning": "令人困惑的",
+          "examples": [
+            "The age distribution of ocean rocks was perplexing to early geologists."
+          ]
+        },
+        {
+          "id": "tpo70-deck-41",
+          "root": "perplex",
+          "type": "Vocabulary",
+          "meaning": "使困惑",
+          "examples": [
+            "The discovery perplexed scientists who expected older rocks."
+          ]
+        },
+        {
+          "id": "tpo70-deck-42",
+          "root": "puzzle",
+          "type": "Vocabulary",
+          "meaning": "使困惑、謎題",
+          "examples": [
+            "The puzzle of seafloor spreading was solved in the 1960s."
+          ]
+        },
+        {
+          "id": "tpo70-deck-43",
+          "root": "interleave",
+          "type": "Vocabulary",
+          "meaning": "交錯、插入",
+          "examples": [
+            "Magnetic stripes interleave across the ocean floor."
+          ]
+        },
+        {
+          "id": "tpo70-deck-44",
+          "root": "interleaving",
+          "type": "Vocabulary",
+          "meaning": "交錯、交替",
+          "examples": [
+            "The interleaving pattern of rock types indicates periodic volcanic activity."
+          ]
+        },
+        {
+          "id": "tpo70-deck-45",
+          "root": "sediment",
+          "type": "Vocabulary",
+          "meaning": "沉積物",
+          "examples": [
+            "Sediment accumulates on the ocean floor over time."
+          ]
+        },
+        {
+          "id": "tpo70-deck-46",
+          "root": "deposit",
+          "type": "Vocabulary",
+          "meaning": "沉積、存放",
+          "examples": [
+            "Rivers deposit sediment in deltas where they meet the ocean."
+          ]
+        },
+        {
+          "id": "tpo70-deck-47",
+          "root": "stratigraphic",
+          "type": "Vocabulary",
+          "meaning": "地層學的",
+          "examples": [
+            "Stratigraphic analysis reveals the history of rock formation."
+          ]
+        },
+        {
+          "id": "tpo70-deck-48",
+          "root": "strata",
+          "type": "Vocabulary",
+          "meaning": "地層、層",
+          "examples": [
+            "Different strata contain fossils from different time periods."
+          ]
+        },
+        {
+          "id": "tpo70-deck-49",
+          "root": "striking",
+          "type": "Vocabulary",
+          "meaning": "顯著的、驚人的",
+          "examples": [
+            "The striking symmetry of magnetic patterns confirmed seafloor spreading."
+          ]
+        },
+        {
+          "id": "tpo70-deck-50",
+          "root": "conundrum",
+          "type": "Vocabulary",
+          "meaning": "難題、謎題",
+          "examples": [
+            "The absence of old oceanic crust was a major conundrum."
+          ]
+        },
+        {
+          "id": "tpo70-deck-51",
+          "root": "attribute",
+          "type": "Vocabulary",
+          "meaning": "歸因於、屬性",
+          "examples": [
+            "Scientists attribute mountain building to plate collisions."
+          ]
+        },
+        {
+          "id": "tpo70-deck-52",
+          "root": "feldspar",
+          "type": "Vocabulary",
+          "meaning": "長石",
+          "examples": [
+            "Feldspar is a common mineral in continental crust."
+          ]
+        },
+        {
+          "id": "tpo70-deck-53",
+          "root": "olivine",
+          "type": "Vocabulary",
+          "meaning": "橄欖石",
+          "examples": [
+            "Olivine is abundant in the Earth's mantle and oceanic crust."
+          ]
+        },
+        {
+          "id": "tpo70-deck-54",
+          "root": "pyroxene",
+          "type": "Vocabulary",
+          "meaning": "輝石",
+          "examples": [
+            "Pyroxene minerals are found in basaltic rocks."
+          ]
+        },
+        {
+          "id": "tpo70-deck-55",
+          "root": "crater",
+          "type": "Vocabulary",
+          "meaning": "隕石坑、火山口",
+          "examples": [
+            "Volcanic craters dot the landscape of the island chain."
+          ]
+        },
+        {
+          "id": "tpo70-deck-56",
+          "root": "subside",
+          "type": "Vocabulary",
+          "meaning": "下沉、減弱",
+          "examples": [
+            "The seafloor subsides as it moves away from the mid-ocean ridge."
+          ]
+        },
+        {
+          "id": "tpo70-deck-57",
+          "root": "paleontology",
+          "type": "Vocabulary",
+          "meaning": "古生物學",
+          "examples": [
+            "Paleontology provides evidence for the age of rock formations."
+          ]
+        },
+        {
+          "id": "tpo70-deck-58",
+          "root": "erode",
+          "type": "Vocabulary",
+          "meaning": "侵蝕、腐蝕",
+          "examples": [
+            "Wind and water erode mountains over geological time."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tpo71-deck",
+      "name": "TPO 71 Vocabulary",
+      "type": "Vocabulary",
+      "totalWords": 34,
+      "words": [
+        {
+          "id": "tpo71-deck-0",
+          "root": "reservoir",
+          "type": "Vocabulary",
+          "meaning": "水庫、蓄水池",
+          "examples": [
+            "The reservoir supplies water to millions of people in the city."
+          ]
+        },
+        {
+          "id": "tpo71-deck-1",
+          "root": "untapped",
+          "type": "Vocabulary",
+          "meaning": "未開發、未被利用",
+          "examples": [
+            "Africa has vast untapped natural resources that could boost its economy."
+          ]
+        },
+        {
+          "id": "tpo71-deck-2",
+          "root": "diffuse",
+          "type": "Vocabulary",
+          "meaning": "擴散、分散",
+          "examples": [
+            "The light diffused through the frosted glass, creating a soft glow."
+          ]
+        },
+        {
+          "id": "tpo71-deck-3",
+          "root": "exploit",
+          "type": "Vocabulary",
+          "meaning": "利用、開發",
+          "examples": [
+            "Companies exploit renewable energy sources to reduce carbon emissions."
+          ]
+        },
+        {
+          "id": "tpo71-deck-4",
+          "root": "tap to generate electricity",
+          "type": "Vocabulary",
+          "meaning": "被利用來發電",
+          "examples": [
+            "Geothermal energy can be tapped to generate electricity in volcanic regions."
+          ]
+        },
+        {
+          "id": "tpo71-deck-5",
+          "root": "be dammed to impound",
+          "type": "Vocabulary",
+          "meaning": "築壩蓄水",
+          "examples": [
+            "The river was dammed to impound water for irrigation purposes."
+          ]
+        },
+        {
+          "id": "tpo71-deck-6",
+          "root": "contend with",
+          "type": "Vocabulary",
+          "meaning": "應對、處理",
+          "examples": [
+            "Coastal cities must contend with rising sea levels due to climate change."
+          ]
+        },
+        {
+          "id": "tpo71-deck-7",
+          "root": "contend",
+          "type": "Vocabulary",
+          "meaning": "爭論、競爭",
+          "examples": [
+            "Scientists contend that ocean currents play a crucial role in climate regulation."
+          ]
+        },
+        {
+          "id": "tpo71-deck-8",
+          "root": "hydroelectric",
+          "type": "Vocabulary",
+          "meaning": "水力發電的",
+          "examples": [
+            "Hydroelectric power plants convert the energy of flowing water into electricity."
+          ]
+        },
+        {
+          "id": "tpo71-deck-9",
+          "root": "hydro",
+          "type": "Vocabulary",
+          "meaning": "水力",
+          "examples": [
+            "Hydropower is one of the oldest sources of renewable energy."
+          ]
+        },
+        {
+          "id": "tpo71-deck-10",
+          "root": "crest",
+          "type": "Vocabulary",
+          "meaning": "波峰、頂點",
+          "examples": [
+            "The wave reached its crest before crashing onto the shore."
+          ]
+        },
+        {
+          "id": "tpo71-deck-11",
+          "root": "buoy",
+          "type": "Vocabulary",
+          "meaning": "浮標、浮球",
+          "examples": [
+            "The buoy marked the safe swimming area in the ocean."
+          ]
+        },
+        {
+          "id": "tpo71-deck-12",
+          "root": "gulf",
+          "type": "Vocabulary",
+          "meaning": "海灣",
+          "examples": [
+            "The Gulf of Mexico is known for its warm waters and diverse marine life."
+          ]
+        },
+        {
+          "id": "tpo71-deck-13",
+          "root": "preclude",
+          "type": "Vocabulary",
+          "meaning": "排除、阻止",
+          "examples": [
+            "The high cost of installation precludes many homeowners from using solar panels."
+          ]
+        },
+        {
+          "id": "tpo71-deck-14",
+          "root": "evident",
+          "type": "Vocabulary",
+          "meaning": "明顯的",
+          "examples": [
+            "It was evident from the artifacts that the civilization was highly advanced."
+          ]
+        },
+        {
+          "id": "tpo71-deck-15",
+          "root": "archaeology",
+          "type": "Vocabulary",
+          "meaning": "考古學",
+          "examples": [
+            "She studied archaeology to understand ancient human civilizations."
+          ]
+        },
+        {
+          "id": "tpo71-deck-16",
+          "root": "excavate",
+          "type": "Vocabulary",
+          "meaning": "挖掘",
+          "examples": [
+            "Archaeologists excavated the site and discovered pottery from 3000 BCE."
+          ]
+        },
+        {
+          "id": "tpo71-deck-17",
+          "root": "reveal",
+          "type": "Vocabulary",
+          "meaning": "揭露、顯示",
+          "examples": [
+            "The excavation revealed a complex network of underground tunnels."
+          ]
+        },
+        {
+          "id": "tpo71-deck-18",
+          "root": "dedicated to",
+          "type": "Vocabulary",
+          "meaning": "致力於、專門用於",
+          "examples": [
+            "This museum is dedicated to preserving ancient Roman artifacts."
+          ]
+        },
+        {
+          "id": "tpo71-deck-19",
+          "root": "vessel",
+          "type": "Vocabulary",
+          "meaning": "容器、船隻",
+          "examples": [
+            "Clay vessels were used to store grain and water in ancient times."
+          ]
+        },
+        {
+          "id": "tpo71-deck-20",
+          "root": "lapidary",
+          "type": "Vocabulary",
+          "meaning": "石雕工、寶石工",
+          "examples": [
+            "The lapidary carefully carved intricate designs into the precious stones."
+          ]
+        },
+        {
+          "id": "tpo71-deck-21",
+          "root": "loom",
+          "type": "Vocabulary",
+          "meaning": "織布機",
+          "examples": [
+            "Ancient looms were used to weave textiles from wool and cotton."
+          ]
+        },
+        {
+          "id": "tpo71-deck-22",
+          "root": "weaving",
+          "type": "Vocabulary",
+          "meaning": "編織",
+          "examples": [
+            "Weaving was an important craft in many ancient societies."
+          ]
+        },
+        {
+          "id": "tpo71-deck-23",
+          "root": "seal from",
+          "type": "Vocabulary",
+          "meaning": "密封、封存",
+          "examples": [
+            "The tomb was sealed from the outside world for thousands of years."
+          ]
+        },
+        {
+          "id": "tpo71-deck-24",
+          "root": "archive",
+          "type": "Vocabulary",
+          "meaning": "檔案館、資料庫",
+          "examples": [
+            "The archive contains thousands of documents from the medieval period."
+          ]
+        },
+        {
+          "id": "tpo71-deck-25",
+          "root": "obsidian",
+          "type": "Vocabulary",
+          "meaning": "黑曜石",
+          "examples": [
+            "Obsidian was prized for making sharp cutting tools and weapons."
+          ]
+        },
+        {
+          "id": "tpo71-deck-26",
+          "root": "reddish",
+          "type": "Vocabulary",
+          "meaning": "紅色的、略帶紅色的",
+          "examples": [
+            "The pottery had a distinctive reddish color from the iron-rich clay."
+          ]
+        },
+        {
+          "id": "tpo71-deck-27",
+          "root": "smithy",
+          "type": "Vocabulary",
+          "meaning": "鍛造工坊",
+          "examples": [
+            "The smithy was where metalworkers forged tools and weapons."
+          ]
+        },
+        {
+          "id": "tpo71-deck-28",
+          "root": "fume",
+          "type": "Vocabulary",
+          "meaning": "煙霧、煙",
+          "examples": [
+            "Toxic fumes from the smelting process filled the workshop."
+          ]
+        },
+        {
+          "id": "tpo71-deck-29",
+          "root": "interpretation",
+          "type": "Vocabulary",
+          "meaning": "詮釋、解讀",
+          "examples": [
+            "Different archaeologists have different interpretations of the site's purpose."
+          ]
+        },
+        {
+          "id": "tpo71-deck-30",
+          "root": "ware",
+          "type": "Vocabulary",
+          "meaning": "器皿、製品",
+          "examples": [
+            "The museum displays various types of ceramic ware from different periods."
+          ]
+        },
+        {
+          "id": "tpo71-deck-31",
+          "root": "distinct",
+          "type": "Vocabulary",
+          "meaning": "獨特的、明顯不同的",
+          "examples": [
+            "Each culture has distinct pottery styles that help identify their origin."
+          ]
+        },
+        {
+          "id": "tpo71-deck-32",
+          "root": "utterly",
+          "type": "Vocabulary",
+          "meaning": "完全地、徹底地",
+          "examples": [
+            "The ancient city was utterly destroyed by the earthquake."
+          ]
+        },
+        {
+          "id": "tpo71-deck-33",
+          "root": "provincial",
+          "type": "Vocabulary",
+          "meaning": "省級的、地方的",
+          "examples": [
+            "Provincial workshops produced goods for local markets rather than trade."
+          ]
+        }
+      ]
     }
   ]
 }
