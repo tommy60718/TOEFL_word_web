@@ -2,6 +2,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 import Flashcard from '../components/Flashcard';
 import ProgressBar from '../components/ProgressBar';
+import DeckListModal from '../components/DeckListModal';
 import { useFlashcardSession } from '../hooks/useFlashcardSession';
 import wordsData from '../data/words.json';
 
@@ -9,6 +10,7 @@ export default function Practice() {
   const { deckId } = useParams();
   const navigate = useNavigate();
   const [deck, setDeck] = useState(null);
+  const [showListModal, setShowListModal] = useState(false);
 
   const {
     currentCard,
@@ -18,6 +20,7 @@ export default function Practice() {
     markAsKnown,
     markAsUnknown,
     stats,
+    deckProgress,
   } = useFlashcardSession(deck);
 
   useEffect(() => {
@@ -39,12 +42,18 @@ export default function Practice() {
     <div className="min-h-screen bg-teal-blue-gradient pt-8 pb-12">
       {/* Header with back button */}
       <div className="max-w-4xl mx-auto px-4 mb-8">
-        <div className="flex items-center justify-between mb-6">
+        <div className="flex items-center justify-between mb-6 flex-wrap gap-2">
           <button
             onClick={() => navigate('/')}
             className="text-white text-lg font-semibold hover:opacity-80 transition-opacity flex items-center gap-2 px-4 py-2 rounded-lg hover:bg-white/10"
           >
             ← Back to Decks
+          </button>
+          <button
+            onClick={() => setShowListModal(true)}
+            className="text-white text-sm font-medium bg-white/15 hover:bg-white/25 px-4 py-2 rounded-lg backdrop-blur-sm transition-colors border border-white/20"
+          >
+            📋 See the list
           </button>
           <div className="text-white text-sm font-medium flex items-center gap-2 bg-white/10 px-4 py-2 rounded-lg backdrop-blur-sm">
             <span>🔀</span> Unknown words reappear later
@@ -105,6 +114,14 @@ export default function Practice() {
           </p>
         </div>
       </div>
+
+      {/* Deck List Modal */}
+      <DeckListModal
+        isOpen={showListModal}
+        onClose={() => setShowListModal(false)}
+        deck={deck}
+        deckProgress={deckProgress}
+      />
     </div>
   );
 }

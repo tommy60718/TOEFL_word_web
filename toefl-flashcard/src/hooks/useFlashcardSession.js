@@ -146,5 +146,6 @@ export function useFlashcardSession(deck) {
     stats,
     currentCardIndex,
     queueLength: queue.length,
+    deckProgress,
   };
 }
