@@ -3869,6 +3869,2912 @@
           ]
         }
       ]
+    },
+    {
+      "id": "anki-lesson-1",
+      "name": "Anki Lesson 1",
+      "type": "Vocabulary",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "anki-lesson-1-1",
+          "root": "abandon",
+          "type": "Vocabulary",
+          "meaning": "to leave; to give upEx: To saves their lives, the sailors had to abandon the shinking ship.Part of speech: abandonment (n)",
+          "examples": [
+            "To saves their lives, the sailors had to abandon the shinking ship.Part of speech: abandonment (n)"
+          ]
+        },
+        {
+          "id": "anki-lesson-1-2",
+          "root": "adversely",
+          "type": "Vocabulary",
+          "meaning": "In a harmful way; negativelyEx: Excessive rainfall early in the spring can adversely affect the planting of crops.His studies are adversely affected b",
+          "examples": [
+            "Excessive rainfall early in the spring can adversely affect the planting of crops.His studies are adversely affected by his family situation.Her health was adversely affected by the climate. Usage tips Aversely is often followed by effect.Parts of Speech adversity (n), adverse (adj)"
+          ]
+        },
+        {
+          "id": "anki-lesson-1-3",
+          "root": "aggregate",
+          "type": "Vocabulary",
+          "meaning": "(adj) Gathered into or amounting to a wholeIt is impossible to judge last year's performance without knowing the aggregate sales numbers.Usage tips Ag",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-4",
+          "root": "cultivation",
+          "type": "Vocabulary",
+          "meaning": "(n) Preparing the land to grow crops; improvement for agricultural purposesWith the development of land cultivation, hunters and gatherers were able t",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-5",
+          "root": "fertilize",
+          "type": "Vocabulary",
+          "meaning": "(v) to supply with nourishment for plants by adding helpful subtances to the soilThis farm fertilizes tomatoes more than any other crop.Part of speech",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-6",
+          "root": "intensify",
+          "type": "Vocabulary",
+          "meaning": "Jacob's long absence intensified his certainty that he should marry RoseViolence intensified during the night. The opposition leader has intensified h",
+          "examples": [
+            "Jacob's long absence intensified his certainty that he should marry RoseViolence intensified during the night. The opposition leader has intensified his attacks on the government. (~ sth)Part of speech intensification (n), intense (adj)"
+          ]
+        },
+        {
+          "id": "anki-lesson-1-7",
+          "root": "irrigation",
+          "type": "Vocabulary",
+          "meaning": "n. The supplying of water to dry land.Ex: In dry areas of the country, you can see ditches all over the farmland for irrigation.Parts of speech irriga",
+          "examples": [
+            "In dry areas of the country, you can see ditches all over the farmland for irrigation.Parts of speech irrigate (v) ['irigeit]"
+          ]
+        },
+        {
+          "id": "anki-lesson-1-8",
+          "root": "obtain",
+          "type": "Vocabulary",
+          "meaning": "v. To gain possesion of; to getEx: After a series of difficult interviews, he finally was able to obtain the job.",
+          "examples": [
+            "After a series of difficult interviews, he finally was able to obtain the job."
+          ]
+        },
+        {
+          "id": "anki-lesson-1-9",
+          "root": "photosynthesis",
+          "type": "Vocabulary",
+          "meaning": "n. The process by which green plants make their own food by combining water, salts, and carbon dioxide in the presence of the light.Ex: Oxygen is a by",
+          "examples": [
+            "Oxygen is a by-product of the process of photosynthesis.Parts of seech photosynthesize (v)"
+          ]
+        },
+        {
+          "id": "anki-lesson-1-10",
+          "root": "precipitation",
+          "type": "Vocabulary",
+          "meaning": "n. Water that fall to the Earth's surfaceEx: In the Pacific Northwest, the high level of precipitation ensures rich, green plant life.",
+          "examples": [
+            "In the Pacific Northwest, the high level of precipitation ensures rich, green plant life."
+          ]
+        },
+        {
+          "id": "anki-lesson-1-11",
+          "root": "anticipate",
+          "type": "Vocabulary",
+          "meaning": "v. To expect; to sense something before it happensEx: By placing sensors in earthquake-prone areas, scientists can anticipate some tremors in time to ",
+          "examples": [
+            "By placing sensors in earthquake-prone areas, scientists can anticipate some tremors in time to warn the public.Parts of speech anticipation n, anticipatory adj"
+          ]
+        },
+        {
+          "id": "anki-lesson-1-12",
+          "root": "catastrophic",
+          "type": "Vocabulary",
+          "meaning": "adj. Extremely harmful; causing financial or physical ruinEx: The architect died in a catastrophic elevator accident.Parts of speech catastrophe n [kə",
+          "examples": [
+            "The architect died in a catastrophic elevator accident.Parts of speech catastrophe n [kə'tæstrəfi] catastrophically adv [,kætə'strɔfikəli]"
+          ]
+        },
+        {
+          "id": "anki-lesson-1-13",
+          "root": "collide",
+          "type": "Vocabulary",
+          "meaning": "v. To come together with great or violent forceEx: As usual, their holiday was ruined when their in-laws’ views on politics collided with their own.Th",
+          "examples": [
+            "As usual, their holiday was ruined when their in-laws’ views on politics collided with their own.The car and the van collided head-on in thick fog. The car collided head-on with the van. (~ with sth/sb)As he fell, his head collided with the table. They regularly collide over policy decisions. Parts of speech collision n"
+          ]
+        },
+        {
+          "id": "anki-lesson-1-14",
+          "root": "eruption",
+          "type": "Vocabulary",
+          "meaning": "n. A sudden, often violent, outburstThe eruption of Mount St. Helens in 1980 caused 57 deaths and immeasurable change to the face of the mountain.Usag",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-15",
+          "root": "famine",
+          "type": "Vocabulary",
+          "meaning": "n. Severe hunger; a drastic food shortageThe potato famine in Ireland in the mid-nineteenth century caused large numbers of Irish people to emigrate t",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-16",
+          "root": "flood",
+          "type": "Vocabulary",
+          "meaning": "n. An overflowing of water; an excessive amountThe constant rain and poor drainage system caused a flood in town.The political party sent out a flood ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-17",
+          "root": "impact",
+          "type": "Vocabulary",
+          "meaning": "n. A strong influenceThe speech about the importance of education made an impact on me.Usage tips Impact is usually followed by on or of.Parts of spee",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-18",
+          "root": "persevere",
+          "type": "Vocabulary",
+          "meaning": "v. To keep going, despite obstacles or discouragement; tomaintain a purposeThe hikers persevered despite the bad weather and the icy trail.Parts of sp",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-19",
+          "root": "plunge",
+          "type": "Vocabulary",
+          "meaning": "v. To go down suddenly; to decrease by a great amount in ashort timeHe jumped off the diving board and plunged into the pool.The value of the company’",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-20",
+          "root": "unleash",
+          "type": "Vocabulary",
+          "meaning": "v. To release a thing or an emotionWhen they saw the strange man on their property, they unleashed their dogs.He is from such an unemotional family, h",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-21",
+          "root": "adapt",
+          "type": "Vocabulary",
+          "meaning": "v. To adjust to the circumstances; to make suitableDinosaurs could not adapt to the warmer temperatures.The teacher adapted the exercises for his more",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-22",
+          "root": "diverse",
+          "type": "Vocabulary",
+          "meaning": "n. Various; showing a lot of differences within a groupIndia is one of the most linguistically diverse countries in the world.Usage tips An -ly adverb",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-23",
+          "root": "evolve",
+          "type": "Vocabulary",
+          "meaning": "v. To develop; to come forthModern-day sharks evolved from their ancestor Eryops, which livedmore than 200 million years ago.Usage tips Evolve is ofte",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-24",
+          "root": "feature",
+          "type": "Vocabulary",
+          "meaning": "n. Part, characteristicThe best feature of this car is its heated seats.Usage tips Feature is often followed by of.Parts of speech feature v",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-25",
+          "root": "generation",
+          "type": "Vocabulary",
+          "meaning": "n. A group of people born at about the same timeAs older managers retired, a new generation of leaders took controlof the company.Usage tips Before ge",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-26",
+          "root": "inherent",
+          "type": "Vocabulary",
+          "meaning": "adj. Naturally characteristic; always found within something,because it’s a basic part of that thingNo job can be interesting all the time. Boredom is",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-27",
+          "root": "migration",
+          "type": "Vocabulary",
+          "meaning": "n. Movement from one place to another by a group of people or animalsThe migration of farm workers from one state to the next dependsprimarily on the ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-28",
+          "root": "physical",
+          "type": "Vocabulary",
+          "meaning": "adj. Related to the body; related to materials that can be seen or feltBecause of the shape of its throat, an ape does not have the physical ability t",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-29",
+          "root": "process",
+          "type": "Vocabulary",
+          "meaning": "n. A series of steps leading to a resultTo get a good job, most people go through a long process of letterwriting and interviews.Usage tips Process is",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-30",
+          "root": "survive",
+          "type": "Vocabulary",
+          "meaning": "v. To continue living (despite some danger or illness)After getting lost in the mountains, Gordon survived by eating wildplants and catching fish.Usag",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-31",
+          "root": "constraint",
+          "type": "Vocabulary",
+          "meaning": "n. Something that restricts thought or actionThe constraints of military life kept Eileen from seeing Private Morris more than once a month. Parts of ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-32",
+          "root": "contamination",
+          "type": "Vocabulary",
+          "meaning": "n. Being made less clean by a germ or hazardous substanceThe contamination in the river came from the factory located justupstream.Parts of speech con",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-33",
+          "root": "deplete",
+          "type": "Vocabulary",
+          "meaning": "v. To greatly decrease the supply of a resource or materialThe prolonged war depleted the country’s national treasury.Parts of speech depletion n [di'",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-34",
+          "root": "dispose of",
+          "type": "Vocabulary",
+          "meaning": "v. To throw away; to get rid of; to killShe disposed of her unwanted possessions before moving.The tyrant cruelly disposed of all his enemies.Usage ti",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-35",
+          "root": "elementally",
+          "type": "Vocabulary",
+          "meaning": "adv. In terms of elements; basicallyElementally, coal and diamonds are the same.Parts of speech element n, elemental adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-36",
+          "root": "emission",
+          "type": "Vocabulary",
+          "meaning": "n. Sending out from a small space into the general environment; a substance discharged into the airThe Environmental Protection Agency regulates the e",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-37",
+          "root": "extinction",
+          "type": "Vocabulary",
+          "meaning": "n. Complete disappearance; the end of existenceHuman beings have caused the extinction of many other species.Usage tips Extinction implies an absolute",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-38",
+          "root": "reservoir",
+          "type": "Vocabulary",
+          "meaning": "n. A place where a liquid is collected and storedCult members threatened to poison the town’s water reservoir.Parts of speech reserve v [ri'zə:v]",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-39",
+          "root": "shrink",
+          "type": "Vocabulary",
+          "meaning": "v. To become reduced in size, amount, or valueIf you dry your clothing on the “high heat” setting, they may shrink.Parts of speech shrinkage n, shrink",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-40",
+          "root": "stable",
+          "type": "Vocabulary",
+          "meaning": "adj. Firm and dependable; showing little changeHe fell because the ladder wasn’t stable.Parts of speech stability n, stably adv",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-41",
+          "root": "adjust",
+          "type": "Vocabulary",
+          "meaning": "v. To change; to get accustomed to somethingTravelers are advised to adjust their watches before arriving in the new time zone.Parts of speech adjustm",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-42",
+          "root": "arbitrary",
+          "type": "Vocabulary",
+          "meaning": "adj. Chosen simply by whim or chance, not for any specificreasonThe decision to build a school in Blackberry Township was arbitrary, without any thoug",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-43",
+          "root": "denominator",
+          "type": "Vocabulary",
+          "meaning": "n. The number written below the line in a fractionIn the fraction 1⁄2, the number 2 is the denominator.Usage tips The phrase lowest common denominator",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-44",
+          "root": "exponentially",
+          "type": "Vocabulary",
+          "meaning": "adv. At a very fast rateIn Turkey, the value of the lira has decreased exponentially in thelast several decades.Usage tips Exponentially is taken from",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-45",
+          "root": "infinitesimal",
+          "type": "Vocabulary",
+          "meaning": "adj. Immeasurably smallThe number of contaminants in the water was infinitesimal, so thewater was safe to drink.infinitesimal geometry: hình học vi ph",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-46",
+          "root": "maximize",
+          "type": "Vocabulary",
+          "meaning": "v. To increase or make as great as possibleA coach helps each athlete maximize his or her potential.Parts of speech maximum n, maximum adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-47",
+          "root": "parallel",
+          "type": "Vocabulary",
+          "meaning": "adj. Being an equal distance apart everywhereThe street where I live runs parallel to the main road through town.Usage tips Parallel is often followed",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-48",
+          "root": "proportion",
+          "type": "Vocabulary",
+          "meaning": "n. A part in relation to the wholeThe average employee spends a large proportion of each workdayanswering e-mails.Usage tips Proportion is often follo",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-49",
+          "root": "rate",
+          "type": "Vocabulary",
+          "meaning": "n. The cost per unit of a good or service; the motion or change thathappens in a certain time.Postal rates in Japan are among the highest in the world",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-1-50",
+          "root": "sequence",
+          "type": "Vocabulary",
+          "meaning": "v. To organize or arrange in successionVolunteers have been asked to sequence the files and organize theboxes.Parts of speech sequence n,sequentially ",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "anki-lesson-2",
+      "name": "Anki Lesson 2",
+      "type": "Vocabulary",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "anki-lesson-2-1",
+          "root": "accuracy",
+          "type": "Vocabulary",
+          "meaning": "n. Precision; exactnessThe research department checks all our articles for accuracy of facts before we print them.Usage tips Accuracy is often followe",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-2",
+          "root": "adjacent",
+          "type": "Vocabulary",
+          "meaning": "adj. Next toEven though the villages are adjacent to each other, their residentsspeak different languages.Usage tips Adjacent is often followed by to.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-3",
+          "root": "compress",
+          "type": "Vocabulary",
+          "meaning": "v. To press togetherTo make the foundation stronger, they compressed the soil beforepouring the concrete.Parts of speech compression n, compressed adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-4",
+          "root": "feasibly",
+          "type": "Vocabulary",
+          "meaning": "adv. Practically; in a way that can workScientists can’t feasibly bring energy from deep ocean currents towhere it is needed on land.Parts of speech f",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-5",
+          "root": "gut",
+          "type": "Vocabulary",
+          "meaning": "v. To empty or hollow outIn order to remodel the house, we must first gut it and throw awayall the old fixtures.Usage tips Gut also means “the stomach",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-6",
+          "root": "integrally",
+          "type": "Vocabulary",
+          "meaning": "adv. In a whole or complete mannerWriting and spelling are taught integrally as part of the reading program.Parts of speech integrate v, integrity n, ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-7",
+          "root": "overlap",
+          "type": "Vocabulary",
+          "meaning": "v. To lie over part of something; to have elements in commonOne of the two assistants will likely get fired, since most of their duties in the office ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-8",
+          "root": "retain",
+          "type": "Vocabulary",
+          "meaning": "v. To keep or holdThe rain fell so heavily that the banks of the river could not retainall the water.Parts of speech retainer n, retention n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-9",
+          "root": "seep",
+          "type": "Vocabulary",
+          "meaning": "v. To pass slowly for a long time, as a liquid or gas mightAs the containers rusted, the toxic waste seeped into the ground.water seeping through the ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-10",
+          "root": "structure",
+          "type": "Vocabulary",
+          "meaning": "n. Something constructed, such as a buildingMost companies have a social structure that can’t be understood byoutsiders.Parts of speech structure v, s",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-11",
+          "root": "circulate",
+          "type": "Vocabulary",
+          "meaning": "v. To move throughout an area or group; to move along asomewhat circular routeThe gossip circulated quickly through the small town.Blood circulates mo",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-12",
+          "root": "corrode",
+          "type": "Vocabulary",
+          "meaning": "v. To be slowly weakened by chemical reactionsSitting in salt water, the old coins corroded and became very easy tobreak.Usage tips A familiar kind of",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-13",
+          "root": "derive",
+          "type": "Vocabulary",
+          "meaning": "v. To come from, usually through a long, slow processThe Cyrillic alphabet was derived from the Greek alphabet.Children derive great pleasure from spo",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-14",
+          "root": "detection",
+          "type": "Vocabulary",
+          "meaning": "n. Discovering something that cannot easily be foundWith new medical technology, the detection of cancer is much easiernowadays.Usage tips Detection i",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-15",
+          "root": "expeditiously",
+          "type": "Vocabulary",
+          "meaning": "adv. Quickly and efficientlyUsing carrier pigeons, the military commanders exchanged messages expeditiously.Parts of speech expedite v,expedition n, e",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-16",
+          "root": "implement",
+          "type": "Vocabulary",
+          "meaning": "v. To make use of; to carry outNot until after the new software was installed could we implementthe new filing system.Parts of speech implement n,impl",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-17",
+          "root": "innovative",
+          "type": "Vocabulary",
+          "meaning": "adj. Ahead of the times; novelThe innovative use of props and lighting drew many favorable comments.Parts of speech innovation n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-18",
+          "root": "installation",
+          "type": "Vocabulary",
+          "meaning": "n. Setting something into position for useInstallation of the new software takes only four minutes.Parts of speech install v [in'stɔ:l]",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-19",
+          "root": "maintenance",
+          "type": "Vocabulary",
+          "meaning": "n. The act of keeping something in good conditionThe only problem with living in such a big house is that it requiresa lot of maintenance.Parts of spe",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-20",
+          "root": "simulation",
+          "type": "Vocabulary",
+          "meaning": "n. An imitation or representationTo test car safety, automobile makers study crash simulations.Parts of speech simulate v, simulator n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-21",
+          "root": "combustion",
+          "type": "Vocabulary",
+          "meaning": "n. The process of burningWhen air quality is poor, combustion of materials in a fireplace isprohibited.Usage tips Combustion is often followed by of.P",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-22",
+          "root": "component",
+          "type": "Vocabulary",
+          "meaning": "n. One part of a system or wholeTheir home theater system has a number of separate components.Usage tips Component is often followed or preceded by of",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-23",
+          "root": "convey",
+          "type": "Vocabulary",
+          "meaning": "v. To transport from one place to another; to transmit or make knownA messenger conveyed the prince’s letter to the commander of thearmy.The worst par",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-24",
+          "root": "discretely",
+          "type": "Vocabulary",
+          "meaning": "adv. Separately; distinctly In order to understand how the engine worked, each componentneeded to be studied discretely.Parts of speech discrete adj [",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-25",
+          "root": "nucleus",
+          "type": "Vocabulary",
+          "meaning": "n. A central or essential part around which other parts aregathered; a coreThe nucleus of many European cities is the town square.These painting will ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-26",
+          "root": "permeate",
+          "type": "Vocabulary",
+          "meaning": "v. To spread or flow throughout; to pass through or penetrateThe smell of cooking permeated the entire apartment building.Parts of speech permeation n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-27",
+          "root": "rotate/rou'teit/",
+          "type": "Vocabulary",
+          "meaning": "v. To turn around; to take turns in sequenceThe planet rotates on its axis once every 14 Earth days.The children rotate classroom responsibilities on ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-28",
+          "root": "solar /'soulə/",
+          "type": "Vocabulary",
+          "meaning": "adj. Of, or relating to, the sunThe ancient society kept time with a solar calendar.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-29",
+          "root": "source /sɔ:s/",
+          "type": "Vocabulary",
+          "meaning": "n. The point of origin or creationThe reporter was unable to identify the source of the informationfor his story.Parts of speech source v",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-30",
+          "root": "trigger/'trigə/",
+          "type": "Vocabulary",
+          "meaning": "v. To set off or initiateI was certain any mention of politics would trigger a big argument.The smoke triggered off the alarmParts of speech trigger n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-31",
+          "root": "acquisition",
+          "type": "Vocabulary",
+          "meaning": "n. The act of taking possession of somethingOur recent acquisition of over 2,000 books makes ours the biggestlibrary in the region.Usage tips Acquisit",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-32",
+          "root": "anomaly",
+          "type": "Vocabulary",
+          "meaning": "n. Something unusualWhite tigers get their beautiful coloring from a genetic anomaly.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-33",
+          "root": "consciously",
+          "type": "Vocabulary",
+          "meaning": "adv. With awareness of one’s actionsHe may have hurt her feelings, but he never would have done soconsciously.Parts of speech consciousness n, conscio",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-34",
+          "root": "degrade",
+          "type": "Vocabulary",
+          "meaning": "v. To reduce in value or strengthThe roads in cold or wet areas of the United States degrade fasterthan those in warm, sunny regions.Parts of speech d",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-35",
+          "root": "gap",
+          "type": "Vocabulary",
+          "meaning": "n. Opening; a big difference in amount or qualityThe small gap between the walls in the old house caused cold draftsto come in.a gap in one's knowledg",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-36",
+          "root": "indisputable",
+          "type": "Vocabulary",
+          "meaning": "adj. Beyond doubt; unquestionableThe members of the jury found her guilty because they found thefacts of the case indisputable.The report should disti",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-37",
+          "root": "intervene",
+          "type": "Vocabulary",
+          "meaning": "v. To come betweenA good mediator intervenes only as much as necessary to settle adispute between other parties.Parts of speech intervention n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-38",
+          "root": "intuitively",
+          "type": "Vocabulary",
+          "meaning": "adv. By means of a natural sense about things that are hardto observeMany mothers know intuitively when something is wrong with theirchildren.Parts of",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-39",
+          "root": "recede",
+          "type": "Vocabulary",
+          "meaning": "v. To move back or away fromAfter the age of 30, his hairline began to recede further back fromhis forehead.  lùi lại một vài bướcthe tide recedes: th",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-40",
+          "root": "retrieve",
+          "type": "Vocabulary",
+          "meaning": "v. To bring or get backMost dogs can be trained to retrieve objects that their owners havethrown.Parts of speech retriever n, retrievable adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-41",
+          "root": "agnostic",
+          "type": "Vocabulary",
+          "meaning": "adj. Believing that humans cannot know whether there is a godHis devoutly Christian parents had problems with his agnostic beliefs.Parts of speech agn",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-42",
+          "root": "animism",
+          "type": "Vocabulary",
+          "meaning": "n. The belief that natural objects, such as trees, have soulsDesert cultures that practice animism often believe that winds contain spirits.Parts of s",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-43",
+          "root": "atheist",
+          "type": "Vocabulary",
+          "meaning": "n. One who does not believe in the existence of a supreme beingHe argued that his scientific training made it impossible for him tobe anything but an ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-44",
+          "root": "be inclined to",
+          "type": "Vocabulary",
+          "meaning": "v. To favor an opinion or a course of actionHe couldn’t say which candidate he favored, but he had alwaysbeen inclined to vote Republican.Parts of spe",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-45",
+          "root": "contemplate",
+          "type": "Vocabulary",
+          "meaning": "v. To consider thoughtfullyIf you contemplate each step for so long, we will never complete thisproject on time.Parts of speech contemplation n, conte",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-46",
+          "root": "deify",
+          "type": "Vocabulary",
+          "meaning": "v. To worship as a godWhen people deify the leader of their country, the leader is able toabuse power more easily.Parts of speech deity n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-47",
+          "root": "ecclesiastical",
+          "type": "Vocabulary",
+          "meaning": "adj. Relating to a churchHe was looking specifically for a university where he could studyecclesiastical history.Parts of speech ecclesiastic n [i,kli",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-48",
+          "root": "exalt",
+          "type": "Vocabulary",
+          "meaning": "v. To praise or honorHe would often exalt the virtues of his new wife.His son was exalted to a high position in the government through family connecti",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-49",
+          "root": "pious",
+          "type": "Vocabulary",
+          "meaning": "adj. Having or exhibiting religious reverenceSometimes she was so pious that the rest of us felt like heathens.Parts of speech piousness n, piety n, p",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-2-50",
+          "root": "sacrifice",
+          "type": "Vocabulary",
+          "meaning": "v. Anything offered to a deity as a religious thanksgiving;giving up something in order to have something more valuable later onEvery harvest time, th",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "anki-lesson-3",
+      "name": "Anki Lesson 3",
+      "type": "Vocabulary",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "anki-lesson-3-1",
+          "root": "aggravate",
+          "type": "Vocabulary",
+          "meaning": "v. To make worse; to anger or intensifyRunning will aggravate your sore knees.Parts of speech aggravation n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-2",
+          "root": "decrepit",
+          "type": "Vocabulary",
+          "meaning": "adj. Weakened or worn out because of age, illness, or excessive useThe once-beautiful building was now dirty, decrepit, and roofless.a decrepit buildi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-3",
+          "root": "disease",
+          "type": "Vocabulary",
+          "meaning": "n. An unhealthful condition caused by an infection or a longterm physical problemThanks to developments in medicine, many once-fatal diseases cannow b",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-4",
+          "root": "fatally",
+          "type": "Vocabulary",
+          "meaning": "adv. Causing death or disasterThe soldier was fatally wounded in the battle.Parts of speech fatality n, fatal adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-5",
+          "root": "forensics",
+          "type": "Vocabulary",
+          "meaning": "n. The use of science and technology to investigate facts incriminal casesAdvances in the study of forensics have made it much easier toidentify crimi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-6",
+          "root": "persist",
+          "type": "Vocabulary",
+          "meaning": "v. To continue to exist; to hold to a purpose, despite any obstacleIf your symptoms persist, you should go see a doctor.Lola persisted in her efforts ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-7",
+          "root": "prognosis",
+          "type": "Vocabulary",
+          "meaning": "n. An educated guess of how something will develop, especially a diseaseThe room fell silent when the doctor gave Senator Grebe a grimprognosis of mon",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-8",
+          "root": "terminal",
+          "type": "Vocabulary",
+          "meaning": "adj. Located at an end; approaching deathThe cancer ward at the hospital held both terminal and recovering patients.Parts of speech terminate v,termin",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-9",
+          "root": "vein",
+          "type": "Vocabulary",
+          "meaning": "n. Any of the tubes that form a branching system, especially thosethat carry blood to the heartShe became fascinated with human anatomy, especially wh",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-10",
+          "root": "wound",
+          "type": "Vocabulary",
+          "meaning": "v. To inflict an injury onSometimes he didn’t realize his sharp humor could wound as wellas entertain.Parts of speech wound n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-11",
+          "root": "anesthesia",
+          "type": "Vocabulary",
+          "meaning": "n. Techniques for reducing sensation and feeling, especially to control painThe Civil War was the first American war when anesthesia waswidely used in",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-12",
+          "root": "augment",
+          "type": "Vocabulary",
+          "meaning": "v. To make bigger or better by adding toIn some types of popular cosmetic surgery people augment parts of their bodies.The college augmented its cours",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-13",
+          "root": "certifiably",
+          "type": "Vocabulary",
+          "meaning": "adv. In a manner that is officially recognizedHe couldn’t be institutionalized until he was declared certifiablyinsane.Parts of speech certify v, ['sə",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-14",
+          "root": "complication",
+          "type": "Vocabulary",
+          "meaning": "n. A factor that makes something more difficult or complexThe surgeons could not easily stop the bleeding because of complications related to the pati",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-15",
+          "root": "cure",
+          "type": "Vocabulary",
+          "meaning": "v. To restore to healthThey say laughter can help cure many illnesses.Parts of speech cure n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-16",
+          "root": "implant",
+          "type": "Vocabulary",
+          "meaning": "v. To set in firmly; to insert in the body surgicallyThe actress had cheek implants to make her face look fuller.Prejudices can easily become implante",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-17",
+          "root": "inject",
+          "type": "Vocabulary",
+          "meaning": "v. To insert a liquid by means of a syringeThe doctor used a needle to inject the medicine slowly into her arm.Parts of speech injection n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-18",
+          "root": "obese",
+          "type": "Vocabulary",
+          "meaning": "adj. Excessively overweightMore Americans are obese now because U.S. culture encourages [in'kʌridʒ]overeating and discourages exercise.Parts of speech",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-19",
+          "root": "procedure",
+          "type": "Vocabulary",
+          "meaning": "n. A specific way of performing or doing somethingThe flight attendant explained the emergency evacuation procedure.What's the procedure for opening a",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-20",
+          "root": "scar",
+          "type": "Vocabulary",
+          "meaning": "n. A mark on the skin left after a wound has healed; a lasting signof damage, either mental or physicalThe surgery was successful, but it left a large",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-21",
+          "root": "astrological",
+          "type": "Vocabulary",
+          "meaning": "adj. Related to the study of the position of stars, the sun,and the planets in the belief that they influence earthly eventsEvery day, Mona read her a",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-22",
+          "root": "divination",
+          "type": "Vocabulary",
+          "meaning": "n. Foretelling the future by finding patterns in physical objectsIn Turkey, women offer divinations by reading the dregs from a coffee cup.Parts of sp",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-23",
+          "root": "haunt",
+          "type": "Vocabulary",
+          "meaning": "v. To continually appear (in the form of a ghost) in the sameplace or to the same personSome say the ghost of Princess Hilda haunts this castle, appea",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-24",
+          "root": "horror",
+          "type": "Vocabulary",
+          "meaning": "n. Strong fear mixed with disgustOn Halloween night, all the horror movies were rented out.People watched in horror as the plane crashed to the ground",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-25",
+          "root": "intermediary",
+          "type": "Vocabulary",
+          "meaning": "n. Acting as an agent between people or thingsThe plaintiff’s lawyer suggested that they hire an intermediary tohelp them discuss their case.She agree",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-26",
+          "root": "invoke",
+          "type": "Vocabulary",
+          "meaning": "v. To call on for supportIn many religions, believers invoke their god by holding out their hands.His name was invoked as a symbol of the revolution.P",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-27",
+          "root": "meditate",
+          "type": "Vocabulary",
+          "meaning": "v. To reflect; to think quietly and deeply for a long timeEvery morning, the monks meditated for three hours in complete silence.They were meditating ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-28",
+          "root": "phantom",
+          "type": "Vocabulary",
+          "meaning": "n. A dimly visible form, usually thought to be the spirit of adead person, a sunken ship, etc.Many visitors reported seeing a phantom who appeared aro",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-29",
+          "root": "psychic",
+          "type": "Vocabulary",
+          "meaning": "adj. Relating to the supposed ability of the human mind tosense things that cannot be observedThe governor’s assistant claimed to have unique psychic ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-30",
+          "root": "self-perpetuating",
+          "type": "Vocabulary",
+          "meaning": "adj. Having the power to renew oneself for an indefinite period of timecontinuing without any outside influence It is difficult to escape from a lie, ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-31",
+          "root": "assimilate",
+          "type": "Vocabulary",
+          "meaning": "v. To consume and incorporate; to become similarNot all of the overseas students could assimilate into the rigidlycontrolled school.Many new immigrant",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-32",
+          "root": "cremation",
+          "type": "Vocabulary",
+          "meaning": "n. The act of burning the deadCremation is particularly common in Japan, where land for burial isvery limited.More people are choosing cremation rathe",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-33",
+          "root": "domesticate",
+          "type": "Vocabulary",
+          "meaning": "v. To make something suitable for being in a homeThe Barnes family hoped to domesticate the tiger, but their neighbors were skeptical.He is thoroughly",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-34",
+          "root": "folklore",
+          "type": "Vocabulary",
+          "meaning": "n. Traditional myths of a people transmitted orallyThrough folklore, archaeologists have learned about the migrationof Native Americans in North Ameri",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-35",
+          "root": "fossilize",
+          "type": "Vocabulary",
+          "meaning": "v. To become preserved in clay or stone or ash after death, sothat a natural record is left of the original organism; to become rigidand stuck in old ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-36",
+          "root": "relic",
+          "type": "Vocabulary",
+          "meaning": "n. Something left from a long-ago culture, time period, or personRelics of the war can still be found in the sand dunes along thisshore.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-37",
+          "root": "rite",
+          "type": "Vocabulary",
+          "meaning": "n. A ceremony meant to achieve a certain purposeMany cultures have fertility rites that supposedly make it morelikely for women to bear children.funer",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-38",
+          "root": "ritually",
+          "type": "Vocabulary",
+          "meaning": "adv. As part of a traditional ceremony or habitThe children ritually kissed their parents on the cheek before bed.Parts of speech ritual n, ritual adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-39",
+          "root": "saga",
+          "type": "Vocabulary",
+          "meaning": "n. A long story about important events long agoMany American families tell sagas about their ancestors’ arrival inthe United States.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-40",
+          "root": "vestige",
+          "type": "Vocabulary",
+          "meaning": "n. A visible trace that something once existedThe wilted flowers were the only vestige of their romantic weekend.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-41",
+          "root": "amend",
+          "type": "Vocabulary",
+          "meaning": "v. To change for the betterThe residents voted to amend their neighborhood policy on fences.Parts of speech amendment n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-42",
+          "root": "biased",
+          "type": "Vocabulary",
+          "meaning": "adj. Leaning unfairly in one directionHer newspaper article was criticized for being heavily biasedtoward the mayor’s proposal.Parts of speech bias n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-43",
+          "root": "burden",
+          "type": "Vocabulary",
+          "meaning": "n. Something that is carried; a source of stress or worryThe donkey walked slowly under the burden of its heavy load.The failing company faced the bur",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-44",
+          "root": "counter",
+          "type": "Vocabulary",
+          "meaning": "v. To act in opposition to; to offer in responseThe hockey player countered the punch with a smashing blow fromhis hockey stick.Jane countered every a",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-45",
+          "root": "de facto",
+          "type": "Vocabulary",
+          "meaning": "adj. Truly doing a job, even if not officiallyPopular support established the Citizens Party as the de facto government.De facto recognition of a stat",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-46",
+          "root": "discriminate",
+          "type": "Vocabulary",
+          "meaning": "v. To choose carefully among optionsThe governor wisely discriminated between urgent issues and thosethat could wait.Parts of speech discriminatory ad",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-47",
+          "root": "notion",
+          "type": "Vocabulary",
+          "meaning": "n. A belief; a fanciful impulseThe notion that older office equipment is unreliable is inaccurate.One morning, she suddenly took the notion to paint h",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-48",
+          "root": "oppress",
+          "type": "Vocabulary",
+          "meaning": "v. To keep down by force; to weigh heavily onFactory management oppressed workers through intimidation.oppressed with poverty: sự nghèo khổ đè nặngPar",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-49",
+          "root": "paradigm",
+          "type": "Vocabulary",
+          "meaning": "n. A pattern or model; a set of assumptionsThe usual paradigm for economic growth in developed countriesdoes not apply to some poor nations.Usage tips",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-3-50",
+          "root": "prejudiced",
+          "type": "Vocabulary",
+          "meaning": "adj. Causing to judge prematurely and unfairlyMany consumers are prejudiced against commercial goods made inthird-world countries.Parts of speech prej",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "anki-lesson-4",
+      "name": "Anki Lesson 4",
+      "type": "Vocabulary",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "anki-lesson-4-1",
+          "root": "curriculum",
+          "type": "Vocabulary",
+          "meaning": "n. The courses of study offered by an educational institutionThe teachers met to design a new curriculum for the Intensive English Program.Is French o",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-2",
+          "root": "distinctly",
+          "type": "Vocabulary",
+          "meaning": "adv. ClearlyI distinctly remember saying that we would meet at noon.Parts of speech distinction n, distinct adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-3",
+          "root": "erudite",
+          "type": "Vocabulary",
+          "meaning": "adj. Highly educatedEven though Stella was only a freshman, she was considered eruditeby both her classmates and her professors.an erudite lecture: mộ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-4",
+          "root": "fortify",
+          "type": "Vocabulary",
+          "meaning": "v. To strengthenThe high-priced drink had extra vitamins and minerals to fortifythe body.to fortify one's couragefortified wine rượu pha thêm rượu mạn",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-5",
+          "root": "implicitly",
+          "type": "Vocabulary",
+          "meaning": "adv. Without being stated; unquestioninglyBy joining the competition, she agreed implicitly to the rules.I trust my mother implicitly: tôi hoàn toàn t",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-6",
+          "root": "parochial",
+          "type": "Vocabulary",
+          "meaning": "adj. Restricted in outlook; relating to the local parishMarla moved from her rural community to get away from itsparochial thinking.Sending your child",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-7",
+          "root": "rigor",
+          "type": "Vocabulary",
+          "meaning": "n. Strictness; difficult situations that come from following rulesstrictlyThe wrestler followed his diet with rigor.The rigors of military life toughe",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-8",
+          "root": "roster",
+          "type": "Vocabulary",
+          "meaning": "n. A list, especially of namesTwo of the names on the roster were misspelled.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-9",
+          "root": "secular",
+          "type": "Vocabulary",
+          "meaning": "adj. Worldly rather than spiritual; not related to religionFew private schools in the United States are secular.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-10",
+          "root": "suspend",
+          "type": "Vocabulary",
+          "meaning": "v. To cause to stop for a period; to hang as to allow free movementThe trial was suspended when the judge learned that one of the jurymembers knew the",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-11",
+          "root": "allegiance",
+          "type": "Vocabulary",
+          "meaning": "n. LoyaltyMy allegiance to my country is based on respect for its principles.Usage tips Allegiance is commonly followed by a tophrase.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-12",
+          "root": "artillery",
+          "type": "Vocabulary",
+          "meaning": "n. Large guns that shoot powerful shells; army units that handle such gunsAn artillery barrage broke down the city’s thick walls within seconds.The 47",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-13",
+          "root": "battle",
+          "type": "Vocabulary",
+          "meaning": "v. To fight againstThe Viet Minh battled French forces at Dien Bien Phu for nearlytwo months in 1954.I'm battling with my employers for a pay-risePart",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-14",
+          "root": "cease",
+          "type": "Vocabulary",
+          "meaning": "v. StopThe lightning continued even after the thunder had ceased.Usage tips Cease is found in official statements, not usually ineveryday speech.Parts",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-15",
+          "root": "hierarchy",
+          "type": "Vocabulary",
+          "meaning": "n. A system of levels that places people high or low according to their importanceStarting as a lowly private, Burt Jones gradually rose through thehi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-16",
+          "root": "in the trenches",
+          "type": "Vocabulary",
+          "meaning": "adv’l. In the middle of the hardest fighting or workWith their unrealistic view of this war, our generals don’t knowwhat things are like out in the tr",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-17",
+          "root": "mobilize",
+          "type": "Vocabulary",
+          "meaning": "v. To put members of a group into motionAfter a terrible storm, the governor mobilized the National Guardto rescue victims.Parts of speech mobilizatio",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-18",
+          "root": "rank",
+          "type": "Vocabulary",
+          "meaning": "v. To put into a many-leveled order, depending on importance orachievementThe Marines ranked Jim Hurst highest among all their officer candidates.Part",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-19",
+          "root": "ratio",
+          "type": "Vocabulary",
+          "meaning": "n. The relationship of one number or amount to anotherMilitary analysts say that the ratio of attackers to defenders in abattle should be about three ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-20",
+          "root": "strategic",
+          "type": "Vocabulary",
+          "meaning": "adj. Related to long-term plans for achieving a goalThe United States has formed strategic friendships with Tajikistanand Mongolia to have Central Asi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-21",
+          "root": "annex",
+          "type": "Vocabulary",
+          "meaning": "v. To make something (usually land) part of another unitBardstown grew by annexing several farms at the north edge of town.Parts of speech annexation ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-22",
+          "root": "apex",
+          "type": "Vocabulary",
+          "meaning": "n. The highest pointGregory knew that his running skills had to be at their apex duringthe tournament.Usage tips Apex is often used to describe the hi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-23",
+          "root": "collapse (v)",
+          "type": "Vocabulary",
+          "meaning": "v. To fall down, usually because of weaknessThe roof collapsed under the weight of snow. He collapsed in the street and died two hours later. When I g",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-24",
+          "root": "collapse (n)",
+          "type": "Vocabulary",
+          "meaning": "1. [countable, usually singular, uncountable] a sudden failure of sth, such as an institution, a business or a course of action The collapse of law an",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-25",
+          "root": "conquest",
+          "type": "Vocabulary",
+          "meaning": "n. A takeover by force or continued effortThe first recorded conquest of Mt. Everest was by Tensing Norgayand Sir Edmund Hilary.Usage tips Conquest is",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-26",
+          "root": "devise",
+          "type": "Vocabulary",
+          "meaning": "v.To find an original way to make an object or a planThe soldiers devised a way to cross the river into enemy territorywithout being seen.Parts of spe",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-27",
+          "root": "invasive",
+          "type": "Vocabulary",
+          "meaning": "adj. Aggressively entering into someone else’s territorySurgery with a laser is less invasive than surgery with a knife orscalpel.Parts of speech inva",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-28",
+          "root": "prevailing",
+          "type": "Vocabulary",
+          "meaning": "adj. Strongest or most commonThe prevailing attitude among our neighbors is to be friendly butnot too friendly.Parts of speech prevail v,prevalence n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-29",
+          "root": "resist",
+          "type": "Vocabulary",
+          "meaning": "v. To refuse to give in to a strong force or desireAlthough many native nations resisted, the U.S. government eventually took over almost all Indian l",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-30",
+          "root": "severely",
+          "type": "Vocabulary",
+          "meaning": "adv. Harshly; extremelyCommanders severely punished any soldier who criticized the battleplan.Parts of speech severity n,severe adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-31",
+          "root": "violation",
+          "type": "Vocabulary",
+          "meaning": "n. An action that breaks a law or agreement; mistreatmentof something that deserves respectThe army’s testing of new weapons was a violation of the ce",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-32",
+          "root": "chronologically",
+          "type": "Vocabulary",
+          "meaning": "adv. In order according to timeAllen’s book is arranged chronologically, from the First Crusade in1095 to the fall of Granada in 1492.Usage tips Chron",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-33",
+          "root": "coincide",
+          "type": "Vocabulary",
+          "meaning": "v. Happen or exist at the same timeThe Viking attacks on western Europe coincided with an abnormally warm period in the Earth’s climate.Usage tips Coi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-34",
+          "root": "consequence",
+          "type": "Vocabulary",
+          "meaning": "n. A result, often one much later in time than the causeOne consequence of global warming may be the flooding of lowlying islands.Usage tips Consequen",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-35",
+          "root": "core",
+          "type": "Vocabulary",
+          "meaning": "n. an area or object at the centerThe core of India’s film industry is in Bombay, where all but a fewfilm studios are located.Usage tips Core is often",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-36",
+          "root": "deny",
+          "type": "Vocabulary",
+          "meaning": "v. Say that something is not trueMovie star Allen Butcher denied that he and the Princess of Denmark were getting married.Usage tips Deny is often fol",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-37",
+          "root": "diminish",
+          "type": "Vocabulary",
+          "meaning": "v. Make something smaller or weaker; become smaller or weakerThe Protestant Reformation diminished the power of the RomanCatholic Pope.Mr. Partridge’s",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-38",
+          "root": "longitude",
+          "type": "Vocabulary",
+          "meaning": "n. A system of imaginary lines running from north to southalong the Earth’s surface, where each line is numbered from 0º to180°west or eastThe prime m",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-39",
+          "root": "milieu",
+          "type": "Vocabulary",
+          "meaning": "n. General environment or surroundingsMany Vietnam veterans did not feel comfortable in the antiwar social milieu of the 1970s.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-40",
+          "root": "Orwellian",
+          "type": "Vocabulary",
+          "meaning": "adj. Frightening and overcontrolled by a government thatinterferes in nearly every aspect of personal lifeBiometric devices like eye-scanners allow an",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-41",
+          "root": "reconciliation",
+          "type": "Vocabulary",
+          "meaning": "n. Coming back together peacefully after having beenenemiesSouth Africa avoided a bloodbath after apartheid by setting up aTruth and Reconciliation Co",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-42",
+          "root": "allocate",
+          "type": "Vocabulary",
+          "meaning": "v. To give out different amounts for different purposesThe budget allocates $58 billion to the military and only about $2 billion to education.Usage t",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-43",
+          "root": "commodity",
+          "type": "Vocabulary",
+          "meaning": "n. A thing that can be bought and sold, such as grain, oil, or woodTulip bulbs were one of the most valuable commodities in seventeenth-century Hollan",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-44",
+          "root": "decline",
+          "type": "Vocabulary",
+          "meaning": "v. To decrease in power or amountAmerica’s railroads declined because the automobile dominatedAmerican life.Parts of speech decline n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-45",
+          "root": "equity",
+          "type": "Vocabulary",
+          "meaning": "n. The value of one’s share in an investmentBarnard’s equity in the business was one-third, or about $350,000.Usage tips In this meaning, equity is al",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-46",
+          "root": "inflation",
+          "type": "Vocabulary",
+          "meaning": "n. A situation in which prices for many items rise quite fastDuring the rapid inflation of the 1970s, prices for food and fuelsometimes rose 20 percen",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-47",
+          "root": "net",
+          "type": "Vocabulary",
+          "meaning": "adj. After all costs have been subtracted from an amountMy gross salary is around $35,000, but my net pay is closer to$29,000.Parts of speech net v,ne",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-48",
+          "root": "per capita",
+          "type": "Vocabulary",
+          "meaning": "adv. For each personResearch shows we’re likely to sell 15 light bulbs per capita peryear in medium-sized cities.Parts of speech per capita adj",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-49",
+          "root": "regulate",
+          "type": "Vocabulary",
+          "meaning": "v. Control according to a set of rulesTrading on the New York Stock Exchange is regulated by officials ofthe exchange and by federal law.Parts of spee",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-4-50",
+          "root": "subsidy",
+          "type": "Vocabulary",
+          "meaning": "n. Money given by a government or other organization to support an activityFederal subsidies to grain farmers have helped them stay in businessdespite",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "anki-lesson-5",
+      "name": "Anki Lesson 5",
+      "type": "Vocabulary",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "anki-lesson-5-1",
+          "root": "tangible",
+          "type": "Vocabulary",
+          "meaning": "adj. Obviously real because it can be seen, touched, or otherwise observedOne tangible benefit of putting electrical cables underground is aclearer vi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-2",
+          "root": "accumulate",
+          "type": "Vocabulary",
+          "meaning": "v. To build up a large amount of somethingOver several generations, the Hardington family accumulated vastwealth by buying and selling land.Parts of s",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-3",
+          "root": "affluence",
+          "type": "Vocabulary",
+          "meaning": "n. Wealth and the style of life that goes with itMohadzir grew up amid affluence, which poorly prepared him forhis grad student days in crowded apartm",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-4",
+          "root": "elite",
+          "type": "Vocabulary",
+          "meaning": "adj. Belonging to a special, honored groupMessner is an elite climber who recently ascended an 8,000-metermountain without extra oxygen.Parts of speec",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-5",
+          "root": "impoverish",
+          "type": "Vocabulary",
+          "meaning": "v. To make a person or group poorThe collapse of the steel industry impoverished several counties ineastern Ohio.Parts of speech impoverishment n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-6",
+          "root": "luxury",
+          "type": "Vocabulary",
+          "meaning": "n. Extreme comfort, beyond what anyone needsAutomakers try to give their cars an image of luxury by including extras like heated seats and satellite t",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-7",
+          "root": "nobility",
+          "type": "Vocabulary",
+          "meaning": "n. A group of socially prominent people with special titles given by a king or queen, such as “duke” or “countess”In the Middle Ages, the nobility sup",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-8",
+          "root": "prestige",
+          "type": "Vocabulary",
+          "meaning": "n. Honor and respect for being better than the averageThe Grassleys enjoyed the prestige of living in the historic town, butthey did not feel at home ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-9",
+          "root": "privileged",
+          "type": "Vocabulary",
+          "meaning": "adj. Able to enjoy special advantages because of one’s position (usually because of being born into a wealthy or powerfulfamily)Despite his privileged",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-10",
+          "root": "prosper",
+          "type": "Vocabulary",
+          "meaning": "v. To do very well in one’s business or personal lifeVargas prospered after finally patenting his new inventions.Usage tips A person can prosper; so c",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-11",
+          "root": "working class",
+          "type": "Vocabulary",
+          "meaning": "n. People with low-paying (often unskilled) jobs who are not poor but who are not securely in the middle classThe Farrelly family, like other members ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-12",
+          "root": "acquire",
+          "type": "Vocabulary",
+          "meaning": "v. To get something, usually something with special value or meaningBart hoped to acquire the 1898 D Indian Head penny, which wouldmake his collection",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-13",
+          "root": "assess",
+          "type": "Vocabulary",
+          "meaning": "v. To estimate the value of something The Barnes building was assessed at $1.3 million, but it can probably sell for much more than that.Parts of spee",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-14",
+          "root": "asset",
+          "type": "Vocabulary",
+          "meaning": "n. A possession that has positive valueIn his job, patience is an invaluable asset. Being able to speak a foreign language is a major asset. I'm not s",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-15",
+          "root": "hazardous",
+          "type": "Vocabulary",
+          "meaning": "adj. DangerousParents have to be careful not to buy children’s clothes and toysmade of hazardous materials.Parts of speech hazard n ,hazardously adv",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-16",
+          "root": "jointly",
+          "type": "Vocabulary",
+          "meaning": "adv. Together with one or more other partiesIn most states, a husband and wife are assumed to own all theirpossessions jointly.Parts of speech join v,",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-17",
+          "root": "lease",
+          "type": "Vocabulary",
+          "meaning": "v. To rent something for a long time (several months or years)Some drivers prefer to lease a car rather than buy one.Parts of speech lease n,lessor n,",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-18",
+          "root": "liability",
+          "type": "Vocabulary",
+          "meaning": "n. Legal responsibility for harming a person or property; a disadvantageBefore you go river rafting, you sign a document releasing the tripleaders fro",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-19",
+          "root": "proprietor",
+          "type": "Vocabulary",
+          "meaning": "n. Owner, usually of a business or a buildingThe proprietor of Hekman’s Windows is Nels Hekman, grandson ofthe people who established the factory.Usag",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-20",
+          "root": "safeguard",
+          "type": "Vocabulary",
+          "meaning": "v. To protectA burglar-alarm system safeguards our house when we go away on vacation.Usage tips Safeguard implies continuous protection over a long ti",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-21",
+          "root": "sole",
+          "type": "Vocabulary",
+          "meaning": "adj. OnlyMany people have wanted to invest in Harry’s publishing business,but he remains the sole owner.Usage tips Sole almost always appears before t",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-22",
+          "root": "compensate",
+          "type": "Vocabulary",
+          "meaning": "v. To give an employee money or other things in exchangefor the work he or she doesMy pay doesn’t properly compensate me for my efforts, but myother b",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-23",
+          "root": "dynamic",
+          "type": "Vocabulary",
+          "meaning": "adj. Full of energyThis job requires a dynamic person, someone who will look for opportunities instead of just waiting around for them.Parts of speech",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-24",
+          "root": "enterprising",
+          "type": "Vocabulary",
+          "meaning": "adj. Creative in thinking of ways to make moneyImmigrants are often among the most enterprising members of society, partly because anyone brave enough",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-25",
+          "root": "exploit",
+          "type": "Vocabulary",
+          "meaning": "v. To take advantage of; to treat inconsiderately in order to profitThe company tried to exploit the low interest rates to expand operations.The forei",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-26",
+          "root": "incentive",
+          "type": "Vocabulary",
+          "meaning": "n. A possible benefit that motivates a person to do a certain thingThis city’s willingness to support its public schools gave us an incentive to move ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-27",
+          "root": "industrious",
+          "type": "Vocabulary",
+          "meaning": "adj. Willing to work hardThe Dutch settlements in Ottawa County were founded by industriousfarmers who objected to frivolous behavior such as dancing.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-28",
+          "root": "marginal",
+          "type": "Vocabulary",
+          "meaning": "adj. Not very significant or effectiveOur new advertising campaign had only marginal success, raisingsales by a mere 3 percent.There has been a margin",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-29",
+          "root": "merit",
+          "type": "Vocabulary",
+          "meaning": "n. Value; success based on one’s work, not on luckPay raises at our company are based on merit, as determined by acommittee of managers.Usage tips Mer",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-30",
+          "root": "promote",
+          "type": "Vocabulary",
+          "meaning": "v. To move someone to a higher position in a companyBecause of his excellent handling of the Vredeman account, JimHarris was promoted to vice presiden",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-31",
+          "root": "resign",
+          "type": "Vocabulary",
+          "meaning": "v. To quit one’s jobBecause of controversy over his leadership style, Morton resignedfrom his job as president.Parts of speech resignation n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-32",
+          "root": "distill",
+          "type": "Vocabulary",
+          "meaning": "v. to remove one liquid from a mixture of liquids by boiling; toget something valuable from a confusing mix of ideasThe forest peoples of Southeast As",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-33",
+          "root": "entrepreneurial",
+          "type": "Vocabulary",
+          "meaning": "adj. Able to create business opportunities from a widevariety of circumstancesMany engineers of the 1970s made great computers, but only a fewwere ent",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-34",
+          "root": "extract (n)",
+          "type": "Vocabulary",
+          "meaning": "v. To take outInternational mining companies came to the Malay Peninsula to extract the region’s massive tin deposits.Parts of speech extraction n,ext",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-35",
+          "root": "haggle",
+          "type": "Vocabulary",
+          "meaning": "v. To argue back and forth about a priceThe customer and the shopkeeper haggled over the silver plate formore than an hour.Usage tips Haggle is often ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-36",
+          "root": "intrepid",
+          "type": "Vocabulary",
+          "meaning": "adj. FearlessFor nearly 200 years, only the most intrepid colonists would crossthe Appalachian Mountains.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-37",
+          "root": "merchant",
+          "type": "Vocabulary",
+          "meaning": "n. A person who makes a living by selling thingsThe spice merchants of the eastern markets charged top prices tothe Dutch and British sailors, who had",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-38",
+          "root": "proportionately",
+          "type": "Vocabulary",
+          "meaning": "adv. In an amount appropriate to each of several recipientsThe food aid was distributed proportionately per family, with largerfamilies receiving more",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-39",
+          "root": "prototype",
+          "type": "Vocabulary",
+          "meaning": "n. The first one made of a machine or systemThe airplane manufacturer uses robots to test every prototype, justin case there is a problem with the des",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-40",
+          "root": "reward",
+          "type": "Vocabulary",
+          "meaning": "n. Something one gets for having done wellThe greatest reward of being a parent is to see your child make awise decision.Usage tips Reward might be fo",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-41",
+          "root": "shuttle",
+          "type": "Vocabulary",
+          "meaning": "v. To move back and forth often between two placesThe small jet shuttles between Kuala Lumpur and Singapore nearlyevery two hours.Parts of speech shut",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-42",
+          "root": "advocate",
+          "type": "Vocabulary",
+          "meaning": "v. To speak out in favor of somethingSome environmentalists advocatere moving large dams from the Columbia River.Usage tips Advocate is usually follow",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-43",
+          "root": "authority",
+          "type": "Vocabulary",
+          "meaning": "n. The power to make decisions, to tell others what to do.The governor has the authority to call the legislature together foremergency sessions.Usage ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-44",
+          "root": "bitterly",
+          "type": "Vocabulary",
+          "meaning": "adv. Strongly and with a lot of bad feelingsSenator Thomas bitterly opposed the movement to design a newstate flag.The widow smiles bitterly to her ne",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-45",
+          "root": "candidate",
+          "type": "Vocabulary",
+          "meaning": "n. Someone who wants to be chosen, especially in an election, for a positionIn most U.S. elections, there are only two major-party candidates forpresi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-46",
+          "root": "coalition",
+          "type": "Vocabulary",
+          "meaning": "n. A group of several different groups or countries that areworking together to achieve a certain goal.Several local churches, mosques, synagogues, an",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-47",
+          "root": "contest",
+          "type": "Vocabulary",
+          "meaning": "v. To challengeDave Roper, who narrowly lost the mayor’s race, contested the results, demanding a recount of the votes.Usage tips The noun contest can",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-48",
+          "root": "election",
+          "type": "Vocabulary",
+          "meaning": "n. A process in which people choose officialsBecause of problems with vote-counting four years ago, international observers monitored this year’s elec",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-49",
+          "root": "inaugurate",
+          "type": "Vocabulary",
+          "meaning": "v. To bring into public office; to start formallyThe U.S. president is elected in November but is not inaugurateduntil the following January.An effort",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-5-50",
+          "root": "policy",
+          "type": "Vocabulary",
+          "meaning": "n. An approved way for approaching a certain kind of situationThe policy said that government money could not be given to any private hospital.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "anki-lesson-6",
+      "name": "Anki Lesson 6",
+      "type": "Vocabulary",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "anki-lesson-6-1",
+          "root": "poll",
+          "type": "Vocabulary",
+          "meaning": "v. To find out a small group’s opinion so that you can guess whata much larger group thinksThe newspaper polled 500 registered voters and found that o",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-2",
+          "root": "accuse",
+          "type": "Vocabulary",
+          "meaning": "v. To say that someone did something wrong (e.g., committed a crime)Jordan was accused of using a stolen credit card to buy about $300worth of electro",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-3",
+          "root": "allegedly",
+          "type": "Vocabulary",
+          "meaning": "adv. According to what people sayThe chief financial officer of the company allegedly took companymoney for his personal use.The novel was allegedly w",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-4",
+          "root": "civil",
+          "type": "Vocabulary",
+          "meaning": "adj. Involving a dispute between two citizens, not a criminal chargeIn a civil suit against his neighbor, Barney claimed that the neighbor’s dog had b",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-5",
+          "root": "convict",
+          "type": "Vocabulary",
+          "meaning": "v. To decide that someone is guilty of a crimeDean was convicted of assault after the jury saw a video of himstriking another man.Usage tips Convict i",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-6",
+          "root": "guilty",
+          "type": "Vocabulary",
+          "meaning": "adj. Responsible for doing something badThe jury found that the director was guilty of embezzlement.Usage tips Guilty is often followed by an ofphrase",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-7",
+          "root": "offense",
+          "type": "Vocabulary",
+          "meaning": "n. A specific act that breaks the lawConvicted twice of reckless driving,Victor will lose his license if hecommits another serious traffic offense.Par",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-8",
+          "root": "peer",
+          "type": "Vocabulary",
+          "meaning": "n. A person who is one’s social equalIn requiring judgment by “a jury of one’s peers,” U.S. law meant toprotect lower-class defendants from the possib",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-9",
+          "root": "suspect",
+          "type": "Vocabulary",
+          "meaning": "n. Someone who, in the opinion of the police, might have committed a certain crimeThe police were investigating the activities of five suspects in the",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-10",
+          "root": "verdict",
+          "type": "Vocabulary",
+          "meaning": "n. A judgment in a court caseIt took the jury only 30 minutes to reach a verdict of “guilty.”Usage tips Verdict is often the object of the verbs reach",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-11",
+          "root": "witness",
+          "type": "Vocabulary",
+          "meaning": "v. To see something, especially a crime, happenAfter witnessing the car theft, Rodney called the police.Parts of speech witness n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-12",
+          "root": "apprehend",
+          "type": "Vocabulary",
+          "meaning": "v. To captureThe police apprehended the robbery suspect as he tried to get on a bus to Chicago.Parts of speech apprehension n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-13",
+          "root": "ascertain",
+          "type": "Vocabulary",
+          "meaning": "v. To make sure ofThe police failed to ascertain that the man they arrested was the Gregory Brown they were really looking for.Usage tips Ascertain is",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-14",
+          "root": "bureaucratic",
+          "type": "Vocabulary",
+          "meaning": "adj. Related to a large organization with a lot of complicated proceduresBefore I could speak with the chief, I had to go through a bureaucratic run a",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-15",
+          "root": "condemn",
+          "type": "Vocabulary",
+          "meaning": "v. To speak out against something in very strong termsReligious radicals condemned the government for allowing alcoholto be sold in restaurants.Parts ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-16",
+          "root": "evidence",
+          "type": "Vocabulary",
+          "meaning": "n. Something that makes the truth of a statement seem more likelyThe most convincing evidence that Garner robbed the store was avideotape from surveil",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-17",
+          "root": "implicate",
+          "type": "Vocabulary",
+          "meaning": "v. To suggest that someone was involved in a crime or other wrong behaviorNo group claimed responsibility for the bombing, but the type ofexplosive us",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-18",
+          "root": "inquiry",
+          "type": "Vocabulary",
+          "meaning": "n. An investigationThe FBI launched an inquiry into the relationship between organized crime and the trucking company.Parts of speech inquire v",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-19",
+          "root": "intrusively",
+          "type": "Vocabulary",
+          "meaning": "adv. In a way that brings an unwanted person or thing intosomeone else’s affairsThe new consultant from company headquarters appeared intrusively at m",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-20",
+          "root": "seize",
+          "type": "Vocabulary",
+          "meaning": "v. To take something against its owner’s willFederal agents can seize private homes and other property possiblyused in the production or sale of illeg",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-21",
+          "root": "surveillance",
+          "type": "Vocabulary",
+          "meaning": "n. A process of watching something or someone for along time, usually because the person is suspected of somethingPolice surveillance of one suspected",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-22",
+          "root": "analyze",
+          "type": "Vocabulary",
+          "meaning": "v. To examine something by looking at its partsChemists analyzed the white powder and found it to be only a mixture of sugar and salt.Parts of speech ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-23",
+          "root": "assail",
+          "type": "Vocabulary",
+          "meaning": "v. To attack or criticize forcefullyWith DNA evidence from the crime scene, the defense lawyer assailed the police for falsely arresting his client.Pa",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-24",
+          "root": "contrary",
+          "type": "Vocabulary",
+          "meaning": "adj. OppositeContrary to most studies, Dr. Ito’s work shows the world’s climate isnot getting warmer.Usage tips Common phrases are contrary to and on ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-25",
+          "root": "hypothesize",
+          "type": "Vocabulary",
+          "meaning": "v. To make a guess, the correctness of which will eventually be investigated systematically.Scientists hypothesize that planets capable of supporting ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-26",
+          "root": "impair",
+          "type": "Vocabulary",
+          "meaning": "v. To make something less effective than usualThe snow impaired John’s ability to hear anyone’s footsteps.Usage tips The object of impair is often [so",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-27",
+          "root": "inference",
+          "type": "Vocabulary",
+          "meaning": "n. A conclusion drawn from evidenceInspector Dowd’s inference that Ms. Miller was South African wasbased on her accent.Parts of speech infer v",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-28",
+          "root": "objectively",
+          "type": "Vocabulary",
+          "meaning": "adv. Based on unbiased standards, not on personal opinionI don’t like Mr. Rowan, but looking objectively at his sales numbers,I saw that he was a very",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-29",
+          "root": "suspicious",
+          "type": "Vocabulary",
+          "meaning": "adj. Believing that something is wrong; acting in a waythat makes people believe you have done something wrongThe neighbors became suspicious of Jim w",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-30",
+          "root": "tolerate",
+          "type": "Vocabulary",
+          "meaning": "v. To avoid getting upset about somethingMy math teacher tolerates a lot of talking in her class, but my history teacher tells us to be quiet.How can ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-31",
+          "root": "versus",
+          "type": "Vocabulary",
+          "meaning": "prep. AgainstIn the debate, it was pro-war senators versus antiwar senators.Usage tips Versus is often abbreviated as vs.in sports contexts, orsimply ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-32",
+          "root": "bribery",
+          "type": "Vocabulary",
+          "meaning": "n. Giving money or other gifts to a government official or otherperson in authority in order to get special privilegesBribery of police officers is co",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-33",
+          "root": "cynically",
+          "type": "Vocabulary",
+          "meaning": "adv. Disrespectfully; emphasizing the weaknesses of otherwise respected thingsEmployees of the Roadways Department cynically referred to theirboss as ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-34",
+          "root": "erode",
+          "type": "Vocabulary",
+          "meaning": "v. To wear away and become smallerPeople’s respect for the government eroded as more officials werearrested for corruption.Usage tips Erode can be int",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-35",
+          "root": "evade",
+          "type": "Vocabulary",
+          "meaning": "v. To get away from something that tries to catch youThe robbery suspects tried to evade the police by fleeing to Canada.Parts of speech evasion n,eva",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-36",
+          "root": "grotesque",
+          "type": "Vocabulary",
+          "meaning": "adj. Extremely unattractive, in a way that catches a lot of attention.Spending $3.5 million to redecorate the governor’s house is agrotesque misuse of",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-37",
+          "root": "integrity",
+          "type": "Vocabulary",
+          "meaning": "n. Personal honesty and good characterWe don’t have a problem with our employees stealing from thestore because we hire only people with a lot of inte",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-38",
+          "root": "prevalent",
+          "type": "Vocabulary",
+          "meaning": "adj. Common; easy to find because it exists in great amountsDistrust of elected officials was prevalent in our county becausemany of them were friends",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-39",
+          "root": "reform",
+          "type": "Vocabulary",
+          "meaning": "v. To make big improvementsThe new law was an attempt to reform the system of giving moneyto political candidates.Parts of speech reform n,reformer n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-40",
+          "root": "scandal",
+          "type": "Vocabulary",
+          "meaning": "n. A case of wrongdoing that hurts someone’s reputationIn the Watergate scandal, some of the president’s top advisors wererevealed to be criminals.Par",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-41",
+          "root": "unmask",
+          "type": "Vocabulary",
+          "meaning": "v. Reveal; expose something that is hiddenThe Forge Trucking Company was eventually unmasked as a frontfor organized crime.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-42",
+          "root": "abduction",
+          "type": "Vocabulary",
+          "meaning": "n. KidnappingPirates got many crew members by abduction, snatching unluckycitizens from seaport towns.Parts of speech abduct v",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-43",
+          "root": "coerce",
+          "type": "Vocabulary",
+          "meaning": "v. To force; to put pressure on someone to do somethingA criminal’s confession is not usable in court if the police coercehim or her into giving it.to",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-44",
+          "root": "detain",
+          "type": "Vocabulary",
+          "meaning": "v. To prevent someone, for a relatively short time, from going on their wayThe police detained at least 20 men for questioning, but chargednone of the",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-45",
+          "root": "deviant",
+          "type": "Vocabulary",
+          "meaning": "adj. In a style that is not normal and is offensive to manyThe artist based his reputation on creating deviant works of art thatdisgusted most of the ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-46",
+          "root": "distort",
+          "type": "Vocabulary",
+          "meaning": "v. To twist or misrepresent; to make something seem differentfrom what it really isIf you hold a pencil in a glass of water, the water distorts the ap",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-47",
+          "root": "intentionally",
+          "type": "Vocabulary",
+          "meaning": "adv. On purpose, not by accidentDanny intentionally lost his last golf ball because he was tired of playing.Parts of speech intent n,intention n.inten",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-48",
+          "root": "piracy",
+          "type": "Vocabulary",
+          "meaning": "n. Stealing a ship or taking the ship’s cargo; the unlawful copying of books, CDs, etc.Modern-day piracy occurs mostly near groups of small, uninhabit",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-49",
+          "root": "predicament",
+          "type": "Vocabulary",
+          "meaning": "n. A difficult situation, one that is hard to get out ofCollege basketball stars face the predicament of wanting to graduate but being tempted by high",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-6-50",
+          "root": "smuggle",
+          "type": "Vocabulary",
+          "meaning": "v. To illegally bring things into a countryThe pirate Ben Dewar smuggled guns to British and Indian fightersin North America.Parts of speech smuggler ",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "anki-lesson-7",
+      "name": "Anki Lesson 7",
+      "type": "Vocabulary",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "anki-lesson-7-1",
+          "root": "villainy",
+          "type": "Vocabulary",
+          "meaning": "n. Exceptional badness, as demonstrated by many serious evil deedsimmoral or cruel behaviourFred was not a natural criminal, but he learned all kinds ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-2",
+          "root": "addictive",
+          "type": "Vocabulary",
+          "meaning": "adj. Making someone want it so much that the person feels ill without itSome drugs, like heroin or methamphetamines, are addictive to almost everyone ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-3",
+          "root": "cartel",
+          "type": "Vocabulary",
+          "meaning": "n. A small group controlling a certain area of businessThe world’s major oil producers formed a cartel to control the priceand supply of petroleum.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-4",
+          "root": "concentrated",
+          "type": "Vocabulary",
+          "meaning": "adj. Strong because large amounts are in a certain spaceConcentrated lemon juice is very sour, so I mix it with water when Imake lemonade.a concentrat",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-5",
+          "root": "interdict",
+          "type": "Vocabulary",
+          "meaning": "v. To keep something from reaching a certain placeWith faster patrol boats, the Coast Guard can more easily interdictdrugs being smuggled by sea.Parts",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-6",
+          "root": "juxtapose",
+          "type": "Vocabulary",
+          "meaning": "v. Place next to one anotherIf you juxtapose these two similar flowers, you can see clear differences between them.Parts of speech juxtaposition n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-7",
+          "root": "misconception",
+          "type": "Vocabulary",
+          "meaning": "n. A mistaken beliefA common misconception about rabbits is that they are a kind of rodent.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-8",
+          "root": "modify",
+          "type": "Vocabulary",
+          "meaning": "v. Make small changes in order to get a certain resultPeople who live in high mountains often modify their car engines torun well in the thinner air.P",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-9",
+          "root": "potent",
+          "type": "Vocabulary",
+          "meaning": "adj. PowerfulA very potent type of marijuana with surprisingly strong effects became available in Burrytown.a potent charm: bùa phép có hiệu nghiệmpot",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-10",
+          "root": "residual",
+          "type": "Vocabulary",
+          "meaning": "adj. Left behind after most of a thing has goneIn the airplane, agents found residual traces of heroin.Usage tips Residual is often followed by trace,",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-11",
+          "root": "subtly",
+          "type": "Vocabulary",
+          "meaning": "adv. In a quiet, hard-to-notice wayBy subtly changing the soft drink’s formula, we improved its tasteand made production cheaper.Parts of speech subtl",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-12",
+          "root": "ancestral",
+          "type": "Vocabulary",
+          "meaning": "adj. Relating to family members from earlier generationsSweden is my ancestral homeland, from which my great grandfather emigrated in 1922.Parts of sp",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-13",
+          "root": "cohesion",
+          "type": "Vocabulary",
+          "meaning": "n. Ability to stay together as a unitFamily cohesion is difficult if young people have to go far away tofind work.Usage tips Cohesion can also be used",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-14",
+          "root": "descendant",
+          "type": "Vocabulary",
+          "meaning": "n. A direct relative in a later generation (such as one’s son, daughter, or grandchild)Billy Sobieski claimed to be a descendant of Jan Sobieski, a fo",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-15",
+          "root": "inheritance",
+          "type": "Vocabulary",
+          "meaning": "n. Things passed down to you from your ancestorsMy inheritance from my grandmother included her favorite necklace.The title passes by inheritance to t",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-16",
+          "root": "kin",
+          "type": "Vocabulary",
+          "meaning": "n. RelativesEven though my uncle didn’t really like me, he was kind to me because we were kin.Usage tips A common phrase is next of kin, meaning “clos",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-17",
+          "root": "legitimate",
+          "type": "Vocabulary",
+          "meaning": "adj. True and respectable; in the context of family, born ofa mother and father who were married to each otherYou can skip the meeting if you have a l",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-18",
+          "root": "paternal",
+          "type": "Vocabulary",
+          "meaning": "adj. Relating to a fatherMy mother’s parents have both died, but my paternal grandparentsare still alive.Usage tips Paternal may appear with maternal,",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-19",
+          "root": "proximity",
+          "type": "Vocabulary",
+          "meaning": "n. NearnessThe house was comfortable, except for its proximity to a busy road.Usage tips Proximity can be followed by an ofphrase or a tophrase.Parts ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-20",
+          "root": "sentiment",
+          "type": "Vocabulary",
+          "meaning": "n. Feelings; opinion based on feelingsI share your sentiments about air travel, but I disagree that cars aresafer.Usage tips Sentiments(the plural) is",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-21",
+          "root": "sibling",
+          "type": "Vocabulary",
+          "meaning": "n. Brother or sisterMy sibling sand I got together to buy our parents a gift for their anniversary.I've two brothers and a sister : three siblings in ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-22",
+          "root": "affection",
+          "type": "Vocabulary",
+          "meaning": "n. An emotional closeness or warmthI show affection for my girlfriend by spending time with her, not by spending money on her.He felt great affection ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-23",
+          "root": "associate",
+          "type": "Vocabulary",
+          "meaning": "v. To regularly spend time togetherCarol doesn’t associate with people who smoke.Usage tips Associate is often followed by a withphrase.Parts of speec",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-24",
+          "root": "bond",
+          "type": "Vocabulary",
+          "meaning": "n. A close connectionSome researchers say that there is an especially strong emotionalbond between twins.Usage tips A between phrase—indicating the th",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-25",
+          "root": "clique",
+          "type": "Vocabulary",
+          "meaning": "n. A small group of friends who are unfriendly to people outside the groupHigh-schoolers form cliques to gain security and acceptance.Usage tips Cliqu",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-26",
+          "root": "confide",
+          "type": "Vocabulary",
+          "meaning": "v. To tell very personal thingsTeenagers are more willing to confide in a friend than in a parent.Usage tips Confide is almost always followed by an i",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-27",
+          "root": "exclusive",
+          "type": "Vocabulary",
+          "meaning": "adj. Keeping out all but a few peopleThe most exclusive universities accept only a small percentage ofpeople who want to attend.Usage tips Exclusiveca",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-28",
+          "root": "fluctuate",
+          "type": "Vocabulary",
+          "meaning": "v. To change often, from one condition to anotherEarth’s climate fluctuates between warm periods and cold periods.Usage tips Fluctuate is usually foll",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-29",
+          "root": "in common",
+          "type": "Vocabulary",
+          "meaning": "adv. As a shared characteristicBilly and Heather have a lot in common—basketball, a love ofpizza, and an interest in snakes.Usage tips In common very ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-30",
+          "root": "solidarity",
+          "type": "Vocabulary",
+          "meaning": "n. Standing together despite pressure to move apartMany student groups declared solidarity with the Latino Student Association in their effort to get ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-31",
+          "root": "willing",
+          "type": "Vocabulary",
+          "meaning": "adj. Agreeable and ready to do somethingBecause of their long friendship, Professor Gardner was willing tosay a few words at Jones’s birthday celebrat",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-32",
+          "root": "complex",
+          "type": "Vocabulary",
+          "meaning": "adj. Not simple; involving many parts that work togetherA modern car engine is too complex for most car owners to repairby themselves.Parts of speech ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-33",
+          "root": "despondent",
+          "type": "Vocabulary",
+          "meaning": "adj. Extremely sad and without hope for the futureAfter his girlfriend left him, Johnson was despondent and wouldn’t talk to anyone.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-34",
+          "root": "devotion",
+          "type": "Vocabulary",
+          "meaning": "n. A willingness to keep supporting someone you admireGrant showed great devotion to his wife, supporting her during herlong illness.Usage tips Devoti",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-35",
+          "root": "dilemma",
+          "type": "Vocabulary",
+          "meaning": "n. A difficult choice between two thingsI was caught in a dilemma between traveling by airplane and takinga train, which is slower but more comfortabl",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-36",
+          "root": "engender",
+          "type": "Vocabulary",
+          "meaning": "v. To bring into being; to cause to existThe government’s warnings about terrorism engendered fearthroughout the nation.illiteracy often engenders cri",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-37",
+          "root": "loyal",
+          "type": "Vocabulary",
+          "meaning": "adj. FaithfulCarter was loyal to his girlfriend and would not date anyone else.Usage tips Loyal is often followed by a tophrase.Parts of speech loyalt",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-38",
+          "root": "passion",
+          "type": "Vocabulary",
+          "meaning": "n. An extremely strong emotion, like love or angerDebbie complained that there was no passion in her marriage.Parts of speech passionate adj,passionat",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-39",
+          "root": "proliferation",
+          "type": "Vocabulary",
+          "meaning": "n. An increase in the number of something and in thenumber of places it can be foundThe proliferation of fast-food restaurants has made it harder forA",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-40",
+          "root": "reciprocity",
+          "type": "Vocabulary",
+          "meaning": "n. Doing as much for another as he or she has done for youDan was giving a lot of attention to Kelly, but he felt no reciprocityin their relationship.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-41",
+          "root": "vanish",
+          "type": "Vocabulary",
+          "meaning": "v. To disappear suddenlyWhen the sun came out, last night’s light snowfall vanished.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-42",
+          "root": "antipathy",
+          "type": "Vocabulary",
+          "meaning": "n. A strong, long-lasting negative feelingMy antipathy toward telemarketers is so strong that I am often rudeto them.Usage tips Antipathy is often fol",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-43",
+          "root": "arrogantly",
+          "type": "Vocabulary",
+          "meaning": "adv. In a way that shows a high opinion of oneself and a low opinion of othersJenny told us about her party only one day in advance, arrogantlythinkin",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-44",
+          "root": "berate",
+          "type": "Vocabulary",
+          "meaning": "v. To say insulting and disrespectful thingsThe teacher lost his job because he cruelly berated students whomade mistakes.Usage tips You can only bera",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-45",
+          "root": "contemptuous",
+          "type": "Vocabulary",
+          "meaning": "adj. Having no respectMost scientists are contemptuous of reports that aliens from outerspace have landed on the Earth.Usage tips A very common struct",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-46",
+          "root": "despise",
+          "type": "Vocabulary",
+          "meaning": "v. Hate very muchTom grew to despise his greedy and unfriendly boss.to despise his hypocrisy, meanness, conceit: khinh miệt tính đạo đức giả, tính bủn",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-47",
+          "root": "humiliation",
+          "type": "Vocabulary",
+          "meaning": "n. An event that causes someone to feel that she or he haslost the respect of othersLosing the chess tournament was a great humiliation for Marie, and",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-48",
+          "root": "obnoxious",
+          "type": "Vocabulary",
+          "meaning": "adj. Bothersome; doing small things that others don’t likeMy obnoxious neighbor keeps talking to me while I’m trying toread in my backyard.Parts of sp",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-49",
+          "root": "shame",
+          "type": "Vocabulary",
+          "meaning": "n. Dishonor because one has done something wrongFeeling deep shame because of their son’s crimes, the Ford familymoved to a different town.Usage tips ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-7-50",
+          "root": "stigmatize",
+          "type": "Vocabulary",
+          "meaning": "v. To mark with a visible feature that makes other peoplethink, perhaps incorrectly, that someone or something is wrongCadbury’s beard and tattoos sti",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "anki-lesson-8",
+      "name": "Anki Lesson 8",
+      "type": "Vocabulary",
+      "totalWords": 50,
+      "words": [
+        {
+          "id": "anki-lesson-8-1",
+          "root": "vitriolic",
+          "type": "Vocabulary",
+          "meaning": "adj. Showing an extreme, hateful angerThe mayor’s vitriolic attacks against the city council only made himsound unreasonable.Usage tips The origin of ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-2",
+          "root": "adolescent",
+          "type": "Vocabulary",
+          "meaning": "adj. Characteristic of a teenager; not fully grown upIn policy meetings, George refuses to reason with anyone and justscowls in an adolescent way.Part",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-3",
+          "root": "cause",
+          "type": "Vocabulary",
+          "meaning": "n. A political or social goal that one believes is right and works to achieveOur river cleanup effort would be more effective if someone famousspoke o",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-4",
+          "root": "conflict",
+          "type": "Vocabulary",
+          "meaning": "v. To fit so poorly together that the differences cause a problemA teenager’s need for security can conflictwith his desire for independence from his ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-5",
+          "root": "delinquency",
+          "type": "Vocabulary",
+          "meaning": "n. Serious misbehavior; not doing what one should doBecause of his laziness and delinquency, Lefty was an unreliablefriend.Usage tips A common combina",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-6",
+          "root": "fringe",
+          "type": "Vocabulary",
+          "meaning": "n. Edge; in social contexts, parts of society that look or act verydifferent from most peoplePunk music got its start at the fringe of London’s rock m",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-7",
+          "root": "hedonistic",
+          "type": "Vocabulary",
+          "meaning": "adj. Excessively interested in seeking pleasureSuddenly wealthy, Allen fell into a hedonistic life of parties, expensive dinners, and heavy drinking.U",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-8",
+          "root": "hypocritically",
+          "type": "Vocabulary",
+          "meaning": "adv. In a way that accuses other people of weaknessesthat the speaker also possessesHenry spent $2,500 on a new suit and then hypocritically accusedme",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-9",
+          "root": "manipulation",
+          "type": "Vocabulary",
+          "meaning": "n. Quietly moving or influencing people or things inorder to get what you wantBob’s manipulation of the boss’s feelings led to his promotion.Parts of ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-10",
+          "root": "rebel",
+          "type": "Vocabulary",
+          "meaning": "v. To go against an established system or authorityThe people of Ghurdia rebelled against the dictator and set up anew government.Usage tips Rebel wor",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-11",
+          "root": "status quo",
+          "type": "Vocabulary",
+          "meaning": "n. The systems and conditions that exist nowLet’s just maintain the status quo until we can think of a better way.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-12",
+          "root": "abstract",
+          "type": "Vocabulary",
+          "meaning": "adj. Not concrete and realistic; not obviously related to everyday experienceAbstract painting became popular partly because early photography was ver",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-13",
+          "root": "context",
+          "type": "Vocabulary",
+          "meaning": "n. A larger environment that something fits intoIn the context of Soviet Russia, public art had to be about the triumph of communism and its leaders.U",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-14",
+          "root": "depict",
+          "type": "Vocabulary",
+          "meaning": "v. To show in picturesMichelangelo’s painting on the ceiling of the Sistine Chapel depictsnine scenes from the Bible.Parts of speech depiction n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-15",
+          "root": "dimension",
+          "type": "Vocabulary",
+          "meaning": "n. A direction or surface along which something can bemeasured; an aspectThe three dimensions of physical objects are length, width, and depth.One dim",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-16",
+          "root": "esthetically",
+          "type": "Vocabulary",
+          "meaning": "adv. In a way that relates to beauty or appearanceThe outside of the office building is esthetically pleasing, but the inside is dark and unpleasant.U",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-17",
+          "root": "intrinsic",
+          "type": "Vocabulary",
+          "meaning": "adj. Being part of the basic nature of somethingFrequent elections are intrinsic to a democratic system.Parts of speech intrinsically adv",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-18",
+          "root": "perspective",
+          "type": "Vocabulary",
+          "meaning": "n. A way of seeing from a particular location; a way ofthinking about somethingFrom my perspective,the entire town can be seen through a set oflarge w",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-19",
+          "root": "portrayal",
+          "type": "Vocabulary",
+          "meaning": "n. A description or drawing that reflects a certain point of viewMost portrayals of Abraham Lincoln emphasize his sense of humorand his honesty.Usage ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-20",
+          "root": "realism",
+          "type": "Vocabulary",
+          "meaning": "n. A technique that tries to picture something as it really looksRealism was popular among seventeenth-century Flemish painterslike Rembrandt van Rijn",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-21",
+          "root": "spectrum",
+          "type": "Vocabulary",
+          "meaning": "n. A range of different things, usually colorsBart’s colorful designs include every color of the spectrum,fromdeep blue to vibrant red.Usage tips The ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-22",
+          "root": "advent",
+          "type": "Vocabulary",
+          "meaning": "n. Coming; arrivalThe advent of the automobile greatly increased the demand for petroleum.Usage tips Advent is usually followed by an ofphrase.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-23",
+          "root": "ambiguous",
+          "type": "Vocabulary",
+          "meaning": "adj. Having more than one possible meaningThe sentence It’s hard to say is ambiguous,with different meaningsin different contexts.Parts of speech ambi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-24",
+          "root": "connotation",
+          "type": "Vocabulary",
+          "meaning": "n. A meaning implied, not stated directlyWhen my boss says,“Thank you,” the connotation is that she’s donetalking and I should leave.Parts of speech c",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-25",
+          "root": "decipher",
+          "type": "Vocabulary",
+          "meaning": "v. To figure out the meaning, even though it is written in acode or an unknown languageThe Rosetta Stone helped archaeologists decipher ancient Egypti",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-26",
+          "root": "denote",
+          "type": "Vocabulary",
+          "meaning": "v. To mean something clearly and directlyAn “X” next to a name on this list denotes a person who has beenchosen for the soccer team.Parts of speech de",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-27",
+          "root": "illiterate",
+          "type": "Vocabulary",
+          "meaning": "adj. Unable to readIn many villages nearly everyone was illiterate and unschooled, andthe few who could read held great power.Parts of speech illitera",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-28",
+          "root": "ingenious",
+          "type": "Vocabulary",
+          "meaning": "adj. Very clever and imaginativeAnn thought up an ingenious way to keep other people from accidentally taking her pens.Parts of speech ingenuity n,ing",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-29",
+          "root": "inscription",
+          "type": "Vocabulary",
+          "meaning": "n. Something written into a piece of rock or metalThe inscription on my ring says “August 1,” because that was theday of our wedding.Parts of speech i",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-30",
+          "root": "phonetic",
+          "type": "Vocabulary",
+          "meaning": "adj. Related to the sounds in a languageChildren learning to write often make up phonetic spellings, basedon the way a word sounds.Parts of speech pho",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-31",
+          "root": "symbolic",
+          "type": "Vocabulary",
+          "meaning": "adj. Acting as a sign for some other thing or ideaSince the 1970s, yellow ribbons have been symbolic of hope thatsomeone will return from a dangerous ",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-32",
+          "root": "amateurish",
+          "type": "Vocabulary",
+          "meaning": "adj. Not good enough to be the work of professionalsWhoever painted this room did an amateurish job, with all sorts ofuneven edges.Parts of speech ama",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-33",
+          "root": "cast",
+          "type": "Vocabulary",
+          "meaning": "n. The group of actors in a play, movie, television show, etc.Some viewers mistakenly start thinking that a TV show’s cast members are really the char",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-34",
+          "root": "charismatic",
+          "type": "Vocabulary",
+          "meaning": "adj. Extremely attractive and charmingBecause of the sparkle in his eye and his confident style, John F.Kennedy was a charismatic leader.Parts of spee",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-35",
+          "root": "gala",
+          "type": "Vocabulary",
+          "meaning": "adj. Expensive, elaborately arranged, and full of celebrationA college graduation party should be a gala affair, not a backyardbarbecue.Usage tips Gal",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-36",
+          "root": "hilarious",
+          "type": "Vocabulary",
+          "meaning": "adj. Very funnyIn my opinion, the most hilarious character on television was Basil Fawlty.Parts of speech hilarity n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-37",
+          "root": "improvisation",
+          "type": "Vocabulary",
+          "meaning": "n. Inventing a solution to an unexpected problemBoy Scouts take pride in their improvisation when faced with trouble during a camping trip.Parts of sp",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-38",
+          "root": "incompetent",
+          "type": "Vocabulary",
+          "meaning": "adj. Unskilled; lacking the ability to perform a taskBecause we hired an incompetent builder to replace our roof, wenow have leaks everywhere.Usage ti",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-39",
+          "root": "medium",
+          "type": "Vocabulary",
+          "meaning": "n. A channel or way for a meaning to be expressedWatercolor art is often considered childish, but some artists haveachieved great things working in th",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-40",
+          "root": "skit",
+          "type": "Vocabulary",
+          "meaning": "n. A short, informal playMarnie and Chris spent a long time practicing their skit for the school show.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-41",
+          "root": "zeal",
+          "type": "Vocabulary",
+          "meaning": "n. Enthusiasm; a deep determination to do wellUnfortunately,Tom’s zeal to become a rock star distracted him fromhis studies.Usage tips Zeal is often f",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-42",
+          "root": "bulk",
+          "type": "Vocabulary",
+          "meaning": "n. Largeness and a heavy appearanceThe bulk of Kevin’s athletic body was too great for one small chair, so he sat on a bench.He heaved his huge bulk o",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-43",
+          "root": "capricious",
+          "type": "Vocabulary",
+          "meaning": "adj. Moving unpredictably from one thing to anotherYour college studies will go on too long if you make capriciousjumps from one major to another.Usag",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-44",
+          "root": "cumbersome",
+          "type": "Vocabulary",
+          "meaning": "adj. Difficult to wear or carry because of weight or shapeTo make it to the top of the mountain before dark, the hikersdumped their cumbersome tent.",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-45",
+          "root": "exotic",
+          "type": "Vocabulary",
+          "meaning": "adj. Interesting or unusual because of coming from a faraway placeI walked into the restaurant and smelled the exotic aromas of Malaysian spices.Parts",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-46",
+          "root": "inhibit",
+          "type": "Vocabulary",
+          "meaning": "v. To discourage or to slow downThis lotion will inhibit the itching caused by mosquito bites.Parts of speech inhibition n",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-47",
+          "root": "minimum",
+          "type": "Vocabulary",
+          "meaning": "n. The smallest possible amount or levelThe minimum for being accepted to Cavill University is a score of 60 on the test.Parts of speech minimize v,mi",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-48",
+          "root": "striking",
+          "type": "Vocabulary",
+          "meaning": "adj. Very noticeable; easily attracting attentionGordon had a striking new attitude after he learned self-disciplineat the army academy.Usage tips Str",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-49",
+          "root": "trend",
+          "type": "Vocabulary",
+          "meaning": "n. A movement in one direction or a widespread change in fashionThe trend among some young men is to wear their caps with the bill off to one side.Par",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-8-50",
+          "root": "vanity",
+          "type": "Vocabulary",
+          "meaning": "n. An excessive concern for one’s appearanceMark’s vanity led him to spend far too much money on haircuts and new clothes.Parts of speech vain adj",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "id": "anki-lesson-9",
+      "name": "Anki Lesson 9",
+      "type": "Vocabulary",
+      "totalWords": 2,
+      "words": [
+        {
+          "id": "anki-lesson-9-1",
+          "root": "vulnerable",
+          "type": "Vocabulary",
+          "meaning": "adj. Exposed to possible harmBabies and very old people are especially vulnerable to the new disease.Usage tips Vulnerable is often followed by a toph",
+          "examples": []
+        },
+        {
+          "id": "anki-lesson-9-2",
+          "root": "discriminatory",
+          "type": "Vocabulary",
+          "meaning": "adj",
+          "examples": []
+        }
+      ]
     }
   ]
 }
