@@ -1,5 +1,7 @@
 # TOEFL Root/Prefix/Suffix Flashcard App
 
+⭐ **If you find this tool useful, please star this repo! It helps us grow!** ⭐
+
 A modern, interactive web application for mastering TOEFL vocabulary through roots, prefixes, and suffixes. Built with React, Vite, Tailwind CSS, and Firebase.
 
 ## Features
@@ -59,36 +61,23 @@ npm run dev
 # Open http://localhost:5173
 ```
 
-## Authentication
-
-### Setting Up Firebase
+## Firebase Setup
 
 1. Create a Firebase project at [firebase.google.com](https://firebase.google.com)
-2. Enable Google and GitHub OAuth providers
-3. Add authorized domains:
-   - `localhost:5173` (local development)
-   - Your Vercel domain (production)
-4. Copy credentials to `.env` file
+2. Copy the credentials to `.env` file
+3. Enable Google OAuth in Firebase console
+4. Add `localhost:5173` as an authorized domain
 
-## Deploy to Vercel
+## Deployment
 
-```bash
-# Install Vercel CLI (first time only)
-npm i -g vercel
+**Push to GitHub first**, then:
 
-# Login and deploy
-vercel login
-vercel --prod
-```
+1. Sign in to [Vercel.com](https://vercel.com)
+2. Import your GitHub repository
+3. Add `.env` variables in project settings
+4. Click Deploy
 
-### Environment Variables on Vercel
-
-1. Go to Vercel project settings
-2. Add all `VITE_FIREBASE_*` environment variables
-3. Set scope to Production, Preview, and Development
-4. Redeploy the project
-
-Your app goes live at: `https://toefl-word-web-[hash].vercel.app`
+Your app goes live automatically!
 
 ## Documentation
 
@@ -123,14 +112,13 @@ Your app goes live at: `https://toefl-word-web-[hash].vercel.app`
 - Safari 14+
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## Troubleshooting
+## Quick Fixes
 
-| Issue | Solution |
-|-------|----------|
+| Issue | Fix |
+|-------|-----|
 | Port 5173 in use | `npm run dev -- --port 3000` |
-| Firebase auth fails | Check environment variables in `.env` |
-| Progress not syncing | Verify Firestore security rules |
-| Build fails | Run `npm install` and `npm run build` |
+| Firebase auth fails | Check `.env` file has all keys |
+| Build fails | Run `npm install` again |
 
 ## Contributing
 
