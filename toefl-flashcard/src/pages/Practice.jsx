@@ -23,7 +23,7 @@ export default function Practice() {
     markAsUnknown,
     stats,
     deckProgress,
-    resetProgress,
+    setProgress,
   } = useFlashcardSession(deck);
 
   useEffect(() => {
@@ -138,8 +138,18 @@ export default function Practice() {
         onClose={() => setShowResetModal(false)}
         deckName={deck?.name || 'Deck'}
         onConfirm={async () => {
-          await resetProgress();
-          navigate('/');
+          // Reset only current deck's progress, not all decks
+          if (deck) {
+            await setProgress(prev => ({
+              ...prev,
+              [deck.id]: {
+                mastered: [],
+                reviewing: [],
+                learning: [],
+              },
+            }));
+            navigate('/');
+          }
         }}
       />
     </div>
