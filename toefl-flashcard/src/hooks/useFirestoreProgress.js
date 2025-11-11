@@ -66,5 +66,22 @@ export function useFirestoreProgress(key, initialValue) {
     }
   }, [user, key, storedValue]);
 
-  return [storedValue, setValue, loading];
+  const resetValue = useCallback(async () => {
+    if (!user) {
+      console.warn('User not authenticated');
+      return;
+    }
+
+    try {
+      setStoredValue(initialValueRef.current);
+
+      // Reset to initial value in Firestore
+      const progressRef = doc(db, 'users', user.uid, 'progress', key);
+      await setDoc(progressRef, initialValueRef.current, { merge: false });
+    } catch (error) {
+      console.error('Error resetting progress:', error);
+    }
+  }, [user, key]);
+
+  return [storedValue, setValue, loading, resetValue];
 }

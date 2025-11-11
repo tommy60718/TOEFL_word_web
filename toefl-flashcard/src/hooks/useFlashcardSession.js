@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import { useFirestoreProgress } from './useFirestoreProgress';
 
 export function useFlashcardSession(deck) {
-  const [progress, setProgress] = useFirestoreProgress('all-progress', {});
+  const [progress, setProgress, , resetProgress] = useFirestoreProgress('all-progress', {});
   const [queue, setQueue] = useState([]);
   const [currentCardIndex, setCurrentCardIndex] = useState(0);
   const [isRevealed, setIsRevealed] = useState(false);
@@ -147,5 +147,6 @@ export function useFlashcardSession(deck) {
     currentCardIndex,
     queueLength: queue.length,
     deckProgress,
+    resetProgress,
   };
 }

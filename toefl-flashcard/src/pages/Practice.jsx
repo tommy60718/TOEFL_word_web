@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import Flashcard from '../components/Flashcard';
 import ProgressBar from '../components/ProgressBar';
 import DeckListModal from '../components/DeckListModal';
+import ResetDeckModal from '../components/ResetDeckModal';
 import { useFlashcardSession } from '../hooks/useFlashcardSession';
 import wordsData from '../data/words.json';
 
@@ -11,6 +12,7 @@ export default function Practice() {
   const navigate = useNavigate();
   const [deck, setDeck] = useState(null);
   const [showListModal, setShowListModal] = useState(false);
+  const [showResetModal, setShowResetModal] = useState(false);
 
   const {
     currentCard,
@@ -21,6 +23,7 @@ export default function Practice() {
     markAsUnknown,
     stats,
     deckProgress,
+    resetProgress,
   } = useFlashcardSession(deck);
 
   useEffect(() => {
@@ -54,6 +57,12 @@ export default function Practice() {
             className="text-white text-sm font-medium bg-white/15 hover:bg-white/25 px-4 py-2 rounded-lg backdrop-blur-sm transition-colors border border-white/20"
           >
             📋 See the list
+          </button>
+          <button
+            onClick={() => setShowResetModal(true)}
+            className="text-white text-sm font-medium bg-red-600/50 hover:bg-red-600 px-4 py-2 rounded-lg backdrop-blur-sm transition-colors border border-red-400/30"
+          >
+            🔄 Reset
           </button>
           <div className="text-white text-sm font-medium flex items-center gap-2 bg-white/10 px-4 py-2 rounded-lg backdrop-blur-sm">
             <span>🔀</span> Unknown words reappear later
@@ -121,6 +130,17 @@ export default function Practice() {
         onClose={() => setShowListModal(false)}
         deck={deck}
         deckProgress={deckProgress}
+      />
+
+      {/* Reset Deck Modal */}
+      <ResetDeckModal
+        isOpen={showResetModal}
+        onClose={() => setShowResetModal(false)}
+        deckName={deck?.name || 'Deck'}
+        onConfirm={async () => {
+          await resetProgress();
+          navigate('/');
+        }}
       />
     </div>
   );
