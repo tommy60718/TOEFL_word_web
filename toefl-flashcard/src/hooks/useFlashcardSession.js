@@ -111,10 +111,17 @@ export function useFlashcardSession(deck) {
     let newQueue = [...queue];
 
     if (result === 'unknown') {
-      // Reinsert unknown word after ~5 cards
-      const insertPosition = Math.min(currentCardIndex + 5, newQueue.length);
-      newQueue.splice(currentCardIndex, 1);
-      newQueue.splice(insertPosition, 0, currentWordId);
+      // Remove unknown word from current position
+      newQueue = newQueue.filter(id => id !== currentWordId);
+      
+      // Reinsert at random position in latter half of the deck
+      // This makes unknown words reappear much later
+      const queueLength = newQueue.length;
+      const minPosition = Math.ceil(queueLength * 0.6); // Start from 60% through the deck
+      const maxPosition = Math.ceil(queueLength * 0.95); // Up to 95% through the deck
+      const randomPosition = Math.floor(Math.random() * (maxPosition - minPosition + 1)) + minPosition;
+      
+      newQueue.splice(randomPosition, 0, currentWordId);
     } else {
       // Remove mastered word from queue
       newQueue = newQueue.filter(id => id !== currentWordId);
